@@ -1,0 +1,457 @@
+{
+  "answer": "Media broadcasters, newsreaders, and podcasters employ distinct vocal styles and prosodic strategies to capture and maintain listener attention [1, 2]. Rather than relying on raw loudness or artificial enthusiasm, the literature demonstrates that sustained audience engagement relies on **acoustic contrast, conversational intimacy, and dynamic pacing** [3-5].\n\n---\n\n### 1. Newsreaders: Traditional \"Broadcast Style\" vs. Narrative (\"NPR-Style\") Delivery\nNewsrooms historically relied on a standardized **\"Broadcast Style\" (BS)**, but psychophysiological research shows that a story-driven **\"Narrative Style\" (NS)**—often associated with NPR-style journalism—is significantly more effective at holding attention [2, 5, 6]:\n\n* **The Traditional \"Broadcast Style\" (BS)**: Characterized by a high pitch level, a compressed/narrow pitch range, a fast speech rate (~200 wpm), and a repetitive, circumflex (\"sing-song\") intonation contour [7-10].\n  * *Effect on Attention*: While intended to sound energetic, heart-rate deceleration and skin-conductance tracking reveal that the repetitive cadence of BS causes **sensory adaptation and acoustic fatigue**, leading to reduced cognitive resource allocation and lower emotional arousal over time [11, 12].\n* **The Narrative / \"NPR\" Style (NS)**: Uses a moderate speech rate (~175 wpm), an expanded pitch range (e.g., 19.18 semitones vs. 14.32 semitones in BS), and irregular intonation tailored directly to the semantic meaning of the text [5, 6, 10, 13].\n  * *Effect on Attention*: NS triggers a true **orienting response** (measured via a U-shaped cardiac deceleration) and sustains sympathetic nervous system arousal [11, 14, 15]. The unexpected acoustic contrast re-engages the listener's brain continuously [15].\n* **Source**: *Rodero & Cores-Sarría (2021)* (\"Best Prosody for News: A Psychophysiological Study Comparing a Broadcast to a Narrative Speaking Style\") [2].\n\n---\n\n### 2. Podcasters: \"Emotional Volatility\" & Dynamic Prosodic Contours\nUnlike traditional radio, podcasts function as linear narratives consumed in highly personal environments (e.g., headphones, commuting) [16-18]:\n\n* **Moving Beyond \"Average\" Voice Traits**: Machine learning models analyzing podcast engagement demonstrate that static, average voice traits (overall average pitch or tempo) explain very little audience engagement (\\\\(R^2 = 0.06\\text{--}0.07\\\\)) [19-21].\n* **Dynamic Prosodic Contours**: High audience engagement is driven by **emotional volatility**—modulating pitch, articulation rate, and timbre across specific narrative segments (e.g., Q1 through Q4 of an episode) [17, 22, 23].\n* **Hypothesis-Testing in the Brain**: Presenters hold attention when they pair words of *surprise* or *anticipation* with specific prosodic shifts (such as expanding pitch variability or accelerating tempo in opening or closing segments) [24-26]. This acoustic shift acts as a trigger that prompts the listener's brain to form and test expectations about what comes next [26, 27].\n* **Source**: *Sharma & Verbeke (2024)* (\"Influence of gender dimorphism on audience engagement in podcasts\", *Frontiers in Communication*) [28, 29].\n\n---\n\n### 3. Radio Hosts & Audio Presenters: Intimacy, Quiet Volume, and \"Calm\" Delivery\n* **The \"One-on-One\" Intimacy Principle**: Radio and podcasting are intimate, solitary media [30, 31]. Projecting or shouting at the microphone (\"sodcasting\") pushes listeners away [3].\n* **Dropping Volume to Heighten Attention**: Pulling back to a quiet, conversational volume or near-whisper forces listeners to lean in and pay closer attention, creating emotional tension and intimacy [3, 4, 32].\n* **The Power of \"Calm\" Performance**: Intercultural radio studies show that listeners overwhelmingly prefer a **calm speech style** (lower pitch, softer/breathier voice quality, unvoiced micro-pauses) over an aggressive, high-arousal \"hard-sell\" style, which listeners rate as annoying and intrusive [33-36].\n* **Sources**: *Altrov et al. (2023)* (\"Radio advertisement speech style preferences among listeners...\"); *Julian Treasure TED Talk*; *Edge Studio Performance Guidebook* [37-39].\n\n---\n\n### 4. Cadence, Micro-Pauses, and Phrasing\n* **Strategic Micro-Pauses**: Pauses are not \"dead air\"—they serve as crucial cognitive processing windows that allow listeners to consolidate \"idea units\" [4, 40]. Inserting strategic 200–300 ms pauses at major syntactic boundaries prevents cognitive overload and maintains narrative recall without slowing the overall momentum [12, 40, 41].\n* **Avoiding Choppiness & Repetitive Inflection**: Untrained readers often introduce \"choppiness\" by adding artificial dramatic pauses or dropping sentence-ending pitch (\"dropping the ends\") [42-44]. Professional hosts maintain a natural flow by using contractions, varying sentence tempo, and treating key phrases as unified thoughts [42, 45-47].\n* **Sources**: *PMC Pauses Literature*; *Edge Studio Performance Guidebook*; *Topher Keene Three-P Framework* [4, 39, 40].\n\n---\n\n🎙️ Would you like to create a tailored studio checklist or script-annotation guide incorporating these broadcasting and podcasting techniques?",
+  "conversation_id": "880b673b-cab4-488f-b8ec-d2bfbfb1f949",
+  "sources_used": [
+    "6365f668-4666-4e49-b577-78b124b47a16",
+    "73e8c99b-7c1e-461a-baf7-bca77d4591eb",
+    "e86ce354-abd6-4a02-b628-35704c487308",
+    "05ca0ea0-e166-4d42-8a63-8bdf1dfccf76",
+    "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "767c5034-d6bd-4eed-831f-9ac71335ab6d",
+    "c5a01fe2-d5b8-4434-896b-b693c34e42a3",
+    "40c74934-888f-4a9d-9a63-98aea40d2c8e"
+  ],
+  "citations": {
+    "1": "6365f668-4666-4e49-b577-78b124b47a16",
+    "2": "73e8c99b-7c1e-461a-baf7-bca77d4591eb",
+    "3": "e86ce354-abd6-4a02-b628-35704c487308",
+    "4": "05ca0ea0-e166-4d42-8a63-8bdf1dfccf76",
+    "5": "73e8c99b-7c1e-461a-baf7-bca77d4591eb",
+    "6": "73e8c99b-7c1e-461a-baf7-bca77d4591eb",
+    "7": "73e8c99b-7c1e-461a-baf7-bca77d4591eb",
+    "8": "73e8c99b-7c1e-461a-baf7-bca77d4591eb",
+    "9": "73e8c99b-7c1e-461a-baf7-bca77d4591eb",
+    "10": "73e8c99b-7c1e-461a-baf7-bca77d4591eb",
+    "11": "73e8c99b-7c1e-461a-baf7-bca77d4591eb",
+    "12": "73e8c99b-7c1e-461a-baf7-bca77d4591eb",
+    "13": "73e8c99b-7c1e-461a-baf7-bca77d4591eb",
+    "14": "73e8c99b-7c1e-461a-baf7-bca77d4591eb",
+    "15": "73e8c99b-7c1e-461a-baf7-bca77d4591eb",
+    "16": "6365f668-4666-4e49-b577-78b124b47a16",
+    "17": "6365f668-4666-4e49-b577-78b124b47a16",
+    "18": "6365f668-4666-4e49-b577-78b124b47a16",
+    "19": "6365f668-4666-4e49-b577-78b124b47a16",
+    "20": "6365f668-4666-4e49-b577-78b124b47a16",
+    "21": "6365f668-4666-4e49-b577-78b124b47a16",
+    "22": "6365f668-4666-4e49-b577-78b124b47a16",
+    "23": "6365f668-4666-4e49-b577-78b124b47a16",
+    "24": "6365f668-4666-4e49-b577-78b124b47a16",
+    "25": "6365f668-4666-4e49-b577-78b124b47a16",
+    "26": "6365f668-4666-4e49-b577-78b124b47a16",
+    "27": "6365f668-4666-4e49-b577-78b124b47a16",
+    "28": "6365f668-4666-4e49-b577-78b124b47a16",
+    "29": "6365f668-4666-4e49-b577-78b124b47a16",
+    "30": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "31": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "32": "767c5034-d6bd-4eed-831f-9ac71335ab6d",
+    "33": "c5a01fe2-d5b8-4434-896b-b693c34e42a3",
+    "34": "c5a01fe2-d5b8-4434-896b-b693c34e42a3",
+    "35": "c5a01fe2-d5b8-4434-896b-b693c34e42a3",
+    "36": "c5a01fe2-d5b8-4434-896b-b693c34e42a3",
+    "37": "c5a01fe2-d5b8-4434-896b-b693c34e42a3",
+    "38": "e86ce354-abd6-4a02-b628-35704c487308",
+    "39": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "40": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+    "41": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "42": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "43": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "44": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "45": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "46": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "47": "d56ce0a6-390a-4012-a26b-1a32d2353e26"
+  },
+  "references": [
+    {
+      "source_id": "6365f668-4666-4e49-b577-78b124b47a16",
+      "citation_number": 1,
+      "cited_text": "It is unclear about how these affective linguistic and paralinguistic features can interact collectively to influence the impact of online verbal communication. This aspect is particularly relevant in the context of podcasts, the primary communication channel investigated in this study. 1.1 Purpose of the study The current study builds upon existing research into automated text analysis by focusing on both the affective linguistic and paralinguistic features of communication. We explore the interaction effects of these features on communication messages, specifically within the dynamic context of emphatic accents and prosodic episodes or contours. Emphatic accents refer to the production of speech sounds that emphasize certain words or phrases ( Novák-Tót et al., 2017 ), while prosodic episodes or contours describe broader patterns and variations in speech over time that segment speech to convey specific meanings and emotions ( Bänziger and Scherer, 2005 ). In this context, we refer to these paralinguistic terms collectively as “prosodic contours.” By leveraging both these affective linguistic and paralinguistic features, we propose that podcast presenters can significantly enhance their impact, allowing presenters to convey their intentions and key messages more compellingly. Moreover, incorporating affective speech features into specific fragments of a speech not only prevents monotony but also highlights certain parts as more or less prominent or surprising. This adds emotional volatility to the message and thereby enhances audience engagement ( Berger, 2023 ; Berger et al., 2021 ). The careful segmentation of speeches, a characteristic of charismatic leaders' speeches ( Niebuhr et al., 2016 ), exemplifies this approach."
+    },
+    {
+      "source_id": "73e8c99b-7c1e-461a-baf7-bca77d4591eb",
+      "citation_number": 2,
+      "cited_text": "Best Prosody for News: A Psychophysiological Study Comparing a Broadcast to a Narrative Speaking Style Emma Rodero1*  and Lucía Cores-Sarría2* Abstract Studies in different languages have identified a broadcast speaking style, a particular manner that broadcasters have of reading news. This speaking style is characterized by an emphatic intonation with a fast speech rate easily recognizable by listeners. Some authors have stated that messages in this style are not positively perceived by listeners, as it is repetitive and regular, but there is no empirical data to support this conclusion, nor has the style been analyzed with physiological measures. The physiological approach has some advantages, such as a more objective assessment and real-time evaluation. Therefore, this study aims to analyze the effectiveness, adequacy, and physiological response of this broadcast style compared to a narrative pattern. We combined self-report with physiological measures. Fifty-six participants listened to six news pieces in both styles and with two voices, male and female. They had to rate the effectiveness and adequacy of the news while we measured their physiological responses (heart rate and electrodermal activity). The results showed that news conveyed through the broadcast style elicited less cognitive resource allocation and emotional arousal than the narrative pattern, but there were no significant differences in self-report evaluations."
+    },
+    {
+      "source_id": "e86ce354-abd6-4a02-b628-35704c487308",
+      "citation_number": 3,
+      "cited_text": "So, slightly different meaning\nin those two deliveries. And finally, volume. (Loud) I can get really excited\nby using volume. Sorry about that, if I startled anybody. Or, I can have you really pay attention\nby getting very quiet. Some people broadcast the whole time. Try not to do that. That's called sodcasting, (Laughter) Imposing your sound on people around you\ncarelessly and inconsiderately. Not nice. Of course, where this all comes\ninto play most of all is when you've got something\nreally important to do."
+    },
+    {
+      "source_id": "05ca0ea0-e166-4d42-8a63-8bdf1dfccf76",
+      "citation_number": 4,
+      "cited_text": "The pause isn't dead air. It's the character thinking, deciding, processing. The audience watches that thinking happen and gets pulled in. Projection: Loud and Quiet Projection is your volume level. And like the other two Ps, the issue most voice actors have is that they stay at one volume for the whole performance. Real performances build and pull back constantly. A line might start at conversational volume, build through a sequence of escalating sentences, peak at a near-shout, and then pull back to an intimate whisper for the final beat. That kind of dynamic shape is what makes performances feel cinematic instead of flat."
+    },
+    {
+      "source_id": "73e8c99b-7c1e-461a-baf7-bca77d4591eb",
+      "citation_number": 5,
+      "cited_text": "In any case, despite it being more strongly associated with broadcast news, people did not evaluate this style more positively overall, so the narrative style must have also had some advantages that led to an equally positive evaluation. One of its main strengths is that it adjusts the prosody features to the content, making sense of the information. More than using a mechanical way to speak reading news, the narrative style tries to tell the stories and explain the information. Instead of relying on a regular and overemphatic intonation, this style changes depending on the type of information transmitted. Therefore, it sounds more natural, although also possibly more unexpected in the context of broadcast news. Another advantage is that this pattern"
+    },
+    {
+      "source_id": "73e8c99b-7c1e-461a-baf7-bca77d4591eb",
+      "citation_number": 6,
+      "cited_text": "Given that most people use different news outlets to keep themselves informed and that this information is conveyed by voices using the broadcast style, it is essential to know whether it is adequate for information processing. As a follow-up on the study by Escudero et al. (2017), where the purpose was simply to test if participants could accurately recognize the radio style as such, we will compare the broadcast style to a narrative pattern, examining the perceived effectiveness and adequacy of these different patterns as well as their impact on the individuals’ automatic responses to message processing. Compared to the regular and emphatic intonation of the broadcast style, the narrative style is a more expressive and natural way to speak. This pattern is characterized by a more varied intonation, moderate pitch inflections, and a more reduced speech rate, which should sound more like interpreted reading. Therefore, the goal of this study is to compare two different speaking styles, the typical and most common broadcast style (BS) and a narrative style (NS), more similar to reading a story, to determine which one elicits higher resource allocation, a stronger emotional response, and is perceived as more effective and adequate. The contribution of this study will be twofold. First, it aims to make a theoretical contribution to the study of speech processing in the specific context of broadcast news prosody. Second, our findings may have practical implications for the media industry by recommending what style is more effective for conveying the news."
+    },
+    {
+      "source_id": "73e8c99b-7c1e-461a-baf7-bca77d4591eb",
+      "citation_number": 7,
+      "cited_text": "Related to intonation, some studies have characterized the prosodic characteristics of the broadcast style used by radio and television journalists. Cotter (1993) defined the newscasters’ style as having higher pitch and higher variability than normal conversation. Diniz (2002) compared professional and nonprofessional voiceovers and characterized the professional voiceover style as having an upward and downward intonation, high pitch level, and emphatic elements. Medrado et al. (2005) observed that professionals use a higher pitch than nonprofessionals. Strangert (2005) analyzed the television newscasters’ style and concluded that these professionals employ a high pitch level. Grawunder et al. (2008) reached a similar conclusion in the context of German news, pointing out that newscasters and reporters use a distinctive style characterized by significant pitch variation and a broad pitch range. A circumflex and emphatic intonation (up and down continuous movements at regular intervals) at the beginning, in the middle, and at the end of the sentences was detected as predominant in another study looking at television newscasting (Rodero, 2006). Similar conclusions were obtained by Price (2008), who characterized the style as exhibiting hyper accentuation, exaggerated pitch, and abuse of pitch prominence, that is, as an emphatic style with abrupt pitch variations and accents. In the same line, Francuz (2010), in an analysis of television news, showed that newscasters tend to use many rhetorical accents. Similarly, De La-Mota and Rodero (2012) examined radio news bulletins and concluded that broadcasters use an emphatic style with circumflex intonation. The same circumflex pattern was also identified by García-Riverón and Marrero (2017) and Gasser et al. (2019). This intonation generates a regular and constant melody with a compressed pitch range (Cotter, 1993; McGregor & Palethorpe, 2008; Nihalani & Lin, 1998). A study examining 24 radio news bulletins confirmed the presence of a regular intonation with an abundance of circumflex contours sustained by a high pitch level (Rodero Antón, 2013). Mok et al. (2014) added greater pitch variability to these"
+    },
+    {
+      "source_id": "73e8c99b-7c1e-461a-baf7-bca77d4591eb",
+      "citation_number": 8,
+      "cited_text": "elements when they compared newscasters with students reading aloud. Finally, Nissen et al. (2020) compared broadcasters with the general population and found that professionals exhibit an elevated mean pitch, more pitch variability, and a wider range. In sum, a large body of research has characterized the prosodic style typically used by news broadcasters as having a high pitch level and regular and emphatic intonation. Speech Rate Speech rate, a suprasegmental linguistic feature like intonation, is determined by both pauses and speaking rate. It can be defined as the rhythm or pace that a speaker uses when speaking, and it is usually measured in words per minute (wpm) or syllables per minute (Martins et al., 2007). This study will focus on speech rate alone quantified in words per minute, not on pauses. Greenwald et al. (2000) have estimated the regular speaking rate in adults ranging between 110 and 175 wpm. In general, the media problem (news and advertising) is that the speech rate tends to be fast and has short pauses (Castro et al., 2010; Cotter, 1993). For instance, Shevchenko and Uglova (2006) registered an average speech rate for English TV news at 207 wpm, Mok et al. (2014) found a fast speech rate in Cantonese news, Castro et al. (2010) in Portuguese newscasters, and Finkelstein and Amir (2013) in Hebrew professional radio."
+    },
+    {
+      "source_id": "73e8c99b-7c1e-461a-baf7-bca77d4591eb",
+      "citation_number": 9,
+      "cited_text": "The general pitch level was slightly higher in BS (7.42 ST) than in NS (5.04 ST), with no significant differences (F(1, 23) = 2.34, p = .140). However, the differences were clear among styles for speakers. The male speaker’s pitch level was higher in BS (3.75 ST) than NS (1.44 ST), with significant differences (F(1, 11) = 171.16, p < .001). In the female speaker, BS (11.09 ST) also was higher than in NS (8.63 ST), with sig- nificant differences (F(1, 11) = 597.18, p < .001). Finally, in the BS news, broadcasters used a more emphatic style than the smoother NS style. We measured the number of highest pitch prominences in both patterns: more than 7.03 ST in the male voice and 12.05 ST in the female voice. Therefore, the differences between the two styles were acoustically perceptible. There was an average of 15 peaks in each message in the BS while, in the NS, there were 8.9, with sig- nificant differences, F(1, 11) = 57.52, p < .001. The sing-song regular or circumflex intonation was easily perceived in the BS with continuous pitch prominences or peaks that produced the regular melody while, in the NS condition, the intonation did not maintain a regular sing-song pattern."
+    },
+    {
+      "source_id": "73e8c99b-7c1e-461a-baf7-bca77d4591eb",
+      "citation_number": 10,
+      "cited_text": "In sum, there were clear acoustic differences between both styles that characterized the NS as more moderate and expressive than the more emphatic BS. Figure 1 shows an example of the intonation in the different styles and both speakers. The other notable difference between the two styles was speech rate. According to the main characteristics of the broadcast news style, BS news pieces were faster than news in the NS. All the news pieces in BS spanned an average of 18 seconds, while in the NS condition, they were an average of 21 seconds despite the word count being the same. The news was conveyed at a rate of 200 wpm in BS, while NS’s speech rate was 175 wpm."
+    },
+    {
+      "source_id": "73e8c99b-7c1e-461a-baf7-bca77d4591eb",
+      "citation_number": 11,
+      "cited_text": "main effect of condition on SCL (p = .17), but a significant interaction between condition and linear time (b = 0.038, t(5221.03) = 4.57, p < .0001). As shown in the right panel of Figure 2, messages in both prosody conditions exhibited a similar rise in SCL following message onset, but SCL started decaying after peaking for the BS condition, while for the NS condition, SCL stayed high throughout the message. A post hoc comparison between the time slopes of the two conditions confirmed that they were sig- nificantly different from each other (b = −0.076, t(5221) = −4.57, p < .0001). Thus, H3 was supported, with messages in the BS exhibiting lower SCL than the NS, indicative of a less intense emotional response."
+    },
+    {
+      "source_id": "73e8c99b-7c1e-461a-baf7-bca77d4591eb",
+      "citation_number": 12,
+      "cited_text": "uses an expanded pitch range and a slower speech rate, prosody characteristics that have been shown to be beneficial for cognitive processing (Rodero, 2020; Rodero et al., 2017). For the aforementioned reasons, when it came to listeners engaging in conscious evaluation, the narrative style managed to fare equally well as the more familiar broadcast style. In contrast, the results of the psychophysiological analyses draw a much clearer picture. On the one hand, the broadcast style’s prosody configuration, with a repetitive pattern, compressed pitch range, and fast speech rate, lost participants’ attention throughout the news pieces and led to significantly lower emotional arousal than the narrative pattern. This result is logical considering that this prosody configuration was regular, which could have easily caused fatigue in the listeners. Additionally, the faster speech rate would have increased the difficulty of being engaged and maintaining attention throughout the message. Lastly, this style was not unexpected or new for participants, so novelty did not additionally facilitate automatic resource allocation and emotional arousal, while it could have played a role in the narrative style."
+    },
+    {
+      "source_id": "73e8c99b-7c1e-461a-baf7-bca77d4591eb",
+      "citation_number": 13,
+      "cited_text": "In the BS style, the pitch range was expanded while it was compressed in the NS. In the analysis, the general pitch range was higher in the NS (19.18 semitones) than in the BS (14.32 semitones) with significant differences, F(1, 23) = 5.38, p = .030. The female broadcaster had a higher pitch range in the NS (23.33 ST) compared to BS (18.94 ST), with significant differences (F(1, 11) = 6.20, p = .032). The male speaker also had a higher pitch range in the NS (15.02 ST) than in BS (9.71 ST), with signifi- cant differences (F(1, 11) = 39.85, p < .001)."
+    },
+    {
+      "source_id": "73e8c99b-7c1e-461a-baf7-bca77d4591eb",
+      "citation_number": 14,
+      "cited_text": "Hypothesis 2 predicted the news conveyed in BS, compared to NS, would elicit less cognitive resource allocation, as indicated by more cardiac acceleration. This hypothesis was tested with a cross-classified model with random intercepts for both subject and news message, condition random slopes for both random intercepts, and a time random slope for subject (see Table 1). The main effect of prosody condition on HR was not significant (p = .75) but there was an interaction between condition and the quadratic time term (b = 0.22, t(5236.6) = 2.26, p = .024). Post hoc comparisons of the time trends revealed that the effect of quadratic time was different across the two pros- ody conditions (b = −0.45, t(5237) = −2.26, p = .02). Specifically, there was an effect of quadratic time on HR for the NS condition (b = 0.43, p = .003) but not for the BS condition, (b = −0.02, p = .86). As it can be seen in the left panel of Figure 2, heart rate for messages in NS followed a U-shaped deceleratory trend characteristic of an orienting"
+    },
+    {
+      "source_id": "73e8c99b-7c1e-461a-baf7-bca77d4591eb",
+      "citation_number": 15,
+      "cited_text": "On the other hand, the narrative style elicited more cognitive resource allocation and emotional arousal than the broadcast style, as indicated by a more pronounced cardiac deceleration and higher electrodermal activity. These findings are likely due to two factors: its prosody configuration and its novelty level. First, the pattern of the narrative style had an expanded pitch range, with no repetitive intonation movements and moderate use of emphasis, so it was effective in grabbing the listeners’ attention, according to research conducted in advertising (Rodero et al., 2017). Unlike the broadcast style, pitch variations in the narrative style molded to the message’s content, avoiding a regular pattern, which helped maintain the listeners’ attention throughout the message. Additionally, the moderate speech rate was likely another contributor to easier cognitive processing (Rodero, 2020). Along with prosody configuration, another critical factor in interpreting the physiological results is the fact that the narrative style is not habitual in the news. Novelty could have played a decisive role in triggering an orienting response, eliciting more cognitive resource allocation and higher emotional activation (Lang, 2000, 2006; Potter, 2000; Potter et al., 2008). Thus, the narrative style’s prosodic configuration facilitated greater engagement of listeners with the message than the broadcast style, as shown by higher attention and stronger emotional response."
+    },
+    {
+      "source_id": "6365f668-4666-4e49-b577-78b124b47a16",
+      "citation_number": 16,
+      "cited_text": "We also consider the potential impact of podcast length on audience engagement, as previous research suggests that the length of a podcast can influence audience responses ( Jeon et al., 2019 ; Cosimini et al., 2017 ; Chan-Olmsted and Wang, 2022 ). Given that audiences often multitask while listening to podcasts ( Perks et al., 2019 ), the length of a podcast must be considered as it may affect the listener's willingness to engage with longer content. In the sections that follow, we first present a review of existing text analysis research and how affective linguistic and paralinguistic features shape the impact of communication messages. In the next section, we discuss major gaps in existing research on communication message effectiveness and outline how we intend to address them."
+    },
+    {
+      "source_id": "6365f668-4666-4e49-b577-78b124b47a16",
+      "citation_number": 17,
+      "cited_text": "We examined the dynamic affective linguistic and paralinguistic features based on the underlying assumption that these TEDx podcasts function as narratives with a beginning, middle, and end. This narrative structure potentially enhances listener interest and persuasiveness while also preventing monotony ( Van Krieken et al., 2015 ) and adding emotional volatility to the podcast ( Berger et al., 2021 ). As suggested by Dowling and Miller (2019) , podcasts can be viewed as cultural products of public radio and immersive online storytelling, which often employ narrative techniques. Similarly to musical compositions, podcasts adhere to a “podcast logic” and are consumed linearly, with a structured beginning, middle, and end. This helps to maintain listener engagement (adapted from Lindgren, 2023 , p. 704). In literary terms, this narrative structure is frequently referred to as a plot, and many podcast presenters employ scripted storytelling ( Sotério and Linhares Queiroz, 2023 ). It is important to note that our identification of a “plot structure” is an interpretive assumption based on our being “participant listeners,” so to state, while listening to a sample TEDx podcast used in the study. However, we employed a coarse-grained approach by segmenting the podcasts into equal-time episodes to investigate the temporal disparities of the affective linguistic and paralinguistic features. These features, which we have termed dynamic prosodic contours or episodes, were analyzed to discern nuanced patterns or emotional volatility. These contours specifically accentuate certain affective linguistic or paralinguistic dimensions, for instance, at the beginning (e.g., Q1) or toward the end (e.g., Q4)."
+    },
+    {
+      "source_id": "6365f668-4666-4e49-b577-78b124b47a16",
+      "citation_number": 18,
+      "cited_text": "Two final thoughts. As observant readers may have noticed, the length of the podcasts in most models presented in this study influenced audience engagement. Given that these TEDx podcasts are consumed in diverse settings—such as during leisure, travel, or while performing chores—it is crucial that the content or segments of the podcast are appropriately timed to align with the specific durations and motivations of the audience, whether these are brief or extended. Consequently, further research is warranted to investigate the impact of podcast length on audience engagement in the specific contexts in which they are consumed."
+    },
+    {
+      "source_id": "6365f668-4666-4e49-b577-78b124b47a16",
+      "citation_number": 19,
+      "cited_text": "3.1 Average affective linguistics and paralinguistic models Model 1: The average affective linguistics model was constructed by incorporating variables such as podcast length, gender, and affective linguistic features as predictors. The adjusted R 2 was 0.06 with a p -value of 0.02. Focusing on the most significant regression coefficients, Table 4 and Figure 3 show that especially fear (coefficient: −0.42, p > 0.02) and total sentiment scores (coefficient: −0.49, p > 0.01) had negative effects on audience engagement. Word count (coefficient: 0.34, p > 0.12) and anticipation (coefficient: 0.29, p > 0.06) had positive effects."
+    },
+    {
+      "source_id": "6365f668-4666-4e49-b577-78b124b47a16",
+      "citation_number": 20,
+      "cited_text": "Table 5 <cited_table> Model 2 linguistic and paralinguistic average. Figure 4 Model 2: linguistics and paralinguistics average. The conclusion from model 2 is that (a) not much explained variance is added compared to model 1, but that (b) some average paralinguistic features become significant variables.",
+      "cited_table": {
+        "num_columns": 3,
+        "rows": [
+          [
+            "Variable",
+            "Coefficients",
+            "p"
+          ],
+          [
+            "Intercept",
+            "0.00",
+            "0.92"
+          ],
+          [
+            "Timbre",
+            "1.15",
+            "0.07"
+          ],
+          [
+            "Word Count",
+            "0.68",
+            "0.02"
+          ],
+          [
+            "Anticipation",
+            "0.30",
+            "0.05"
+          ],
+          [
+            "Positive Words Percentage",
+            "0.27",
+            "0.05"
+          ],
+          [
+            "Surprise",
+            "0.26",
+            "0.06"
+          ],
+          [
+            "Gender",
+            "−0.07",
+            "0.55"
+          ],
+          [
+            "Max. Intonation",
+            "−0.22",
+            "0.15"
+          ],
+          [
+            "Articulation Rate",
+            "−0.24",
+            "0.13"
+          ],
+          [
+            "Podcast Length",
+            "−0.30",
+            "0.33"
+          ],
+          [
+            "Number of Pauses",
+            "−0.36",
+            "0.15"
+          ],
+          [
+            "Fear",
+            "−0.46",
+            "0.13"
+          ],
+          [
+            "Total Sentiment Score",
+            "−0.55",
+            "0.01"
+          ],
+          [
+            "Intonation q25",
+            "−0.81",
+            "0.19"
+          ]
+        ]
+      }
+    },
+    {
+      "source_id": "6365f668-4666-4e49-b577-78b124b47a16",
+      "citation_number": 21,
+      "cited_text": "Table 11 summarizes the overall statistics of the different models and indeed shows according to the conjectures made that: (1) average affective linguistic and paralinguistic features show low predictive value; (2) by adding the dynamic interaction effects of affective linguistic and paralinguistic features, more variance in audience engagement is explained; and (3) when segmenting by the gender of the podcast presenter, even more variance is explained. Table 11 <cited_table>",
+      "cited_table": {
+        "num_columns": 7,
+        "rows": [
+          [
+            "Model",
+            "Residual standard error",
+            "Degree of freedom",
+            "Multiple R squared",
+            "Adjusted R squared",
+            "F-statistic",
+            "p-"
+          ],
+          [
+            "Model 1 Linguistic- Average",
+            "1.499",
+            "173",
+            "0.101",
+            "0.059",
+            "2.429",
+            "0.02"
+          ],
+          [
+            "Model 2 Linguistic and Paralinguistic Average",
+            "1.489",
+            "168",
+            "0.139",
+            "0.073",
+            "2.090",
+            "0.02"
+          ],
+          [
+            "Model 3 Linguistic Dynamic",
+            "1.365",
+            "153",
+            "0.341",
+            "0.221",
+            "2.829",
+            "0.00"
+          ],
+          [
+            "Model 4 Linguistic and Paralinguistic Dynamic",
+            "1.327",
+            "150",
+            "0.389",
+            "0.263",
+            "3.078",
+            "0.00"
+          ],
+          [
+            "Model 5 Linguistics and Paralinguistic and Dynamic Interactions",
+            "1.220",
+            "156",
+            "0.463",
+            "0.377",
+            "5.378",
+            "0.00"
+          ],
+          [
+            "Model 6 Linguistics and Paralinguistics Dynamic Interactions: Female",
+            "1.094",
+            "89",
+            "0.589",
+            "0.501",
+            "6.706",
+            "0.00"
+          ],
+          [
+            "Model 7 Linguistics and Paralinguistics Dynamic Interactions: Male",
+            "0.809",
+            "43",
+            "0.838",
+            "0.729",
+            "7.669",
+            "0.00"
+          ]
+        ]
+      }
+    },
+    {
+      "source_id": "6365f668-4666-4e49-b577-78b124b47a16",
+      "citation_number": 22,
+      "cited_text": "Second, during podcasts, we explore the development of dynamic affective linguistic and paralinguistic markers. While existing text analysis tools have focused primarily on the average presence of (affective) linguistic and paralinguistic features in a speech or presentation, we investigate how episodic variations of these features across segments in a speech (e.g., at the beginning, end, or during periods of contrast) impact communication. Our approach, by examining the dynamic interaction between affective linguistic and paralinguistic features over time, provides higher granularity in data analysis, offering insights into how podcast presenters can more effectively craft their narratives so as to add emotional volatility and increase audience engagement ( Berger et al., 2021 )."
+    },
+    {
+      "source_id": "6365f668-4666-4e49-b577-78b124b47a16",
+      "citation_number": 23,
+      "cited_text": "In speech, particularly when conveying verbal messages, avoiding monotony and accentuating specific implications beyond words is crucial. Podcast presenters, therefore, infuse their messages with prosodic contours and episodes to enhance communication effects ( Bänziger and Scherer, 2005 ). Prosodic contours and episodes in communication represent the dynamic expression and variation of emotions or emphasis throughout a message segment. This involves, among other things, modulating vocal elements such as tone, pitch, rhythm, volume, and articulation rate (or tempo) to express varied emotions and emphasize specific key points. In this study, when referring to using affective linguistic and paralinguistic features over the total podcast length, we refer to “average” features. And, when referring to features or markers across specific segments in the podcast narrative, we refer to “dynamic” or “granular” linguistic and paralinguistic features that accentuate specific sequences. Hence, we propose the following conjecture:"
+    },
+    {
+      "source_id": "6365f668-4666-4e49-b577-78b124b47a16",
+      "citation_number": 24,
+      "cited_text": "Model 3 linguistic dynamic. Figure 5 Model 3: linguistics dynamic. Model 4, which adds the Average and Dynamic Affective Linguistics and Paralinguistic features to the podcast, explains more variance than models 1, 2, and 3, as it achieved an adjusted R 2 of 0.26 with a p -value of 0.00. The model shown in Table 7 and Figure 6 illustrates yet another different variety in predictive variables explaining audience engagement that are predominantly dynamic paralinguistic features. Especially salient is that timbre Q3 (coefficient: 6.01, p > 0.01), timbre Q2 (coefficient: 3.65, p > 0.05), intonation Q1 q75 (coefficient: 2.91, p > 0.05), the number of syllables (coefficient: 2.91, p > 0.00), and speak length (coefficient: 1.43, p > 0.02) have positive effects on engagement. It is noteworthy that anticipation in general (coefficient: 1.49, p > 0.00), just like in the earlier models, has a positive effect on audience engagement. On the other hand, especially the more granular paralinguistic features, such as speak length Q3 (coefficient: −1.62, p > 0.01), a number of syllables Q1 (coefficient: −2.52, p > 0.00), Q2 intonation p75 (coefficient: −2.74, p > 0.07), Q3 intonation q25 (coefficient: −3.03, p > 0.00), Q1 timbre (coefficient: −3.10, p > 0.07), and Q1 intonation q75 (coefficient: −3.72, p > 0.02) show negative effects on engagement. It should be noted that only one general marker, the number of pauses (coefficient: −1.85, p > 0.01), has a negative effect on engagement."
+    },
+    {
+      "source_id": "6365f668-4666-4e49-b577-78b124b47a16",
+      "citation_number": 25,
+      "cited_text": "Model 4 linguistic and paralinguistic dynamic. Figure 6 Model 4: linguistics and paralinguistics dynamic. Conclusion about models 3 and 4: (a) as expected, the models explain more variance, and (b) it is quite interesting that dynamic or granular paralinguistic features become the predominant predictive features of audience engagement. 3.3 Dynamic affective linguistics and paralinguistic interaction effects In model 5 : Affective Linguistics and Paralinguistics: Dynamic interaction effects, including interaction terms allows for a more advanced analysis of how affective linguistic and paralinguistic features interact to influence audience engagement. Here more variance is explained compared to the earlier models 1, 2, 3, and 4. The adjusted R 2 is 0.38 with a p -value of 0.00. Surprisingly, as shown in Table 8 and Figure 7 , there is another set of predictive features or variables that explain audience engagement in a positive or negative way. First in predicting audience engagement, the interaction between Q1 surprise x Q1 intonation q75 is most significant (coefficient: 4.76, p > 0.00), and to a somewhat lesser extent, Q4 surprise x Q4 articulation rate (coefficient: 0.33, p > 0.00), Q1 negative x Q1 intonation q25 (coefficient: 0.29, p > 0.00), Q4 positive x Q4 articulation rate (coefficient: 0.28, p > 0.00), and Q4 anticipation x Q4 articulation rate (coefficient: 0.21, p > 0.04) are positively affecting audience engagement. However, the average or general paralinguistic feature, the number of syllables (coefficient: 2.63, p > 0.01) also positively affects engagement. Do the general affective linguistic features anticipation (coefficient: 0.51, p > 0.00) and surprise (coefficient: 0.34, p > 0.00) have positive effects? The positive effect of podcast length intonation is Q1 (coefficient: 1.55, p > 0.07)."
+    },
+    {
+      "source_id": "6365f668-4666-4e49-b577-78b124b47a16",
+      "citation_number": 26,
+      "cited_text": "It should be noted that in the model, additional average variables about the podcast, such as podcast length, average number of syllables, and articulation rate, also have positive effects on engagement, while the average number of pauses had negative effects on engagement. But we address this at the end of the Discussion section. Further explanation of how these dynamic prosodic markers influence engagement is warranted. Research into the interaction between speaker and listener aims to create a shared cognitive representation, which enables the listener during the podcast to make predictions or hypotheses about what was, is, and might be said ( Hasson et al., 2012 ; Huang et al., 2017 ). In this context, prosodic contours or episodes that elicit curiosity or surprise with varying intonations ( Rocklage and Fazio, 2020 ) or changes in the rate of speech at specific times ( Rizzo and Berger, 2023 ) may have the potential to increase audience engagement. We prefer to compare these prosodic contours to the keys of an organ, which, when activated during certain podcast episodes, allow the audience to verify or falsify their hypotheses or expectations. Similarly, Niebuhr et al. (2016) speak about the orchestration of prosodic features and Berger et al. (2021) speak about emotional volatility. In other terms, not the average prosodic markers matter but the variations being created during different episodes in the speech. Podcasts probably can be conceived as a form of “edutainment,” thus enhancing engagement ( Perks et al., 2019 ; Aksakal, 2015 ; Oslawski-Lopez and Kordsmeier, 2021 )."
+    },
+    {
+      "source_id": "6365f668-4666-4e49-b577-78b124b47a16",
+      "citation_number": 27,
+      "cited_text": "Although no gender disparities in podcast engagement were observed in our TEDx data, our study suggests that speech trainers or coaches working with both male and female speakers could improve training by focusing more on the use of dynamic or granular prosodic contours rather than on average paralinguistic markers. These techniques involve two primary strategies: (a) envisioning a well-defined plot or script to provide the speech structure, and (b) emphasizing specific points during a speech or creating more engaging episodes that incorporate both anticipation and surprise, thereby utilizing prosodic contours as triggers for hypothesis generation and testing by the audience."
+    },
+    {
+      "source_id": "6365f668-4666-4e49-b577-78b124b47a16",
+      "citation_number": 28,
+      "cited_text": "Submit manuscript Search Login ORIGINAL RESEARCH article Front. Commun., 26 September 2024 Sec. Language Communication Volume 9 - 2024 | https://doi.org/10.3389/fcomm.2024.1431264 ORIGINAL RESEARCH article Front. Commun., 26 September 2024 Sec. Language Communication Volume 9 - 2024 | https://doi.org/10.3389/fcomm.2024.1431264 Influence of gender dimorphism on audience engagement in podcasts: a machine learning analysis of dynamic affective linguistic and paralinguistic features A S Amita Sharma 1 W J Willem J. M. I. Verbeke 2 * Department of Operations Research & Quantitative Analysis, Institute of Agri-Business Management, Swami Keshwanand Rajasthan Agricultural University, Bikaner, India Erasmus University, Rotterdam, Netherlands"
+    },
+    {
+      "source_id": "6365f668-4666-4e49-b577-78b124b47a16",
+      "citation_number": 29,
+      "cited_text": "Summary Keywords affective linguistic, paralinguistic, podcasts, audience engagement, gender dimorphism Citation Sharma A and Verbeke WJMI (2024) Influence of gender dimorphism on audience engagement in podcasts: a machine learning analysis of dynamic affective linguistic and paralinguistic features. Front. Commun. 9:1431264. doi: 10.3389/fcomm.2024.1431264 Received 11 May 2024 Accepted 09 September 2024 Published 27 September 2024 Volume 9 - 2024 Edited by Fasih Haider, University of Edinburgh, United Kingdom"
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 30,
+      "cited_text": "Think about the application of the voice-over. For example: If the voice-over is for a visual (such as a documentary, children’s picture-book, etc.), then the delivery should be on the slower side. This is so the viewer has time to take in the visual as well as the audio.  But if there is no visual (as with a radio commercial, voice-mail, etc.), the delivery should be faster. This way it will not drag for the listener. To observe this, watch a  television documentary with your eyes closed. The voice-over will appear too slow. However, with your eyes opened, the speed will seem appropriate. A radio commercial will generally require more variety and energy than a television commercial. This is because the only thing on the radio commercial is the voice, as opposed to a television commercial, which has a visual to help hold the attention of the audience."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 31,
+      "cited_text": "In fact, although you are speaking as if to one individual, that individual might be anyone among the masses. Therefore you must make sure that even the less educated, or non-flu-ent, or distracted people in the audience can understand the content. If the following company name were read at normal tempo, it would be difficult for the listener to discern it. If the “ea” in “Bear” is elongated (just a little), the word is very discernible. Be careful not to over-elongate the “ea,” as that will sound unnatural."
+    },
+    {
+      "source_id": "767c5034-d6bd-4eed-831f-9ac71335ab6d",
+      "citation_number": 32,
+      "cited_text": "Soft volume conveys intimacy, sadness, reflection, or tension. Moderate volume creates grounded, conversational authenticity. Increased volume communicates urgency, authority, or excitement. Mastering volume is not about extremes. It is about variation that mirrors human expression. Professional guidance from a vocal coach or vocal instructor helps voice actors avoid overprojection or under-energized delivery, developing range without losing control. Pacing: The Rhythm That Shapes Meaning Pacing determines how a listener processes information. Fast pacing conveys enthusiasm, youthfulness, or urgency. Slow pacing creates space for emotion, reflection, or gravity. Varied pacing introduces contrast, suspense, and storytelling flow."
+    },
+    {
+      "source_id": "c5a01fe2-d5b8-4434-896b-b693c34e42a3",
+      "citation_number": 33,
+      "cited_text": "Article metrics View details 2 Citations 4,7k Views 1,4k Downloads Abstract Objective: The goal of the study was to find out if, in a society where there is a large community of people for whom the official state language is a second language, they prefer to listen to state-language radio advertisements in the same performance style as listeners for whom the official state language is their first language. Method: An experiment was conducted in Estonia, with two groups: those who spoke Estonian as their first language and those who spoke Russian as their first language and Estonian as their second. Both groups listened to Estonian-language radio advertisements presented by various spokespeople, half of which were performed in a calm style (low arousal) and half in an energetic style (high arousal). They then rated the likability of each performance."
+    },
+    {
+      "source_id": "c5a01fe2-d5b8-4434-896b-b693c34e42a3",
+      "citation_number": 34,
+      "cited_text": "Generally, the Estonian calm advertising style was differentiated from the energetic by a lower pitch (lower f 0 ); faster speech (shorter voiced segment length and more voiced segments per sec); longer pauses between phrases (longer unvoiced segment length); a quieter voice without rapid changes in loudness (lower loudness, smaller rising and falling slopes of loudness). Spectral features revealed differences in timbre; speech in the calm style was laxer and the voice breathier and softer (Kuang and Liberman, 2016 ; Nordström, 2019 : 27 and 40; higher/larger MFCC1-4, a steeper spectral slope, higher Hammarberg index, more shimmer, and among male spokespeople a lower HNR, see e.g., Teixeira et al., 2013 ). The calm performance style was less emotional (see Weninger et al., 2013 ; Pralus et al., 2019 ; a lower spectral flux, lower f 0 , lower loudness). See Figure 1 . Based on the acoustic features we could assume that calm vs. energetic advertising styles are linked to arousal-related emotions: the calm style to rather low arousal emotions (pleasure, interest, etc.) and the energetic to rather high arousal emotions (about the arousal dimension see e.g., Frick, 1985 ; Scherer, 1986 ; Goudbeek and Scherer, 2010 ; Weninger et al., 2013 ; elation, excitement, joy, etc.)."
+    },
+    {
+      "source_id": "c5a01fe2-d5b8-4434-896b-b693c34e42a3",
+      "citation_number": 35,
+      "cited_text": "3. Results An excellent reliability was found within L1 listener measurements. The average measure ICC2k was 0.94, with a 95% confidence interval from 0.92 to 0.97 F (39,624) = 18, p < 0.0001. A good to excellent reliability was found within L2 listener measurements. The average measure ICC2k was 0.87 with a 95% confidence interval from 0.80 to 0.92 F (39,624) = 7.6, p < 0.0001. The L1 listeners scored the calm style significantly higher than the energetic style. The scores for female (F) and male (M) spokespeople were not significantly different: M L1 _ F _ calm = 0.58 vs. M L1 _ M _ calm = 0.65, t (338) = −0.90, p = 0.369; M L1 _ F _ energetic = −0.61 vs. M L1 _ M _ energetic = −0.62, t (328) = 0.20, p = 0.841, see Figure 2 ."
+    },
+    {
+      "source_id": "c5a01fe2-d5b8-4434-896b-b693c34e42a3",
+      "citation_number": 36,
+      "cited_text": "The model built by selective regression showed that the likability score can be estimated by just three acoustic features: pitch (- mean f 0 ), changes in loudness (- mean falling slope loudness), and length of speech pauses (+ mean unvoiced segment length). This also confirms that the calm style gets higher scores. It may be assumed that the calm style tends to correspond to the soft-sell strategy and the energetic style to the hard-sell described by Desmarais ( 2000 ), with the former preferred in Estonia. Whether this assumption is correct would require an analysis that entails studying advertisements from many other aspects beyond their performance style, for example the content of the advertisement texts, the gendering of adverts, and the likability of hard-sell and soft-sell coded advertisements in Estonia. Although Desmarais' ( 2000 ) characterizations of the voices in soft-sell (French) and hard-sell (New Zealand) advertising resemble the calm and energetic styles, there are also differences. The main difference is in the speech rate, which in the case of French soft-sell is slower than the New Zealand hard-sell, whereas the Estonian calm style, on the contrary, is faster than the Estonian energetic style (cf. Desmarais, 2000 ), see Figure 1 . Comparing the calm style preferred in Estonia to the advertising style preferred in Spain – the latter which featured both the soft- and hard-sell strategy (see Okazaki et al., 2010 ) –, there were once again similarities: a lower pitch, a not overtly emphatic performance, with both women and men considered equally suitable as spokespeople (Rodero et al., 2013 , 2017 ; Rodero and Potter, 2021 ). Again, there may have been a difference in speech rate: in Estonia, a more rapid one was preferred, while what was described as a moderate rate of speech was preferred in Spain (cf. Rodero, 2020 ). Yet this comparison of speech rate is indirect because the methodology of the studies is different. In our study, we based our assessment of speech rate on the acoustic features of the advertisements: the voiced segment length and the number of voiced segments per second, and we also took into account the unvoiced segments of speech, i.e., pauses in speech – the latter which were significantly longer in the Estonian calm style compared to the energetic style. In the Spanish study, the speech rate was determined by the word count in advertisements, while pause lengths for all speech tempos were kept the same (cf. Rodero, 2020 ). Therefore, there are cultural particularities that become clear by studying the preferences of target groups in depth and which could be considered in the production of advertisements. Avoiding dislikable attributes is of extreme importance to marketers and media producers if they wish to produce effective advertisements (see Gazley et al., 2012 )."
+    },
+    {
+      "source_id": "c5a01fe2-d5b8-4434-896b-b693c34e42a3",
+      "citation_number": 37,
+      "cited_text": "Submit manuscript Search Login BRIEF RESEARCH REPORT article Front. Commun., 17 September 2023 Sec. Advertising and Marketing Communication Volume 8 - 2023 | https://doi.org/10.3389/fcomm.2023.1176423 BRIEF RESEARCH REPORT article Front. Commun., 17 September 2023 Sec. Advertising and Marketing Communication Volume 8 - 2023 | https://doi.org/10.3389/fcomm.2023.1176423 Radio advertisement speech style preferences among listeners with different first languages within one country R A Rene Altrov 1 * H P Hille Pajupuu 1 J P Jaan Pajupuu 1 A K Aet Kiisla 2 Department of Speech Research and Technology, Institute of the Estonian Language, Tallinn, Estonia Narva College, University of Tartu, Narva, Estonia"
+    },
+    {
+      "source_id": "e86ce354-abd6-4a02-b628-35704c487308",
+      "citation_number": 38,
+      "cited_text": "We vote for politicians\nwith lower voices, it's true, because we associate depth with power and with authority. That's register. Then we have timbre. It's the way your voice feels. Again, the research shows that we prefer voices\nwhich are rich, smooth, warm, like hot chocolate. Well if that's not you,\nthat's not the end of the world, because you can train. Go and get a voice coach. And there are amazing things you can do with breathing, with posture,\nand with exercises to improve the timbre of your voice. Then prosody. I love prosody."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 39,
+      "cited_text": "Does the public notice natural delivery? ........................................................................  12 Why does the public think that voice-over is mostly the affected style?  .......................  12 Why does the public think that voice-over is mostly commercial? ................................  12 Why is the affected style still used sometimes? ..............................................................  13 Chapter 3: Advice on Training  ..............................................................................14"
+    },
+    {
+      "source_id": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+      "citation_number": 40,
+      "cited_text": "Extrapolating from the present findings to everyday communication would encourage healthcare providers, and others, to be mindful of the limitations of human processing rates and the further decrements to recall of information when processing the speech requires extra effort. Numerous studies have shown that factors such as eye contact can be used by a listener to signal a speaker to pause in order for the listener to ask a question or to gain time to process what has been heard (see Degutyte & Astell, 2021 , for a review). A more direct method for metering the rate of information, however, is for the speaker to intentionally pause at critical processing points as they deliver information. In the present case, pauses were inserted after clauses and sentences within a narrative. Translated into everyday listening, our present results would encourage conversation partners to pause at strategic processing points, such as extra time between statements or communicative topics, to allow processing and memory consolidation before proceeding to a subsequent point."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 41,
+      "cited_text": "But this particular case raises another issue. Without the pause, it might sound like your sink is “clogging with Liquid Plumber.”  That’s certainly not what the advertiser wants people to hear!  What to do?  Remember that there are other ways to separate phrases besides pausing. For example, you might use tempo. Slow just a bit as you say “clogging” (but not so much as to call attention to the word), and speed up a bit as you say “with Liquid Plumber Drain Cleaner.” And don’t get so absorbed in the speed-up that you forget to hit “Liquid Plumber,” the product name. Speaking of which …"
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 42,
+      "cited_text": "Some key words are made up of two words combined. In this case, treat the key phrase as one word, and hit the word you would in natural conversation. In this example, hit the first word in each key phrase – without hitting the second word in each key phrase. instructional manual This audio manual discusses the sound system and  air conditioning of your new car. f. Hit the ends of phrases. Hitting the end of a phrase signals the end of a thought. Since we do this in natural conversation, it is necessary to do when reading voice-over scripts, as the goal is to sound natural. Unfortunately, newcomers often drop the pitch at the ends of phrases. “Dropping the ends,” as it is known, sounds unnatural and is the surest indicator that you are reading. (Just listen to an untrained telemarketer.)"
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 43,
+      "cited_text": "• The “r” sound for natives of New York and Boston • The “drawl” from the American south 8. Flow / smoothness Smooth jazz. Smooth skin. Smooth vodka. Everyone likes smooth. This goes for voice-over as well – both producers and listeners prefer smooth deliveries over choppy ones. However many talent read choppily … especially less experienced talent. Following are the most common types and causes of choppiness: Dramatic pauses: Due to being dramatic and theatrical. In Chapter 5, we talked about dramatic pauses being one way to add variety to your read. But remember that we advised using them judiciously and sparingly. Insert too many pauses, and you begin to sound artificial. The read will also become choppy and tiresome."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 44,
+      "cited_text": "Aetna Insurance. Security for a lifetime. Clarifying (and often subconscious) pauses: Due to trying too hard to make the delivery ultra-clear for the listener. Also due to lack of confidence. Less experienced talent try really hard to make their delivery clear for the listener. In doing so, they often separate phrases of the script into little choppy bits. This usually occurs unknowingly. Once pointed out, they often recognize how choppy they were and how much better their reads sound when reading smoothly."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 45,
+      "cited_text": "To fix this misapprehension, listen for natural voice-overs and take note of them. You’ll hear natural delivery in most national commercials, documentaries, telephone systems, training videos, and recordings of that sort. Choppiness In normal conversation, we usually express ourselves in complete thoughts, not word-by-word. (“Word-by-word” is the way as you might haltingly speak a foreign language that you are not fluent in.) In normal conversation, our words flow naturally, until another thought comes to mind, or the other person speaks."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 46,
+      "cited_text": "3. Flowing naturally In natural conversation, we speak spontaneously. We continuously adjust our pitch, timing, volume, and tone to reveal our thoughts. We say “umm.”  We use contractions. We use colloquialisms. All of these unconscious spoken characteristics allow our words to flow and incorporate a natural variety, which in turn makes us sound natural. Sounding natural helps you to appear credible to the listener. If a voice-over artist sounds unnatural, as if she is reading, he or she will not appear credible. Subsequently, the listener may not listen, or may not believe."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 47,
+      "cited_text": "4. Vary the tempo of your words, as this adds variety. In natural conversation, we continually vary our tempo – even within a single sentence. Doing the same for script reading will make your delivery sound more natural while adding variety. In these examples, read the first half of the sentence slowly and the second half quickly. Then reverse it. public service announcement For just dollars a day, you’ll help feed hungry children. tutorial Be aware of the role played by pitch, and keep the copy interesting."
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "answer": "The literature in your sources addresses synthetic voice direction, text-to-speech (TTS) control, and the perceptual gap between human and synthetic narration across several key dimensions:\n\n---\n\n### 1. The Challenge of Directing Synthetic Voices & Audio Tags\n* **Surface Acoustics vs. Emotional Affect**: Traditional TTS training annotation pipelines (such as DataSpeech used for open-weight models) label surface physical properties like pitch range and speaking rate, but omit emotional affect [1, 2]. As a result, open-weight TTS models often produce temporally smooth speech that remains **contextually and emotionally flat**—speaking tragic, neutral, and celebratory lines in virtually the same tone [3-5].\n* **Limitations of Discrete Audio Tags**: Systems using discrete emotion tags (e.g., `<happy>`, `<sad>` in *svara-TTS*, or transcript prefixes like `[happy]` in *ElevenLabs*) lack the gradient, fine-grained control needed to build continuous emotional arcs across multi-paragraph storytelling [6, 7]. \n* **Prompt-Conditioning Limits**: Ablation studies show that while prompt-conditioned models respond to description prompts, corrective post-generation pipelines offer limited benefit because current open TTS backbones lack true audio-conditioned regeneration or refinement capabilities—they can only adjust future text prompts rather than repair generated audio [8].\n\n---\n\n### 2. The Hindi Audiobook Study: Inference-Time Interventions\nThe paper *\"Improving Hindi Audiobook Generation with Inference-Time Interventions\"* specifically investigates how far a frozen, open-weight TTS backbone (*IndicParler-TTS*) can be pushed toward expressive long-form narration entirely at inference time without expensive retraining [3, 9, 10]:\n\n* **Devanagari Punctuation Normalization**: Replacing native Devanagari punctuation (dandas) with ASCII equivalents enables English-centric TTS text parsers to recognize sentence boundaries [11, 12]. This single step increased average trailing pause duration from **38.3 ms to 97.5 ms** and nearly doubled pitch variance (from **19.63 to 38.77**) [12, 13].\n* **GPT-4o Contextual Style Captions**: Passing full-story context to GPT-4o to predict per-segment pitch, pace, focus words, and style captions boosted semantic alignment between text and spoken delivery (\\\\(L_{\\text{sem}}\\\\)) **3.5× over baseline** (from **0.0422 to 0.1463**) [11, 14].\n* **Combined Intervention**: Combining punctuation normalization (enabling boundary parsing) with GPT-4o style captions (steering prosody within segments) resulted in a **5.1× increase in pitch variance** (jumping to **100.07**), elevated pause durations (**206.7 ms**), and sustained high semantic alignment (**0.1384**) [13].\n* **Speaker Consistency Gating**: To prevent speaker voice drift (\"Rohit\" voice profile) across long audiobooks, the pipeline implemented a two-stage gate evaluating **Praat \\\\(F_0\\\\) pitch drift** (\\\\(\\le 15\\%\\\\)) and **ECAPA-TDNN speaker embedding cosine similarity** (\\\\(> 0.82\\\\)) to trigger re-generations when drift occurred [15, 16].\n* **Key Finding & Remaining Gap**: Despite these inference-time gains, long-form sentiment agreement between text and audio remained weak (**32.1% agreement**, Cohen's \\\\(\\kappa = -0.050\\\\)), showing a strong collapse toward neutral predictions [14, 17]. The authors conclude that caption-only control at inference time is helpful but insufficient on its own for full, context-aware expressiveness [9, 18].\n\n---\n\n### 3. Human vs. Synthetic Voices: Neural & Cognitive Processing\n* **Top-Down Prosodic \"Filling In\"**: Neuroimaging (fMRI) studies show that when human listeners hear flat or monotonous direct speech (whether from human or synthetic delivery), the **right superior temporal sulcus (rSTS)** in the auditory cortex exhibits heightened activation [19-21]. This reflects the brain actively expending cognitive energy trying to \"fill in\" the missing expressive prosody that context predicts [21].\n* **Pacing & Unnatural Artifacts**: While human narrators adjust articulation rates and micro-pauses dynamically, synthetic models often struggle with unnatural temporal artifacts (for example, *Voxtral 4B TTS* exhibited frequent pauses every few words that disrupted long-form narrative flow) [4].\n* **Listening Effort**: In natural human speech, strategic pauses at syntactic boundaries provide essential cognitive consolidation windows; when synthetic speech lacks these natural prosodic markers, listener memory recall drops and cognitive load (measured via pupil dilation) increases [4, 22].\n\n---\n\n🎙️ Would you like to explore turning these findings on TTS control and inference-time interventions into a technical report or slide presentation?",
+  "conversation_id": "880b673b-cab4-488f-b8ec-d2bfbfb1f949",
+  "sources_used": [
+    "4e026d52-9609-482f-b86c-c7acfd3cf481",
+    "6a26e252-be2d-48d8-905f-a6a9c00f09ec",
+    "40c74934-888f-4a9d-9a63-98aea40d2c8e"
+  ],
+  "citations": {
+    "1": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+    "2": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+    "3": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+    "4": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+    "5": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+    "6": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+    "7": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+    "8": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+    "9": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+    "10": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+    "11": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+    "12": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+    "13": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+    "14": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+    "15": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+    "16": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+    "17": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+    "18": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+    "19": "6a26e252-be2d-48d8-905f-a6a9c00f09ec",
+    "20": "6a26e252-be2d-48d8-905f-a6a9c00f09ec",
+    "21": "6a26e252-be2d-48d8-905f-a6a9c00f09ec",
+    "22": "40c74934-888f-4a9d-9a63-98aea40d2c8e"
+  },
+  "references": [
+    {
+      "source_id": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+      "citation_number": 1,
+      "cited_text": "2. Related Work Multilingual and Indic Text-to-Speech. Neural text-to-speech has reached near-human naturalness for short En-glish utterances, yet long-form synthesis in low-resource languages remains open. Parler-TTS (Lyth & King, 2024) introduced caption-conditioned generation controlled by natural language descriptions of pitch range, speaking rate, and noise. Its annotation pipeline labels surface acoustics but 1 055 056 057 058 059 060 061 062 063 064 065 066 067 068 069 070 071 072 073 074 075 076 077 078 079 080 081 082 083 084 085 086 087 088 089 090 091 092 093 094 095 096 097 098 099 100 101 102 103 104 105 106 107 108 109"
+    },
+    {
+      "source_id": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+      "citation_number": 2,
+      "cited_text": "Our pipeline is complementary: where CA-CLAP and REA-TTS select reference audio, our pipeline selects reference captions, a text-to-text bridge directly applicable to captionconditioned models without architectural changes or retrieval database construction. We return to retrieval-based extensions as future work in the conclusion. 3. Method Current open-weight Hindi TTS models produce temporally smooth but expressively flat narration. We trace this to the DataSpeech annotation pipeline used to train IndicParler-TTS, which labels surface acoustic properties such as pitch range and speaking rate but omits emotional affect and intonation type. The model therefore has little signal connecting narrative context to prosodic delivery. Our method addresses this through inference-time expressiveness control, requiring no model retraining."
+    },
+    {
+      "source_id": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+      "citation_number": 3,
+      "cited_text": "Preliminary work. Under review by the International Conference on Machine Learning (ICML). Do not distribute. searchers and developers in the Global South, retraining a modern TTS model for a new language, domain, or voice is computationally and financially unrealistic. This paper studies whether a frozen caption-conditioned TTS model can be pushed toward context-aware Hindi narration entirely at inference time. We focus on IndicParler-TTS because it is open-weight, supports natural-language style captions, and already covers Hindi, but its long-form output is often temporally smooth while remaining emotionally flat. The core challenge is that narrative context is not automatically translated into prosody: tragic, neutral, and celebratory passages can all be spoken without contextual paralinguistic attributes like corresponding tone, accent, and stress in the voice."
+    },
+    {
+      "source_id": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+      "citation_number": 4,
+      "cited_text": "4. Experiments We found that Voxtral is inadequate for Hindi audiobook generation in its current form. The primary issue is frequent pauses every few words, which create highly unnatural pacing and substantially reduce narration quality. We therefore exclude Voxtral from the detailed result discussion below. 4.1. Baseline Quality of IndicParler-TTS Computing Ldyn on IndicParler-TTS yields approximately 0, while Lsem is 0.35. Together, these metrics show that the model produces very smooth segment-to-segment narration but only limited semantic alignment between text and delivered prosody. This smooth-but-flat behavior motivates the inference-time control strategies studied in the rest of the paper."
+    },
+    {
+      "source_id": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+      "citation_number": 5,
+      "cited_text": "IndicParler-TTS is more expressive than ElevenLabs in the short-form Rasa setting, but its expressiveness is not contextual in long-form narration. In practice, it can describe tragic and happy events in nearly the same tone. This weakens the overall storytelling effect and makes ElevenLabs’ flatter narration sound more appropriate to the text even when it is less vivid. 4.4. BERT-Guided Captioning The BERT-guided experiment yields a mixed result. Pronun-ciation and overall clarity improve substantially, making the generated audio sound more like natural Hindi speech. How-ever, the custom emotion-based description prompt for each chunk does not produce a clear improvement in contextual expressiveness."
+    },
+    {
+      "source_id": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+      "citation_number": 6,
+      "cited_text": "Inference-Time Interventions for Improving Hindi Audiobook Generation omits affect: a despairing line and a triumphant one receive identical annotations when their measured properties match. IndicParler-TTS (Lacombe et al., 2024) extends this to 22 Indic languages with named emotion tokens, but provides no mechanism to select tokens from narrative context and is prone to speaker drift in long-form generation. IndicF5 (V et al., 2025; Chen et al., 2024), a non-autoregressive flow-matching model, excels at zero-shot voice cloning but lacks sequential memory to build emotional arcs across segments. svara-TTS (Kenpath Technologies, 2025) appends discrete emotion tags (<happy>, <sad>) that lack the gradient control needed for continuous emotional transitions in narration. Bulbul V3 (Sarvam AI, 2026) is productiongrade but closed-source, preventing architectural intervention. SeamlessExpressive (Seamless Communication et al., 2023) transfers prosody cross-lingually via an expressivity encoder but is optimized for speech-to-speech translation and reverts to flat prosody without a high-quality reference for every line."
+    },
+    {
+      "source_id": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+      "citation_number": 7,
+      "cited_text": "ElevenLabs Eleven v3 is a commercial TTS system supporting long-form generation with strong built-in speaker consistency. We use the voice profile “George-Warm, Capti- 2 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 Inference-Time Interventions for Improving Hindi Audiobook Generation vating Storyteller” across all tasks. Unlike IndicParler-TTS, Eleven v3 exposes caption-level emotion control for Hindi via explicit transcript prefixes such as “[happy].” Because it is closed and commercial, we treat it as an upper bound rather than as the target deployment setting for low-resource researchers."
+    },
+    {
+      "source_id": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+      "citation_number": 8,
+      "cited_text": "Inference-Time Interventions for Improving Hindi Audiobook Generation Figure 2. Sentiment confusion matrix for English ElevenLabs. Despite stronger baseline quality, the model remains heavily biased toward negative and neutral predictions, with almost no correctly preserved positive sentiment. contribute meaningfully beyond prompt engineering alone. In this simplified setting, all BERT-based sentiment prediction, confidence filtering, and Praat-guided F0 correction are removed, and generation is performed using only manually designed description prompts appended to the transcript. The resulting audio shows the same improvements in pronunciation quality and overall expressiveness as the full pipeline, indicating that the primary gains come from the prompt itself rather than the additional processing stages. This suggests that IndicParler-TTS is largely driven by prompt conditioning, while post-generation correction provides limited benefit. More broadly, it highlights a core limitation of IndicParler-TTS: since the model does not support true audio-conditioned regeneration or refinement, corrective stages can only modify future prompts rather than directly repair generated audio."
+    },
+    {
+      "source_id": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+      "citation_number": 9,
+      "cited_text": "000 001 002 003 004 005 006 007 008 009 010 011 012 013 014 015 016 017 018 019 020 021 022 023 024 025 026 027 028 029 030 031 032 033 034 035 036 037 038 039 040 041 042 043 044 045 046 047 048 049 050 051 052 053 054 Improving Hindi Audiobook Generation with Inference-Time Interventions Anonymous Authors1 Abstract Hindi audiobook generation is an accessibilitycritical but under-served text-to-speech setting: available systems often sound fluent yet fail to adapt prosody to narrative context, and retraining large multilingual TTS models is expensive for many researchers and developers. We study whether expressive long-form Hindi narration can be improved entirely at inference time using a frozen caption-conditioned backbone. Our pipeline augments IndicParler-TTS with chunklevel sentiment-to-caption mapping, Devanagari punctuation normalization, and a GPT-4o variant that predicts prosodic captions from full-story context while preserving speaker consistency with lightweight gating. Across short-form and longform evaluations, baseline IndicParler-TTS remains smooth but weakly aligned with textual affect, whereas punctuation normalization improves pause placement and GPT-4o captions raise semantic alignment from 0.042 to 0.146 on a 10-segment Hindi story. Even so, long-form sentiment agreement remains low at 32.1%, showing that caption-only control is not sufficient for robust contextual expressiveness. We present these results as a practical low-resource baseline for Hindi audiobook generation: meaningful gains are possible without retraining, but stronger Hindi-specific expressive modeling is still needed."
+    },
+    {
+      "source_id": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+      "citation_number": 10,
+      "cited_text": "Our approach compares chunk-level sentiment-to-caption mapping with multilingual BERT, language-specific orthographic normalization for Devanagari punctuation, and a GPT-4o variant that predicts richer prosodic captions from full-story context. Because all interventions act at inference time, the underlying TTS backbone remains frozen, making the pipeline cheaper to reproduce and easier to adapt in constrained settings. Contributions. We make three contributions. First, we frame Hindi audiobook generation as a low-resource, accessibility-oriented expressive TTS problem rather than only a benchmark optimization task. Second, we restructure expressive control around inference-time captioning, preserving the open-weight Hindi backbone and avoiding model retraining. Third, we provide a multi-part evaluation spanning short-form expressiveness, long-form narration, sentiment alignment, and language-specific punctuation normalization, showing both where lightweight interventions help and where they still fall short."
+    },
+    {
+      "source_id": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+      "citation_number": 11,
+      "cited_text": "To capture story-level patterns that the chunk-local BERT pipeline may miss, GPT-4o receives the full transcript and predicts per-segment pitch level, pace, focus words, intonation contour, and a style caption. These replace the emotion token in the generation caption. We also apply a deterministic orthographic replacement step before generation: Devanagari dandas, commas, and question marks are converted to ASCII equivalents. This preserves text content while exposing sentence boundaries more clearly to the TTS model."
+    },
+    {
+      "source_id": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+      "citation_number": 12,
+      "cited_text": "4.6. Orthographic Normalization and GPT-4o Captions Orthographic symbol replacement is more than preprocessing: it injects script-specific knowledge that English-centric TTS pipelines often ignore. Replacing Devanagari punctuation with ASCII equivalents increases average trailing pause duration from 38.3 ms to 97.5 ms and nearly doubles pitch variance from 19.63 to 38.77, confirming that the model inserts contextually appropriate pauses once it can parse sentence boundaries. However, Lsem drops from 0.0422 to 0.0194, indicating that improved pacing alone does not yield better semantic alignment. Punctuation normalization is therefore necessary but not sufficient."
+    },
+    {
+      "source_id": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+      "citation_number": 13,
+      "cited_text": "Table 1. Feature impact on 10 segments of Hindi Story 23. Punctu-ation normalization improves pauses; GPT-4o captions improve alignment; combining both yields 5.1× pitch variance and 3.3× Lsem over baseline. Condition Pause (ms) Pitch Var Lsem Baseline 38.3 19.63 0.042 + Punct. norm. 97.5 38.77 0.019 + GPT-4o caption 219.4 16.49 0.146 + Both 206.7 100.07 0.138 as pacing cues rather than intonation cues. Combining both features resolves this dissociation. Pitch variance jumps to 100.07, or 5.1× baseline, Lsem remains high at 0.1384, and pause duration stays elevated at 206.7 ms. The interaction is clear: punctuation normalization enables boundary parsing, and GPT-4o captions then steer prosodic contour within each segment. Neither feature alone achieves both effects. Results are summarized in Table 1."
+    },
+    {
+      "source_id": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+      "citation_number": 14,
+      "cited_text": "GPT-4o style captions produce the largest semanticalignment gains. With Devanagari punctuation intact (prosody only), Lsem rises 3.5× over baseline, from 0.0422 to 0.1463, and pause duration increases to 219.4 ms, but pitch variance decreases to 16.49. Without normalized punctuation, the model interprets rich captions primarily Figure 1. Sentiment confusion matrix for Hindi IndicParler-TTS. The model shows strong collapse toward neutral predictions, with limited positive sentiment preservation and only 32.1% overall agreement."
+    },
+    {
+      "source_id": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+      "citation_number": 15,
+      "cited_text": "ECAPA-TDNN (Desplanques et al., 2020) provides chunklevel speaker consistency gating. A cosine similarity score is computed between each synthesized chunk and an anchor embedding; chunks below a threshold of 0.82 trigger a patch-and-retry loop. This gate operates jointly with an F0-based check using Praat features (mean drift ≤ 15%, standard-deviation ratio ≤ 35%). Multilingual BERT (tabularisai, 2024) assigns per-chunk sentiment scores on a continuous [−1,+1] scale. Scores are mapped to one of twelve IndicParler-TTS emotion tokens via polarity-bin partitioning, with lexical keyword overrides for high-confidence edge cases. Language-specific keyword sets and Devanagari danda-aware chunking are applied for Hindi inputs."
+    },
+    {
+      "source_id": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+      "citation_number": 16,
+      "cited_text": "Inference-time control pipeline. The BERT-guided narrator pipeline divides the long-form transcript into sentencelevel chunks, predicts a sentiment score and confidence value for each chunk, maps that signal to an IndicParler emotion token, and appends the resulting prompt to a fixed Char-acter Voice Caption that preserves speaker identity. Each synthesized chunk is then passed through a two-stage consistency gate: Stage 1 compares Praat F0 statistics against an anchor clip, and Stage 2 requires ECAPA-TDNN cosine similarity above 0.82. If either gate fails, the system patches the pitch descriptor and retries up to twice."
+    },
+    {
+      "source_id": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+      "citation_number": 17,
+      "cited_text": "4.5. Sentiment Alignment For the Hindi IndicParler-TTS evaluation (story120 multi), sentiment alignment remains weak, with a three-class agreement rate of 32.1% and Cohen’s κ = −0.050, indicating little meaningful agreement beyond chance. The confusion matrix shows strong collapse toward the neutral class, with most negative and positive text segments being classified as neutral in speech. Positive samples are relatively rare overall, and only 3 positive audio predictions are correctly matched. This suggests that generation remains smooth while contextual emotional alignment is still limited; see Figure 1."
+    },
+    {
+      "source_id": "4e026d52-9609-482f-b86c-c7acfd3cf481",
+      "citation_number": 18,
+      "cited_text": "5. Conclusion We restructure Hindi audiobook generation around a lowresource question: how far can a frozen caption-conditioned TTS model be pushed without retraining? Across short-form and long-form evaluations, the answer is mixed. Inference-time interventions, especially Devanagari punctuation normalization and full-context GPT-4o captions, improve pause placement and semantic alignment, while the BERT-guided pipeline improves pronunciation and clarity. However, sentiment agreement remains weak, and even the best configuration still falls short of robust contextual expressiveness."
+    },
+    {
+      "source_id": "6a26e252-be2d-48d8-905f-a6a9c00f09ec",
+      "citation_number": 19,
+      "cited_text": "Researchers have begun to investigate the nature of the inner voice by following the lead of embodied cognition researchers by investigating to what extent auditory cortex is activated during silent reading. For example, Yao et al. (2011) demonstrated greater activation of voice-selective areas of auditory cortex when participants read direct speech (Mary said: “Gosh! The movie was terrible!”) than when they read indirect speech (Mary said that the movie was terrible;) (but see Jancke and Shah 2004, for evidence that auditory imagery is dependent in part on training). Moreover, Perrone-Bertolotti et al. (2012) used evidence from intra-cranial recordings of epileptic patients to explore the time course of speech area activation in silent reading. They observed activation of auditory cortex within 500 ms of activation of visual cortex."
+    },
+    {
+      "source_id": "6a26e252-be2d-48d8-905f-a6a9c00f09ec",
+      "citation_number": 20,
+      "cited_text": "But how does this sensory experience relate to prosody? In fact, the prosodic na- ture of such “inner voices” was illuminated in a follow-up fMRI study by Yao et al. (2012). In Yao et al.’s (2011) study, there was no acoustic stimulation as a reference alongside the silent reading task (except for the functional localizer procedure). It was hence difficult to specify what types of acoustic representations may constitute the “inner voice” experiences during silent reading of direct speech. Interestingly, however, the acoustic processing literature indicates that the right auditory cortex"
+    },
+    {
+      "source_id": "6a26e252-be2d-48d8-905f-a6a9c00f09ec",
+      "citation_number": 21,
+      "cited_text": "B. Yao and C. Scheepers296 context (established via ratings), and (c) the contextual congruency of the speech utterances within the given story contexts (i.e., to what extent the speech utterances were perceived as congruent with a given context or not—again, this vari- able was established via ratings). Acoustics (a) and vividness (b) were taken as objectives, respectively subjective measures of the acoustic differences between the direct and indirect speech conditions without considering the context that the quotations were embedded in. Both modulators were expected to account for dif- ferences in “bottom-up” acoustic processing. In contrast, contextual congruency (c) was taken to index the degree of mismatch between the actual (monotonous) speech input and perceivers’ “top-down” expectation for expressive speech prosody in the given story context. Contextual congruency was expected to explain dif- ferential “top-down” prosodic processing between conditions. It was found that the increased rSTS activations in monotonous direct speech (relative to monoto- nous indirect speech) was in fact most reliably explained by contextual congruency but not by the acoustics or vividness of the speech utterances. The analyses confirmed that the rSTS activation pattern indeed reflected “top-down” prosodic processing when listening to monotonously spoken direct speech utterances, as if the brain was actively trying to “fill in” prosodic information that was missing from the actual speech input. By reconciling the findings of the two fMRI studies, we conjecture that the “inner voices” observed during silent reading of direct speech may also involve suprasegmental prosodic information similar to that in auditory processing."
+    },
+    {
+      "source_id": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+      "citation_number": 22,
+      "cited_text": "Title: Strategic Pauses Relieve Listeners from the Effort of Listening to Fast Speech: Data Limited and Resource Limited Processes in Narrative Recall by Adult Users of Cochlear Implants URL Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC10637151/ Markdown Content: Abstract Speech that has been artificially accelerated through time compression produces a notable deficit in recall of the speech content. This is especially so for adults with cochlear implants (CI). At the perceptual level, this deficit may be due to the sharply degraded CI signal, combined with the reduced richness of compressed speech. At the cognitive level, the rapidity of time-compressed speech can deprive the listener of the ordinarily available processing time present when speech is delivered at a normal speech rate. Two experiments are reported. Experiment 1 was conducted with 27 normal-hearing young adults as a proof-of-concept demonstration that restoring lost processing time by inserting silent pauses at linguistically salient points within a time-compressed narrative (“time-restoration”) returns recall accuracy to a level approximating that for a normal speech rate. Noise vocoder conditions with 10 and 6 channels reduced the effectiveness of time-restoration. Pupil dilation indicated that additional effort was expended by participants while attempting to process the time-compressed narratives, with the effortful demand on resources reduced with time restoration. In Experiment 2, 15 adult CI users tested with the same (unvocoded) materials showed a similar pattern of behavioral and pupillary responses, but with the notable exception that meaningful recovery of recall accuracy with time-restoration was limited to a subgroup of CI users identified by better working memory spans, and better word and sentence recognition scores. Results are discussed in terms of sensory-cognitive interactions in data-limited and resource-limited processes among adult users of cochlear implants."
+    }
+  ]
+}

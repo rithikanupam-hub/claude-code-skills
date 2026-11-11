@@ -1,0 +1,424 @@
+{
+  "answer": "### 1. Durations in Milliseconds & Threshold Classifications\n\nThe literature classifies speech pauses into distinct temporal bands based on their physical, articulatory, and cognitive functions:\n\n* **Articulatory / Intra-segmental Silences (50–100 ms)**: Brief acoustic silences produced by vocal tract occlusions, such as during plosive consonant articulation [1].\n* **Standard Psycholinguistic Identification Thresholds**:\n  * **130–250 ms**: Noted as the minimum duration where pauses begin serving detectable cognitive and expressive functions [2].\n  * **250 ms**: The most widely adopted conventional threshold (first established by Goldman-Eisler, 1968) to separate articulatory silences from true silent pauses [2, 3].\n  * Alternative thresholds in the literature include **180–250 ms** (Duez, 2001), **200 ms** (Candea, 2000), and **300 ms** (Grosjean & Deschamps, 1975) [2].\n* **Tri-Modal Log-Normal Distribution Categories** (Campione & Véronis, 2002) [4]:\n  * **Brief Pauses (< 200 ms)**: Associated primarily with low-level articulatory transitions and intra-lexical segmentation [1, 4].\n  * **Medium Pauses (200–1,000 ms)**: Associated with cognitive processing, sentence parsing, and discourse segmentation [4, 5].\n  * **Long Pauses (> 1,000 ms / 1+ second)**: Found predominantly in spontaneous speech, complex cognitive load tasks, dictation, or major rhetorical boundaries [4, 6].\n* **Measured Duration Means in Speech Tasks** [7]:\n  * **Short Pauses**: Mean of **136 ms** in read speech vs. **195 ms** in simultaneous interpretation [7].\n  * **Medium Pauses**: Mean of **581 ms** in read speech vs. **568 ms** in simultaneous interpretation [7].\n  * **Long Pauses**: Mean of **1,221 ms** in read speech vs. **1,570 ms** in simultaneous interpretation [7].\n* **Discourse-Level / Structural Pauses (> 2,000 ms / 2+ seconds)**: In simultaneous interpretation studies, long unfilled pauses exceeding **2 seconds** mark major analytical processing blocks or omissions (averaging **42 long pauses** totaling **257.35 seconds** per 31-minute session) [8, 9].\n* **Syntactic Disambiguation Pauses**: In experimental sentence-reading studies testing syntactic ambiguity, pauses inserted at major phrasal boundaries typically range from **321 ms to 325 ms** [10].\n\n---\n\n### 2. Pause Placement Rules\n\n* **Major Syntactic & Grammatical Boundaries**:\n  * Pauses must be placed at **linguistically salient boundaries** (clause and sentence boundaries) [11-14].\n  * In structured speech, pause duration follows a syntactic hierarchy: pauses placed at **sentence boundaries are set to twice (2×) the duration** of pauses placed at clause boundaries [12].\n  * Skilled readers naturally coordinate breathing and syntactic parsing, placing respiratory pauses at punctuation marks and major syntactic boundaries, whereas non-breathing pauses occur at minor constituent breaks [14, 15].\n* **Informational Units & Propositions**:\n  * Pauses function as spoken punctuation to segment speech into **\"idea units\" or propositions**—the smallest units of meaning underpinning a text [16].\n  * Pauses are strategically produced immediately prior to **highly informative or unpredictable words** to assist lexical retrieval and planning [17].\n* **Misplacement Under Cognitive Load**:\n  * Inserting pauses at **random or non-syntactic locations** yields virtually no recall or comprehension benefit for the listener [11, 13].\n  * Under **high cognitive load** (e.g., simultaneous interpreting, multitasking, driving), speakers produce frequent **prosody-syntax mismatches**, inserting incongruent silent and filled pauses *inside* minor syntactic units/chunks [18-22].\n  * Listeners with **lower working memory capacity** spontaneously insert internal \"performance pauses\" to break long sentences into smaller, manageable processing units [140, 145–147].\n\n---\n\n### 3. Measured Effects on Comprehension, Recall, and Cognitive Effort\n\n* **Full Recall Recovery in Fast / Compressed Speech**:\n  * Time-compressing speech to **60% of original duration** (e.g., ~288 wpm) creates severe recall deficits [23, 24].\n  * Restoring lost processing time by inserting strategic silent pauses at clause and sentence boundaries (restoring total playing time) **returns narrative recall accuracy to ~95% of normal-rate baseline levels** [11, 23-25].\n  * In cochlear implant (CI) users with high working memory, inserting strategic pauses improved recall performance by **up to 228%** over compressed speech [26, 27].\n* **Physiological Reduction of Cognitive Listening Effort**:\n  * Task-Evoked Pupillometry (tracking pupil dilation) demonstrates that fast compressed speech causes significant cognitive overload, keeping pupil dilation elevated across **69.3% to 71.3%** of the utterance duration [28, 29].\n  * Inserting strategic pauses at syntactic boundaries **completely eliminates this cognitive strain**, returning pupil dilation levels to those of normal-rate speech (\\\\(p = 0.604\\\\)) [28-30].\n* **Impact of Complete Pause Removal from Audiobooks**:\n  * In a controlled study removing naturally occurring pauses from professional audiobook recordings (reducing average extract length from **47.2 seconds to 37.2 seconds** across an average of **16.8 pauses** per text), lexical word recall dropped significantly from **27.6% (Pause condition)** down to **20.6% (NoPause condition)** (\\\\(p = 0.004\\\\)) [31-34].\n  * Listeners recalled an average of **3.31 words per text with pauses** vs. **2.47 words without pauses**, proving that pauses are essential for memory consolidation during continuous narration [33-35].\n* **Syntactic Disambiguation & Processing Strain**:\n  * Hearing a pause before a relative clause or prepositional phrase shifts the listener's syntactic attachment decision (e.g., forcing high vs. low relative clause attachment) [10, 36-38].\n  * When prosodic pause placement directly conflicts with syntactic structure, pupil diameter reliably increases, indicating heightened cognitive processing effort and parsing difficulty [39].\n\n---\n\n💡 Would you like me to synthesize these timing and placement rules into an executive summary or narration studio cheat sheet?",
+  "conversation_id": "880b673b-cab4-488f-b8ec-d2bfbfb1f949",
+  "sources_used": [
+    "754c3832-b1b5-4755-aa0e-8f65df3ac2d4",
+    "aafab021-77de-4ff7-9db1-06aece5896f1",
+    "6a26e252-be2d-48d8-905f-a6a9c00f09ec",
+    "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+    "56a2a9fa-3aa5-4d68-9dbf-2992cddf219d",
+    "f136bf43-3ad5-4264-8a5f-d504e18b89ed",
+    "17085a6c-dea1-43ef-8452-6871e38f6726",
+    "9f505257-95d3-43b1-9a05-f7187e0840aa"
+  ],
+  "citations": {
+    "1": "754c3832-b1b5-4755-aa0e-8f65df3ac2d4",
+    "2": "754c3832-b1b5-4755-aa0e-8f65df3ac2d4",
+    "3": "754c3832-b1b5-4755-aa0e-8f65df3ac2d4",
+    "4": "754c3832-b1b5-4755-aa0e-8f65df3ac2d4",
+    "5": "754c3832-b1b5-4755-aa0e-8f65df3ac2d4",
+    "6": "754c3832-b1b5-4755-aa0e-8f65df3ac2d4",
+    "7": "754c3832-b1b5-4755-aa0e-8f65df3ac2d4",
+    "8": "aafab021-77de-4ff7-9db1-06aece5896f1",
+    "9": "aafab021-77de-4ff7-9db1-06aece5896f1",
+    "10": "6a26e252-be2d-48d8-905f-a6a9c00f09ec",
+    "11": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+    "12": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+    "13": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+    "14": "56a2a9fa-3aa5-4d68-9dbf-2992cddf219d",
+    "15": "754c3832-b1b5-4755-aa0e-8f65df3ac2d4",
+    "16": "f136bf43-3ad5-4264-8a5f-d504e18b89ed",
+    "17": "17085a6c-dea1-43ef-8452-6871e38f6726",
+    "18": "754c3832-b1b5-4755-aa0e-8f65df3ac2d4",
+    "19": "754c3832-b1b5-4755-aa0e-8f65df3ac2d4",
+    "20": "754c3832-b1b5-4755-aa0e-8f65df3ac2d4",
+    "21": "754c3832-b1b5-4755-aa0e-8f65df3ac2d4",
+    "22": "754c3832-b1b5-4755-aa0e-8f65df3ac2d4",
+    "23": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+    "24": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+    "25": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+    "26": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+    "27": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+    "28": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+    "29": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+    "30": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+    "31": "9f505257-95d3-43b1-9a05-f7187e0840aa",
+    "32": "9f505257-95d3-43b1-9a05-f7187e0840aa",
+    "33": "9f505257-95d3-43b1-9a05-f7187e0840aa",
+    "34": "9f505257-95d3-43b1-9a05-f7187e0840aa",
+    "35": "9f505257-95d3-43b1-9a05-f7187e0840aa",
+    "36": "6a26e252-be2d-48d8-905f-a6a9c00f09ec",
+    "37": "6a26e252-be2d-48d8-905f-a6a9c00f09ec",
+    "38": "6a26e252-be2d-48d8-905f-a6a9c00f09ec",
+    "39": "754c3832-b1b5-4755-aa0e-8f65df3ac2d4"
+  },
+  "references": [
+    {
+      "source_id": "754c3832-b1b5-4755-aa0e-8f65df3ac2d4",
+      "citation_number": 1,
+      "cited_text": "16.1 speech pauses The temporal organisation of speech can be studied by segmenting the speech signal into measurable components, as a sequence of articulated intervals and pauses. Zellner (1994) proposes two classifications of pauses: a physical / linguistic classification and a psychological / psycholinguistic classification. Based on the linguistic classification, “normal speech flow is considered to be interrupted by a physical pause whenever a brief silence can be observed in the acoustic signal, i.e. a segment with no significant amplitude” (Zell-ner, 1994, p. 42). These physical pauses are either intra-segmental pauses or inter-lexical pauses. Intra-segmental pauses are caused by articulatory constraints, such as the occlusion of the vocal tract: the articulation of plosives, for example, creates a silence of 50-100 ms. Intra-lexical pauses are those that appear between two words and provide an initial segmentation of speech to facilitate its perception (Cutler, 1997)."
+    },
+    {
+      "source_id": "754c3832-b1b5-4755-aa0e-8f65df3ac2d4",
+      "citation_number": 2,
+      "cited_text": "Using an arbitrary minimum threshold value for pause length can also lead to erroneous conclusions. The lack of interest in articulatory pauses, combined with poor recording conditions, has led researchers to apply a minimum threshold to pause duration and discard pauses shorter than this threshold. The most widely-used silent pause threshold is 250 ms, first proposed by Goldman-Eisler (1968). F. Grosjean and Deschamps (1975) used a threshold of 300 ms, Candea (2000) used a threshold of 200 ms, and Duez (2001) suggests a threshold between 180 ms and 250 ms. Some studies set a maximum threshold over which a pause is characterised as a silence instead. However, Oehmen et al. (2010, p. 1) remark that “numerous pauses between 130 ms and 250 ms have been shown to have both cognitive and expressive functions”. Campione and Véronis (2002) demonstrate the problems arising when using such thresholds. They compare the average durations in their read and spontaneous French corpora, using no threshold, using both a low and high threshold (200 ms and 2000 ms respectively), and a low threshold only (200 ms). They show that “although the average durations are higher in read speech, we would wrongly conclude that they are about equal if we used both thresholds, and even that pauses are longer in spontaneous speech if we used only a low threshold” (p. 4). They remark that “speakers, speech genres, etc. tend precisely to be opposed by the distribution of pauses in the extremes, which are cut off by the thresholds”."
+    },
+    {
+      "source_id": "754c3832-b1b5-4755-aa0e-8f65df3ac2d4",
+      "citation_number": 3,
+      "cited_text": "Speech rate (syll/s) 3.59 3.33 Speech segments (runs) 493 858 ...with average length (syll) 9.2 4.9 Var. coefficient of vowel duration 0.089 0.022 Var. coefficient of syllable duration 0.079 0.042 Median pitch (Hz) 127 152 Pitch range (semitones) 7.8 14.2 Pitch trajectory (semitones/s) 15.13 22.47 table 20 .3: Global prosodic measures for Study 3 (Simultaneous Interpreting vs. Read Speech) We note a higher articulation rate (syllables per second excluding pauses) under the Reading condition. The interpreter made more silent pauses in the Reading condition. This is reflected in the lower articulation ratio, and the lower speech rate (sylls/s including pauses). Speech segments (continuous stretches of speech separated by silent pauses >250 ms) are considerably more numerous and shorter under the Reading condition than in SI. These measures indicate that the interpreter over-segmented his speech in the Reading condition (short utterances and extensive use of pauses). The observed difference between the variance coefficients of vowel duration and of syllable duration indicate that under the SI condition, the interpreter accelerated and decelerated his articulation more frequently than under the Reading condition. Finally, pitch range and pitch trajectory are smaller under the SI condition, compared to Reading; this indicates that the latter was a livelier rendition of the text."
+    },
+    {
+      "source_id": "754c3832-b1b5-4755-aa0e-8f65df3ac2d4",
+      "citation_number": 4,
+      "cited_text": "(e.g. articulation time, articulation to speech ratio, and measures calculated over articulation time). Modelling pause duration distribution Campione and Véronis (2002) analysed five hours of read and spontaneous speech in five languages. They report a tri-modal distribution of pauses lengths, categorizing them in brief (less than 200 ms), medium (200 to 1000 ms) and long (over 1000 ms). They only found long (>1s) pauses in spontaneous speech. Most importantly, they report that pauses follow a log-normal distribution globally and for each category. Demol, Verhelst, and Verhoeve (2007) analysed a four-hour corpus of three different speaking styles and six European languages. They confirmed that the “logarithmic duration of the pauses can be well approximated by a bi-Gaussian distribution” both in slow and in fast speaking rates. Similar pausing strategies were found for all languages (Dutch, English, French, Italian, Romanian and Spanish). With a slow speaking rate, speakers pause more frequently and use a wider range of pause durations. With a fast speaking rate, speakers pause less frequently and refrain from using the longest pauses occurring in their normal speech. Goldman, Auchlin, Roekhaut, et al. (2010) studied a 40-minute French spoken corpus with 4 speaking styles (reading, narration, broadcast news and university lectures). They report a multimodal log-normal distribution and propose a mixture of log-normal distributions."
+    },
+    {
+      "source_id": "754c3832-b1b5-4755-aa0e-8f65df3ac2d4",
+      "citation_number": 5,
+      "cited_text": "Kirsner, Dunn, and Hird (2005) hypothesis that the first component distribution (short pauses) correspond to articulatory processes and the second component (medium-length pauses) corresponds to cognitive processes, including discourse segmentation. However, this method must be applied with caution, after establishing that the original pause length distribution is indeed bimodal: Heldner and Edlund (2010, pp. 561-562) describe an analysis of gaps (inter-speaker pauses in dialogue) in which “bimodality was clearly an artifact of the [logarithmic] transformation”."
+    },
+    {
+      "source_id": "754c3832-b1b5-4755-aa0e-8f65df3ac2d4",
+      "citation_number": 6,
+      "cited_text": "σ (ms) 1.3 1.4 1.5 1.5 1.4 1.4 1.3 1.9 1.5 1.8 table 16 .2: Log-normal mixture model of silent pause length for the four speaking styles We observe that TAL and NOV are bi-modal, whereas DIC and POL are trimodal. We hypothesize that the long pause component distribution in DIC are the pauses the speaker makes to allow for writing time (a very specific characteristic of the dictation speaking style) and that in POL the long pauses component distribution is mainly connected to rhetorical style. In this chapter we presented the methodological aspects of quantifying and analysing the temporal characteristics of speech. For the analysis of the experimental results collected in this thesis, we have will use the methodology developed in sections 6.2 (and applied in a corpus study in section 6.4) for silent pause, and a combination of different methods for speech and articulation rate."
+    },
+    {
+      "source_id": "754c3832-b1b5-4755-aa0e-8f65df3ac2d4",
+      "citation_number": 7,
+      "cited_text": "Pause type SI Read π µ t π µ t Short 44% 195 283 39% 136 203 Medium 32% 568 1037 48% 581 602 Long 24% 1570 13% 1221 table 20 .4: Log-normal mixture model of silent pause length (in ms), 1.3 < σ < 1.8, N = 3. Regarding disfluencies, under the SI condition the interpreter produced 272 filled pauses vs. only 8 under the Reading condition. Other types of disfluencies were almost inexistent in Reading. Under the SI condition false starts, repetitions and deletions (in order of frequency) were observed. In total, 9.8% of the tokens were disfluent in SI, compared to 0.4% in Reading."
+    },
+    {
+      "source_id": "aafab021-77de-4ff7-9db1-06aece5896f1",
+      "citation_number": 8,
+      "cited_text": "− Speech rate: for the present study words were used as the unit of measure- ment of the speech rate because the aim was not to show the absolute difference between ST and TT, but to point out the effect on the interpreter’s performance of a speech rate which is too fast or too slow by analysing short excerpts of texts (Gerver 1969, Déjean le Féal 1978). − Pauses and syllable lengthening: micro-pauses were not considered, where- as their position in the speech flow was. Therefore unfilled pauses <2 seconds were detected but their duration was not precisely measured. Unfilled pauses >2 seconds were noted and measured manually with the support of the transcription software mentioned above (see 2.4). Two seconds is a value already established by Goldman-Eisler (1958b, 1968, 1972a/b) as the lim-it-value for longer pauses. Audible breaths were considered unfilled pauses because they are actually an interruption of the phonation process. Filled pauses were transcribed as “eh, ehm, mmm” in TTs and “mmm, äh, ähm” in the ST. Syllable lengthenings were included within the filled pauses because they do not interrupt the phonation, yet are a typical example of disfluency in spontaneous speech (Rennert 2010, Pöchhacker 1994, Schwitalla 1997, Voghera 1992, Hargrove/McGarr 1994, Shlesinger 1994).The position of the pauses within the speech was also considered, in particular with respect to the tone and information units (for the definition of information unit see below). Unfilled pauses <2 seconds, unfilled pauses >2 seconds and filled pauses were added together to obtain a total value. Then, after segmenting the speeches into information and tone units, the categories of pause occurrence indicated by Ahrens (2004) were applied (see 3, figure 2)."
+    },
+    {
+      "source_id": "aafab021-77de-4ff7-9db1-06aece5896f1",
+      "citation_number": 9,
+      "cited_text": "Filled pauses (vocalised hesitations) are present throughout the ST, yet not so often in the TTs: 156 in the ST versus 78 in the TTs. Only the interpreter with the shortest professional experience made 178 filled pauses (hesitation pauses), which shows that the difficulty of reconciling the various SI activities can be overcome through expertise and experience. The six interpreters produced an average of 42 pauses longer than 2 seconds (total duration: 257.35 seconds) versus 5 pauses in the ST (24.1 seconds). These had a mainly analytical function: interpreters often stopped during a high-density segment in order to understand it and deliver it appropriately, as explained in Gile’s Effort model (Gile 1985). Other long unfilled pauses led to omissions."
+    },
+    {
+      "source_id": "6a26e252-be2d-48d8-905f-a6a9c00f09ec",
+      "citation_number": 10,
+      "cited_text": "248 E. M. Fernández and I. A. Sekerina the pauses in each of the members of the pair are very similar in duration (325 and 321 ms, respectively). The phrasal break in each is accompanied by pitch reset and pre-boundary lengthening (the duration of the tip is 616 ms when it precedes a break, compared to 395 ms; the duration of the triangle is 820 ms preceding the break, compared to 689 ms). The nine experimental items were rotated through three visual display conditions with three items per condition—disambiguated low attachment (Fig. 1a), disambiguated high attachment (Fig. 1b), and ambiguous (Fig. 1c). However, we could not use a standard fully crossed 3 × 2 design in which visual display (high, low, ambiguous) was crossed with prosody (early break, late break), since that would have produced two conditions with an unnatural pairing of high-attachment visual displays with early break prosody and low-attachment visual displays with late break prosody. In our materials, the prosody systematically matched the visual display for two of the three conditions: High-attachment visual stimuli were always presented with late break prosody, and low-attachment visual stimuli were always presented with early break prosody. For the nine ambiguous visual displays distributed across three versions of the experiment in a between-participants design, six were paired with early break prosody (facilitating low-attachment interpretations) and three with late break prosody (facilitating high-attachment interpretations)."
+    },
+    {
+      "source_id": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+      "citation_number": 11,
+      "cited_text": "An important feature of work conducted with normal-hearing adults has been a demonstration that comprehension and recall of time-compressed speech can be rescued by the insertion of lengthened silent periods at linguistically salient points (e.g., clause and sentence boundaries), within a speech sample to allow listener's processing to “catch up” while listening to the compressed speech ( Overman, 1971 ) at least so long as the degree of time compression is not too great ( Wingfield et al., 1999 ). The placement of pauses is critical, such that the insertion of pauses at random points unrelated to the clausal structure yields little or no improvement in recall ( Wingfield et al., 1999 )."
+    },
+    {
+      "source_id": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+      "citation_number": 12,
+      "cited_text": "Figure 1. Waveform of a sample sentence recorded at its original normal speech rate (top panel), the time-compressed version of the same sentence (middle panel), and the time-compressed version with silent periods inserted after the main clause and sentence ending to restore the lost processing time due to the time-compression (lower panel). Time restoration. A second version of each of the time-compressed passages was constructed in which silent periods were inserted into the narratives at clause and sentence boundaries. The placement of silent periods in these positions followed prior studies showing that pauses at linguistically salient points are more effective in aiding recall than placing pauses at random points with regard to the linguistic content ( Wingfield et al., 1999 ). In order to respect the relative importance of the linguistic boundaries, the durations of the silent periods added at sentence boundaries were set at twice the duration of the silent periods added at clause boundaries."
+    },
+    {
+      "source_id": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+      "citation_number": 13,
+      "cited_text": "It has been shown in prior research that restoration of the processing time lost due to time compression is most effective when silent periods are added at points corresponding to major linguistic constituents ( Wingfield et al., 1999 ). This was done in the present study. The effectiveness of this placement would be expected to the extent that major linguistic constituents (major clause and sentence boundaries) are presumed to be natural processing points for connected discourse ( Ferreira & Anes, 1994 ). By contrast, adding time by uniformly expanding the duration of the speech signal that includes stretching out the duration of individual words, has failed to show a significant improvement in speech intelligibility ( Winn & Teece, 2021 ), while other studies have found a trend toward poorer recall performance relative to speech presented at a normal speech rate (cf., Ji et al., 2013 ; Schmitt, 1983 ; Scmitt & McCroskey, 1981 ; Scmitt & Moore, 1989 ). That is, how one offers the listener extra processing time is important to its effectiveness."
+    },
+    {
+      "source_id": "56a2a9fa-3aa5-4d68-9dbf-2992cddf219d",
+      "citation_number": 14,
+      "cited_text": "Pause position and duration, as well as pause distribution, vary throughout reading acquisition (Lalain et  al., 2014). Pause misplacement is often symptomatic of young readers. Hesitation and respiratory pauses are relatively frequent in early reading. Hesitations are mainly due to decoding problems if the reader has not yet acquired reading accuracy and automaticity. Respiratory pauses are also frequently produced by early readers because of their slow speech rate and lower lung volume. Once children have acquired automaticity, they learn to coordinate their breathing and the syntactic parsing of the text. In expert readers, respiratory pauses are often placed at punctuation marks while syntactic pauses further highlight the grammatical structure. Respiratory pauses of skilled readers are generally longer than syntactic pauses and are located at major syntactic boundaries. As reading speed increases, the placement of respiratory pauses may become more anarchic: the need to breathe takes priority over respecting correct grammar. Training children to read fast may then contradict the acquisition of expert reading skills (Grosjean & Collins, 1979; Rasinski, 2006)."
+    },
+    {
+      "source_id": "754c3832-b1b5-4755-aa0e-8f65df3ac2d4",
+      "citation_number": 15,
+      "cited_text": "Goldman-Eisler (1968, 1972) was the first to posit that pauses are a reflection of cognitive activity. Her hypothesis predicts the commonly observed differences in the pause patterns between spontaneous and read speech (more pauses are produced in spontaneous speech). F. Grosjean and Lane (1976) have shown that listeners integrate pauses in their perception of speaking rate. Krivokapić (2007) studied the effects of effects of prosodic structure and phrase length on pause duration, and found that more complex syntactic structures lead to longer pauses, both pre- and post- boundary. Longer pauses around topic changes than in the middle of sentences (Goldman-Eisler, 1968) but these longer pauses disappear when they have time to plan for topic changes in advance (Greene & Lindsey, 1989). F. Grosjean and Collins (1979) analysed the breathing patterns of speakers reading a text at different speaking rates and found that the duration and frequency of breathing pauses depend on speech rate and their syntactic position. Non-breathing pauses follow the same pattern as breathing pauses, but are always shorter and tend to occur primarily at minor constituent breaks. As the speech rate increases, shorter pauses disappear and only breathing pauses persist at the major breaks."
+    },
+    {
+      "source_id": "f136bf43-3ad5-4264-8a5f-d504e18b89ed",
+      "citation_number": 16,
+      "cited_text": "propositions or informational units, not sentences, and lecture information is segmented (McCarthy 1 99 1  :99) into what Baddeley (2000 :4 1 9) calls ' idea units' or propositions . A proposition or informational unit is the smallest unit of meaning that underpins the surface structure of a text (Coderre et al. 2003 :697). As full stops define sentence boundaries, pauses fulfil the same function for informational units (McCarthy 1 99 1 :  1 0 1 ). According to Jung (2003 :562), a large body of research has shown that"
+    },
+    {
+      "source_id": "17085a6c-dea1-43ef-8452-6871e38f6726",
+      "citation_number": 17,
+      "cited_text": "Listeners may not rely on pause structure because it is an unreliable boundary cue in spontaneous speech. In comparison with read or rehearsed speech, spontaneous speech contains longer and more frequent pauses and hesitations (Barik, 1977; Crystal & Davy, 1969; Kowal, O'Connell, O'Brien, & Bryant, 1975; Levin, Schaffer, & Snow, 1982), and shorter prosodic units (Crystal & Davy, 1969). Blaauw (1994) reports that 21% of all pauses in a large sample of spontaneous speech were associated neither with syntactic structure nor with a prosodic structure derived from syllabic weights and accents (see also Henderson, Goldman-Eisler, & Skarbek, 1966, and Levin et al., 1982, for further reports of the lack of parity between pause structure and syntactic structure in this type of speech). Blaauw suggests that pauses in spontaneous speech may be related to information structure; they tend to occur prior to highly informative words (again, this is a suggestion with considerable history in the pausing literature: Maclay & Osgood, 1959; Goldman-Eisler, 1968). As Hirschberg (1993) pointed out, most work on discourse has defined discourse as \"utterances in context\"; monologues, elicited speech, read speech, and radio speech have been more frequently examined than natural dialogue. It is questionable to what extent the results of such studies can be generalized to processing in natural discourse situations. Mehta and Cutler (1988) found that phoneme-detection effects that are related to prosody, such as faster detection of targets in accented than in unaccented words, and in strong than in weak syllables, emerged with spontaneously spoken, but not with read materials. Thus"
+    },
+    {
+      "source_id": "754c3832-b1b5-4755-aa0e-8f65df3ac2d4",
+      "citation_number": 18,
+      "cited_text": "The main hypothesis is that the effects of cognitive load on prosody will be detected in the temporal organisation of speech and the segmentation (phrasing) of utterances. It is hypothesised that limitations of working memory will affect speech planning, leading to a marked increase in mismatches between prosodic and syntactic boundaries. We expect to find an increase in the number of occurrences of major prosodic boundaries inside minor syntactic units (chunks), i.e. in positions where there are normally not expected. On this basis, with respect to temporal prosodic measures, we expect to find an increase in the frequency of long pauses, and a more variable speech rate."
+    },
+    {
+      "source_id": "754c3832-b1b5-4755-aa0e-8f65df3ac2d4",
+      "citation_number": 19,
+      "cited_text": "Results indicate that under increased cognitive load, speakers produce more numerous and longer in duration silent pauses; there is also an increase in the variability of articulation rate (more accelerations and decelerations). We confirm our hypothesis that cognitive load incurs an increase in the num- ber of occurrences of major prosodic boundaries inside minor syntactic units (chunks), and that silent and filled pauses are placed incongruently with the syntactic structure. However, while filled pause ratio (proportion of speech time spent on filled pauses) increases, some speakers do not produce more filled pauses but rather produce longer filled pauses or drawls (hesitationrelated lengthening). There was no systematic change in the mean pitch of speakers under cognitive load; in some of the studies it was observed that high cognitive load tasks result in a decrease of mean pitch variance and pitch movements. EGG results indicate that the Closed Quotient measure increases as cognitive load increases."
+    },
+    {
+      "source_id": "754c3832-b1b5-4755-aa0e-8f65df3ac2d4",
+      "citation_number": 20,
+      "cited_text": "In light of the previous discussion, we formulate the hypothesis that under cognitive load, there will be a marked increase in mismatches between prosodic and syntactic boundaries. We expect to observe in increase in mismatches because the constraints imposed on working memory will interfere with the look-ahead process, as described for example in Krivokapić (2012). In quantitative terms, we expect to find an increase in the number of occurrences of major prosodic boundaries inside minor syntactic units (chunks), i.e. in positions where there are normally not expected. This is consistent with the more generic hypothesis about an increase in the duration of silent and filled pauses under cognitive load, but it is a more precise hypothesis: it is not only the number and duration of pauses (or “hesitation” pauses as they have sometimes been called) that is important, but rather their placement within the syntactic structure, and the consequences that this will have for the prosody-syntax interface."
+    },
+    {
+      "source_id": "754c3832-b1b5-4755-aa0e-8f65df3ac2d4",
+      "citation_number": 21,
+      "cited_text": "We observe that in the SI condition, there was frequently a mismatch between prosodic and syntactic boundaries. These are typically cases in which the interpreter constructs a phrase incrementally, pausing inside syntactic units. Figure 20.2 shows how the three different types of silent pauses are (a) Simultaneous Interpreting (b) Reading figure 20 .1: Density plots of log (silent pause length) and component distributions for the two conditions distributed between and within syntactic units (chunks and functional sequences) and BDUs."
+    },
+    {
+      "source_id": "754c3832-b1b5-4755-aa0e-8f65df3ac2d4",
+      "citation_number": 22,
+      "cited_text": "of speech time spent on filled pauses) increases, some speakers do not produce more filled pauses but rather produce longer filled pauses or drawls (hesitation-related lengthening). In high cognitive load conditions, we observed a more variable articulation rate (Studies 2 and 3), i.e. the speakers produced more accelerations and decelerations. The findings on silent and filled pauses must be interpreted in conjunction with the findings on the prosody-syntax interface. Study 3 indicates that a very high cognitive load condition is associated with frequent mismatches between prosodic and syntactic boundaries: in these cases, silent and filled pauses are inserted inside minor syntactical units (e.g. chunks). We confirm our hypothesis that cognitive load incurs an increase in the number of occurrences of major prosodic boundaries inside minor syntactic units (chunks), i.e. in positions where there are normally not expected. Silent and filled pauses are placed incongruently with the syntactic structure."
+    },
+    {
+      "source_id": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+      "citation_number": 23,
+      "cited_text": "Title: Strategic Pauses Relieve Listeners from the Effort of Listening to Fast Speech: Data Limited and Resource Limited Processes in Narrative Recall by Adult Users of Cochlear Implants URL Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC10637151/ Markdown Content: Abstract Speech that has been artificially accelerated through time compression produces a notable deficit in recall of the speech content. This is especially so for adults with cochlear implants (CI). At the perceptual level, this deficit may be due to the sharply degraded CI signal, combined with the reduced richness of compressed speech. At the cognitive level, the rapidity of time-compressed speech can deprive the listener of the ordinarily available processing time present when speech is delivered at a normal speech rate. Two experiments are reported. Experiment 1 was conducted with 27 normal-hearing young adults as a proof-of-concept demonstration that restoring lost processing time by inserting silent pauses at linguistically salient points within a time-compressed narrative (“time-restoration”) returns recall accuracy to a level approximating that for a normal speech rate. Noise vocoder conditions with 10 and 6 channels reduced the effectiveness of time-restoration. Pupil dilation indicated that additional effort was expended by participants while attempting to process the time-compressed narratives, with the effortful demand on resources reduced with time restoration. In Experiment 2, 15 adult CI users tested with the same (unvocoded) materials showed a similar pattern of behavioral and pupillary responses, but with the notable exception that meaningful recovery of recall accuracy with time-restoration was limited to a subgroup of CI users identified by better working memory spans, and better word and sentence recognition scores. Results are discussed in terms of sensory-cognitive interactions in data-limited and resource-limited processes among adult users of cochlear implants."
+    },
+    {
+      "source_id": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+      "citation_number": 24,
+      "cited_text": "The left panel of Figure 2 shows the mean percentage of propositions recalled when passages were heard with clear speech (i.e., nonvocoded) when presented at their original normal speech rate (N), when time-compressed to 60% of original playing time (TC), and when the time-compressed passages had the lost processing time restored by inserting silent periods at clause and sentence boundaries (TR). The middle and right panels show these data for passages heard with 10 and 6 vocoder channels, respectively."
+    },
+    {
+      "source_id": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+      "citation_number": 25,
+      "cited_text": "For normal-hearing young adults, pauses inserted strategically in rapid speech rescues the listener from the detrimental effect of rapid speaking rate, with that benefit diminishing as the signal gets poorer and poorer. The recall decrement resulting from time compression was fully reversed in the time-restoration condition for clear speech, and nearly so when the speech was heard with 10-channel vocoding. These cases reflect the expectations for a resource-limited process. That is, in both cases there was sufficient sensory information available to the listener to allow an effective allocation of processing resources, along with the presence of periodic silent intervals during which no new information was arriving, to yield a level of recall approximating that observed for noncompressed speech."
+    },
+    {
+      "source_id": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+      "citation_number": 26,
+      "cited_text": "Results Narrative Recall Figure 5 shows the mean percentage of propositions recalled from the narratives when presented at the original normal speech rate ( N ), when time-compressed to 60% of the original playing time (TC), and with time-restoration (TR), where silent pauses were inserted into the compressed passages at clause and sentence boundaries. (One CI user stopped after the first experimental block. For this participant, accuracy data was based on three trials in each condition.) Figure 5. Mean percentage of narrative content (propositions) recalled from narratives by CI users when the narratives were presented at their original normal speech rate (N), when time-compressed to 60% of their original playing time (TC) and in the time-restoration (TR) condition in which the lost processing time was restored by silent periods inserted at clause and sentence boundaries. Error bars are one standard error."
+    },
+    {
+      "source_id": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+      "citation_number": 27,
+      "cited_text": "Table 5. <cited_table> Pupillometry The pupillometry data for the CI users are shown in Figure 6 adjusted for presentence baselines and presented as a percentage of individuals’ pupillary dynamic range. Figure 6 shows these mean adjusted pupil sizes as participants listened to narratives presented with the original normal speech rate, when time-compressed, and when time-compressed with time-restoration. These time series data are again plotted as a percentage of the passage durations to take into account the reduced duration of the time-compressed passages.",
+      "cited_table": {
+        "num_columns": 8,
+        "rows": [
+          [
+            "",
+            "Effect of restoration",
+            "CNC30",
+            "AzBio",
+            "Reading span",
+            "Shipley",
+            "Flanker",
+            "Age"
+          ],
+          [
+            "",
+            "228%",
+            "69",
+            "87.04",
+            "10",
+            "17",
+            "52.65",
+            "64"
+          ],
+          [
+            "Meaningful",
+            "100%",
+            "66",
+            "81.94",
+            "7",
+            "17",
+            "52.65",
+            "71"
+          ],
+          [
+            "Recovery",
+            "61%",
+            "57",
+            "75.72",
+            "10",
+            "17",
+            "75.5",
+            "73"
+          ],
+          [
+            "",
+            "59%",
+            "75",
+            "91.7",
+            "13",
+            "17",
+            "60.18",
+            "62"
+          ],
+          [
+            "",
+            "50%",
+            "61",
+            "75.08",
+            "10",
+            "17",
+            "104.43",
+            "31"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "9%",
+            "45",
+            "77.69",
+            "-",
+            "17",
+            "48.53",
+            "66"
+          ],
+          [
+            "Little or no",
+            "6%",
+            "20",
+            "32.25",
+            "8",
+            "12",
+            "109.1",
+            "32"
+          ],
+          [
+            "Recovery",
+            "6%",
+            "38",
+            "19.24",
+            "3",
+            "16",
+            "5.83",
+            "76"
+          ],
+          [
+            "",
+            "0%",
+            "33",
+            "32.06",
+            "6",
+            "15",
+            "17.9",
+            "34"
+          ],
+          [
+            "",
+            "−18%",
+            "42",
+            "65.41",
+            "8",
+            "17",
+            "44.45",
+            "38"
+          ]
+        ]
+      }
+    },
+    {
+      "source_id": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+      "citation_number": 28,
+      "cited_text": "Two major features appear by visual inspection of the time series data shown in both Figure 3(A) and Figure 3(B) . The first is that participants’ adjusted pupil sizes progressively decline toward the latter part of the passages when heard at the original normal speech rate, and when time-compressed passages were heard with time-restoration. The second major feature observed in Figure 3(A) and (B) is that the time-restoration condition reduces the level of processing effort indexed by pupil dilation to a level close to that for passages heard at a normal speech rate. These patterns are the same whether or not time normalization is employed."
+    },
+    {
+      "source_id": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+      "citation_number": 29,
+      "cited_text": "For the normal hearing young adults seen in Figure 4(A) , pupil size when participants were listening to time-compressed speech was significantly larger than pupil size when participants listened to passages heard at a normal speech rate for 69.29% of the passages’ durations, with these significant differences starting at 30.71% after stimulus onset and continuing until the passages’ offset. Figure 4(B) confirms that there is no statistically detectable difference in pupil size when participants listened to passages heard with time-restoration as compared with the normal rate at any point of the passages’ durations. Consistent with this, Figure 4(C) shows that pupil size for passages heard time-compression was significantly larger than pupil size for passages heard with time-restoration for 71.27% of the passages’ durations, with that region of significance beginning at 28.73% after stimulus onset and lasting until the passages’ offset."
+    },
+    {
+      "source_id": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+      "citation_number": 30,
+      "cited_text": "Table 2. <cited_table> Inspection of Table 2 confirmed a significant effect of time compression on pupil dilation relative to the pupillary response to narratives heard at a normal speech rate ( p < .001). Inserted pauses within time-compressed speech reduced processing effort to levels comparable to that of normal speech rate. This was reflected in the absence of a significant difference in the pupillary responses to the time-restored and normal speech rate conditions ( p = .604). The pupillary response for the more severely degraded 6-channel vocoding was significantly larger than those observed for ( p < .001). The observed trend toward larger pupil sizes when speech was heard with 10-channel vocoding relative to clear speech was not significant ( p = .149).",
+      "cited_table": {
+        "num_columns": 5,
+        "rows": [
+          [
+            "Parametric Coefficients",
+            "Estimate",
+            "SE",
+            "t",
+            "p"
+          ],
+          [
+            "Intercept (normal rate: clear speech)",
+            "3.04",
+            "1.13",
+            "2.70",
+            ".007"
+          ],
+          [
+            "Time-restored",
+            "−0.33",
+            "0.62",
+            "−0.52",
+            ".602"
+          ],
+          [
+            "Time-compressed",
+            "2.31",
+            "0.62",
+            "3.70",
+            "<.001"
+          ],
+          [
+            "10-Channel vocoding",
+            "0.94",
+            "0.65",
+            "1.44",
+            ".149"
+          ],
+          [
+            "6-channel vocoding",
+            "2.32",
+            "0.65",
+            "3.56",
+            "<.001"
+          ]
+        ]
+      }
+    },
+    {
+      "source_id": "9f505257-95d3-43b1-9a05-f7187e0840aa",
+      "citation_number": 31,
+      "cited_text": "THE ABSENCE OF PAUSES IN SPOKEN NARRATIVES AND MEMORY RECALL Jan Volín and Pavel Šturm Institute of Phonetics, Charles University, Prague, Czech Republic jan.volin@ff.cuni.cz, pavel.sturm@ff.cuni.cz ABSTRACT An experiment with a memory recall test based on continuous spoken texts was carried out. The primary factor to examine was the absence of pauses. A sample of 24 subjects listened to eight narratives with the task to subsequently fill in the missing words into gaps in a printed version of each of the texts. With pauses defined as cessation of lexical item articulation, the present study tests the hypothesis that spoken texts with the pauses removed will lead to a worse recall of the words contained in them."
+    },
+    {
+      "source_id": "9f505257-95d3-43b1-9a05-f7187e0840aa",
+      "citation_number": 32,
+      "cited_text": "As the narrative recordings were made in studios, there were only logical pauses in line with syntacticosemantic structure (guaranteed by the studio director), that is, no abrupt or disturbing dysfluencies. Mean duration of the extracts was 47.2 seconds with std. dev. of 1.1 seconds. Further descriptors of the sample are displayed in Table 1. Speaker DurP+ DurP– n Wds n Pss F1 45.2 37.2 111 13 F2 46.3 37.1 119 14 F3 48.0 41.2 102 19 F4 46.4 34.3 91 15 M1 48.9 35.9 106 17 M2 46.7 38.1 116 15 M3 47.2 36.9 112 23 M4 48.3 37.3 84 18"
+    },
+    {
+      "source_id": "9f505257-95d3-43b1-9a05-f7187e0840aa",
+      "citation_number": 33,
+      "cited_text": "4. Speech Prosody ID: 535 Figure 1: Counts of correctly recalled lexical items by 24 respondents (R01–R24) under two experimental conditions. 3. RESULTS Due to the intended difficulty of the task, only 463 out of 1920 items (24 subjects × 80 words) were recalled correctly. In terms of percentage, it is 24.1% success rate. When split by CONDITION, the recall rates were 20.6% under the NoPause condition and 27.6% under the Pause condition (198 against 265 correctly recalled items, respectively). There were 10 words to be recalled per text. On average, 2.47 words were remembered correctly under the NoPause condition, whereas under the Pause condition it was 3.31 words."
+    },
+    {
+      "source_id": "9f505257-95d3-43b1-9a05-f7187e0840aa",
+      "citation_number": 34,
+      "cited_text": "Figure 2: Counts of correctly recalled lexical items in 8 spoken texts under two experimental conditions. The results can be further broken down according to the individual experimental texts.  Figure 2 shows that the effect size varies across the eight texts and two of the texts (F3 and M2) even produced results in an unexpected direction. To evaluate the difference between Pause and NoPause conditions statistically, we constructed a generalized linear mixed model with the Poisson distribution. The situation in Figures 1 and 2 suggests that the effect should vary freely across subjects and texts in the model. The count data included 192 rows (8 texts × 24 subjects) specifying the number of observed correct responses (max = 10 in each cell). The following syntax was used in lme4 package [15]:"
+    },
+    {
+      "source_id": "9f505257-95d3-43b1-9a05-f7187e0840aa",
+      "citation_number": 35,
+      "cited_text": "Lastly, we are not aware of any study similar to ours on the Czech language. Ultimately, crosslinguistic comparisons in this field that take into account prosodic and syntactic specificities of Czech might be possible. 5. CONCLUSION Pauses in spoken narratives should not be considered important only for speech production (breathing, neurolinguistics planning) but also for speech perception. The listeners in our experiment clearly benefited from their presence in a recall task. With the pauses absent in otherwise identical spoken texts, the lexical recall was significantly worse. Pauses thus clearly belong to the temporal structure of speech and fulfil important roles with regard to effectiveness of language communication."
+    },
+    {
+      "source_id": "6a26e252-be2d-48d8-905f-a6a9c00f09ec",
+      "citation_number": 36,
+      "cited_text": "Armed with this theoretical innovation, we conducted a large-scale individual differences study designed to investigate the relationship between WM capacity and attachment decisions (Swets et al. 2007). Our research strategy was to identify a long sentence type that would likely need to be spoken as more than one production unit. For this purpose we chose the relative clause attachment structure illustrated in The maid of the princess who scratched herself in public was terribly embarrassed. This sentence seems to allow for two possible break points: one after public, at the subject–verb phrase boundary, and the other after princess, before the relative clause. These options are rank ordered, of course: The location between the subject and verb phrase is the one that is structurally most preferred, and the location before the relative clause might also be exploited if an individual has such limited processing capacity that he/she must divide the sentence into more than two performance units. In addition, as has been widely discussed, the sentence is globally ambiguous because the relative clause can attach either high, to the first noun (N1, maid), or low, to the second and more recent noun (N2, princess). The preference for N1 or N2 attachment seems to vary crosslinguistically: Dutch has about a 60–40 % bias for N1 attachments (Desmet et al. 2002), whereas English has a 40–60 % bias for N2 attachments (Cuetos and Mitchell 1988). These crosslinguistic differences have been explained by appealing to implicit prosody: Whereas speakers of Dutch tend to put a prosodic break between the complex noun phrase (NP) and the relative clause in sentences like these, English speakers tend to leave out this break and prefer to place a break after the relative clause instead of before it. If a speaker does insert a prosodic break before the relative clause, as Dutch speakers tend to do, the result is a bias towards higher attachment decisions for spoken sentences (Carlson et al. 2001). The prosodic break is assumed to induce N1 preferences because it can be interpreted as a “structural discontinuity in the syntactic tree” (Fodor 2002a, p. 4). This interpretation supports the formation of a tree in which the entire NP is modified by the relative clause rather than just N2, resulting in a high-attachment (N1) preference."
+    },
+    {
+      "source_id": "6a26e252-be2d-48d8-905f-a6a9c00f09ec",
+      "citation_number": 37,
+      "cited_text": "(8)  a. (IP In order to help the little boy IP) (IP Jill put down the package she was carrying. IP)  b. (IP In order to help IP) (IP the little boy put down the package he was carrying. IP) In (8), the fronted embedded clause and the following main clause are separated by an intonation break because topicalized clauses usually form an intonation phrase of their own. As pointed out by Wagner and Watson (2010) in a recent overview of prosody and sentence processing, experimental investigations of auditory sentence comprehension have repeatedly shown that prosody reliably helps hearers in avoiding the garden-path that occurs when reading such sentences (e.g., Speer et al. 1996; Warren et al. 1995)."
+    },
+    {
+      "source_id": "6a26e252-be2d-48d8-905f-a6a9c00f09ec",
+      "citation_number": 38,
+      "cited_text": "With materials disambiguated visually (as well as prosodically), we observed a significant effect of prosody for both high- and low-attachment materials. More looks were launched by the participants to the correct panel as early as the begin- ning of the RC, i.e., that has… (ROI4) for materials disambiguated low, but later in ROI5 for materials disambiguated high. This time course difference in the effect of prosody can only be attributed to differences between early and late break prosody as the sentence is disambiguated only in ROI5. The prosody that encourages low attachment—signaled by a phrasal break between N1 and the prepositional phrase ( the tip | of the triangle that…)—is a more reliable cue to interpretation than the prosody that encourages high attachment—signaled by a phrasal break after N2 ( the tip of the triangle | that…). Our eye-tracking data indicate that early break prosody is used to interpret RC attachments well before the content of the RC is available, which is a finding of theoretical importance, with implications for models of the human sentence processing mechanism. How exactly early break prosody influences interpretations online is a matter that will require further empirical work. Perhaps"
+    },
+    {
+      "source_id": "754c3832-b1b5-4755-aa0e-8f65df3ac2d4",
+      "citation_number": 39,
+      "cited_text": "pairs of improvements in discriminating different effort levels can be made by combining multiple features”. Cognitive pupillometry has been successfully used to study language processing. Engelhardt, Corley, Nigg, and Ferreira (2010) focuses on language comprehension and investigated the “processing effort by measuring peoples’ pupil diameter as they listened to sentences containing a temporary syntactic ambiguity”. In their first experiment, the prosody of short sentences was manipulated, and the results showed that “when prosodic structure conflicted with syntactic structure, pupil diameter reliably increased”. In a second experiment, they manipulated both prosody and visual context, finding that “when visual context was consistent with the correct interpretation, prosody had very little effect on processing effort. However, when visual context was inconsistent with the correct interpretation, prosody had a large effect on processing effort”. They conclude that there is an interaction between the visual context (when a sentence refers to that context) that can modulate the effects of linguistic information such as prosody."
+    }
+  ]
+}

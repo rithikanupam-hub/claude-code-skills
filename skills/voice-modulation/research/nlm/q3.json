@@ -1,0 +1,322 @@
+{
+  "answer": "Here is a breakdown of when a speaker should modulate **volume**, **pitch**, and **speed**, organized by specific communicative and narrative functions:\n\n---\n\n### 1. Introducing a New Character or Topic\n* **Pitch**: **Raise pitch / start high in register**. Speakers naturally reset their pitch higher when initiating a new topic or paragraph segment [1]. In voice narration, lifting the pitch on the first key word of a phrase or sentence \"opens up\" the delivery, grabs listener attention, and establishes new characters or scenes [2, 3].\n* **Volume**: **Increase initial volume**. Discourse transitions are accompanied by an initial acoustic rise in amplitude [1].\n* **Speed / Pace**: **Slow down initially and insert pauses**. Topic initiations feature a slower articulation rate at the start, framed by longer pauses before and after the topic boundary [1, 4].\n* **Sources**: *Prosody in the Comprehension of Spoken Language* (Cutler et al.) [1]; *Continuous Speech Recognition* (Thompson) [4]; *The Voice Actor's Performance Guidebook* (Goldberg / Edge Studio) [3]; *Three-P Framework* (Keene) [2].\n\n---\n\n### 2. Reading Numbers, Phone Numbers, or Complex Lists\n* **Pitch**: **Alternate pitch inflections** (upward, straight, downward) or start each group on a **different pitch**. When reading multi-digit sequences quickly, shifting the pitch at each group boundary prevents a monotonous delivery and helps listeners differentiate the chunks [5, 6].\n* **Speed / Pace**: **Slow down and insert micro-pauses**. Pausing briefly after an area code or prefix gives listeners necessary cognitive processing windows to retain numerical information [7-9].\n* **Volume**: **Maintain consistent volume**. Avoid shouting numbers; rely on pitch modulation and deliberate timing to create clarity without distorting audio levels [5, 8].\n* **Sources**: *The Voice Actor's Performance Guidebook* (Goldberg / Edge Studio) [5-9].\n\n---\n\n### 3. Asking a Question\n* **Pitch**: **Raise pitch** (invert / rising boundary tone). Elevate pitch on the accent syllable or at the sentence boundary (up-talk / high-rising terminal inflection) [2, 10, 11].\n* **Speed / Pace**: **Maintain standard pace**. The pitch rise itself communicates that an answer or response is expected [2, 11].\n* **Volume**: **Keep volume stable**. Inverting a line into a question relies on pitch movement alone; increasing loudness while asking a question sounds unnatural and breaks character [11, 12].\n* **Sources**: *Three-P Framework* (Keene) [2]; *The Voice Actor's Performance Guidebook* (Goldberg / Edge Studio) [11, 12]; *A Review of Reading Prosody Acquisition* (Godde et al.) [10].\n\n---\n\n### 4. Delivering a Punchline, Resolution, or Contrast\n* **Pitch**: **Lower pitch**. The \"punchline\" or resolution of an escalating sequence is delivered at a lower pitch to signal finality and weight [13, 14].\n* **Speed / Pace**: **Slow down and add a strategic pause (\"beat\")**. Inserting a 1-to-3 beat pause immediately before the loaded word or punchline creates suspense and gives the audience time to anticipate the landing [15, 16].\n* **Volume**: **Pull back to a quiet volume / whisper**. Building volume across escalating lines and then suddenly dropping to a quiet level on the final beat produces maximum emotional contrast and impact [14, 17].\n* **Sources**: *Three-P Framework* (Keene) [13-15]; *The Voice Actor's Performance Guidebook* (Goldberg / Edge Studio) [16, 17].\n\n---\n\n### 5. Conveying Surprise, Revelation, or Excitement\n* **Pitch**: **Raise pitch**. High pitch peaks and wider pitch ranges are the primary acoustic markers of surprise, revelation, and excited exclamations [2, 18, 19].\n* **Speed / Pace**: **Speed up (accelerate articulation rate)**. Excitement, anxiety, and panic naturally accelerate the tempo of speech [15, 20-22].\n* **Volume**: **Increase volume**. High energy and urgency are communicated through higher amplitude and expanded dynamic range [21, 23, 24].\n* **Sources**: *Influence of Gender Dimorphism on Audience Engagement* (Frontiers) [18, 19]; *Three-P Framework* (Keene) [2, 15, 24]; *Pitch Modulation and Vocal Dynamics* (Burr) [21]; *TED: How to Speak So That People Want to Listen* (Treasure) [20, 23].\n\n---\n\n### 6. Marking a Conclusion, Statement Finality, or Topic Ending\n* **Pitch**: **Lower pitch** (falling intonation contour / downstep / low boundary tone). Concluding statements, authority speech, and topic endings characteristically feature falling pitch contours [1, 4, 13, 25].\n* **Speed / Pace**: **Slow down (final lengthening) and extend pauses**. Syllables at the end of a concluding statement undergo final lengthening, followed by longer silent pauses to mark completion [1, 25-27].\n* **Volume**: **Lower volume / decrease amplitude**. Final statements in a narrative unit show a natural drop in amplitude [1].\n* **Sources**: *Prosody in the Comprehension of Spoken Language* (Cutler et al.) [1]; *Effects of Cognitive Load* (PMC) [25, 26]; *Continuous Speech Recognition* (Thompson) [4]; *Prosodic Cues to Correct Answers* (Niebuhr / ISCA) [27]; *Three-P Framework* (Keene) [13].\n\n---\n\n🎧 Would you like me to compile these rules into a formatted PDF cheat sheet or practice script guide for narration practice?",
+  "conversation_id": "880b673b-cab4-488f-b8ec-d2bfbfb1f949",
+  "sources_used": [
+    "17085a6c-dea1-43ef-8452-6871e38f6726",
+    "05ca0ea0-e166-4d42-8a63-8bdf1dfccf76",
+    "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "f136bf43-3ad5-4264-8a5f-d504e18b89ed",
+    "56a2a9fa-3aa5-4d68-9dbf-2992cddf219d",
+    "6365f668-4666-4e49-b577-78b124b47a16",
+    "e86ce354-abd6-4a02-b628-35704c487308",
+    "767c5034-d6bd-4eed-831f-9ac71335ab6d",
+    "754c3832-b1b5-4755-aa0e-8f65df3ac2d4",
+    "303c28b4-bd96-448a-90e6-e56ffd86aeb8"
+  ],
+  "citations": {
+    "1": "17085a6c-dea1-43ef-8452-6871e38f6726",
+    "2": "05ca0ea0-e166-4d42-8a63-8bdf1dfccf76",
+    "3": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "4": "f136bf43-3ad5-4264-8a5f-d504e18b89ed",
+    "5": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "6": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "7": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "8": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "9": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "10": "56a2a9fa-3aa5-4d68-9dbf-2992cddf219d",
+    "11": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "12": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "13": "05ca0ea0-e166-4d42-8a63-8bdf1dfccf76",
+    "14": "05ca0ea0-e166-4d42-8a63-8bdf1dfccf76",
+    "15": "05ca0ea0-e166-4d42-8a63-8bdf1dfccf76",
+    "16": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "17": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "18": "6365f668-4666-4e49-b577-78b124b47a16",
+    "19": "6365f668-4666-4e49-b577-78b124b47a16",
+    "20": "e86ce354-abd6-4a02-b628-35704c487308",
+    "21": "767c5034-d6bd-4eed-831f-9ac71335ab6d",
+    "22": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "23": "e86ce354-abd6-4a02-b628-35704c487308",
+    "24": "05ca0ea0-e166-4d42-8a63-8bdf1dfccf76",
+    "25": "754c3832-b1b5-4755-aa0e-8f65df3ac2d4",
+    "26": "754c3832-b1b5-4755-aa0e-8f65df3ac2d4",
+    "27": "303c28b4-bd96-448a-90e6-e56ffd86aeb8"
+  },
+  "references": [
+    {
+      "source_id": "17085a6c-dea1-43ef-8452-6871e38f6726",
+      "citation_number": 1,
+      "cited_text": "Considerable research has also been carried out on the prosodic correlates of the division of discourse into topics. Most of this research has involved production studies. Speakers start new topics relatively high in their pitch range and finish topics by compressing their range (Brown, Currie, & Kenworthy, 1980; see also Venditti & Swerts, 1996); they use low boundary tones at topic endings but not for continuations (Swerts & Geluykens, 1994). Similar reports of the role of FO declination in structuring discourse may be found in Bruce (1982), Menn and Boyce (1982), Thorsen (1985), Ladd (1988), and Sluijter and Terken (1993). Speakers pause at \"paragraph\" boundaries in re-telling a story (Van Donzel & Koopmans-van Beinum, 1996); these boundaries are more likely to be marked by a filled pause (Swerts, Wichmann, & Beun, 1996); and the duration of pauses between utterances is longer for major than for minor topic shifts (Lehiste, 1979; Swerts & Geluykens, 1994; Brown et al., 1980). Speaking rate is also associated with text structure: the rate is lower utterance- or paragraph-initially than -finally (Brubaker, 1972; Lehiste, 1980; Butterworth, 1975). Finally, Brown et al. (1980) found that there was a rise in amplitude at the beginning of a topic, and a fall at the end."
+    },
+    {
+      "source_id": "05ca0ea0-e166-4d42-8a63-8bdf1dfccf76",
+      "citation_number": 2,
+      "cited_text": "Where to Pitch Up Questions are the easiest place to start. Almost every question naturally rises in pitch at the end. If your character has a line like \"do we fight in order to gain more power, or do we gain more power in order to fight?\", that question deserves a clear pitch lift, especially at the question mark moments. A flat delivery of a question loses one of the easiest tools you have for adding interest. Beyond questions, pitch up for: Moments of surprise or revelation Sarcastic asides Excited exclamations Mockery or imitation of another character Vulnerable or insecure moments (these often pitch slightly higher than confident ones)"
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 3,
+      "cited_text": "TIP: Do not argue with the producer about the words they request that you hit … even if you are sure that a different word should be hit instead. You skill includes being able to do whatever the director asks. b. One of the first words of every phrase and sentence should be hit – this    grabs the attention of the listener. Try reading this: “Welcome to our company video.” First, read it without any emphasis – you’ll find that your delivery is monotonous and boring. Then re-read the sentence many times, each time hitting a different word – now you’ll find that your delivery is interesting."
+    },
+    {
+      "source_id": "f136bf43-3ad5-4264-8a5f-d504e18b89ed",
+      "citation_number": 4,
+      "cited_text": "markers (McCarthy 1 99 1 : 1 32). For example, Thompson (2003 :8) describes topic change as  a gradual lowering of pitch followed by a pause and a rising pitch again such as in \"ENded . . .  neXT OBESITY\" . Discourse markers also signal the boundaries of topics and sub-topics (McCarthy 1 99 1 : 1 3 2). These examples from Thompson (2003) highlight the functions of discourse markers : 1 .  refer to the topic or sub-topic content; 2 .  make a transition statement: next obesity ; . 3 .  refer globally to the lecture or part thereof : now the conclusion ;"
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 5,
+      "cited_text": "However telephone numbers often need to be read quickly (to fit time). In this case, instead of pausing between the three sections, begin each section of the telephone number at a different pitch, as this helps differentiate the various sections. When telephone numbers spell words, the voice talent should generally say the word, as opposed to spelling it out. This is because a word is normally easier to remember than the individual letters. In the rare instance the producer wants the word spelled out, she will generally use dashes between each letter."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 6,
+      "cited_text": "For example, if the computer needs to announce: The number is 123-456-7890. The “1” will have upwards inflection, the “2” straight inflection, the “3” downwards inflection, etc. A typical menu-prompt script looks like this: Read the following, each with upwards, straight, and downwards inflections: digits 0 though 9 10, 20, 30, 40, 50, 60, 70, 80, 90 hundred thousand Read the following with downwards inflection only: and the number is I’m sorry, I did not understand. Please enter the number again."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 7,
+      "cited_text": "But this particular case raises another issue. Without the pause, it might sound like your sink is “clogging with Liquid Plumber.”  That’s certainly not what the advertiser wants people to hear!  What to do?  Remember that there are other ways to separate phrases besides pausing. For example, you might use tempo. Slow just a bit as you say “clogging” (but not so much as to call attention to the word), and speed up a bit as you say “with Liquid Plumber Drain Cleaner.” And don’t get so absorbed in the speed-up that you forget to hit “Liquid Plumber,” the product name. Speaking of which …"
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 8,
+      "cited_text": "Remember, the rule of thumb is to go with your gut instinct instead of stopping the recording and asking the producer how they prefer it. The following numbers can be read multiple ways: Call us at 203-334-3343 Call 2 zero 3   or   Call 2 “oh” 3. You can win $100! win a hundred bucks!   or   win one hundred dollars! This Ford pick-up comes with a 350-horsepower engine. a 300 and 50 hp engine   or   a 3-50 hp engine   or   a 300-50 hp engine Telephone numbers, e-mail addresses, website addresses, etc., should be delivered clearly. However since voice actors often memorize this information during the"
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 9,
+      "cited_text": "recording session, they tend to read it too fast for the listener to catch and retain. (Think of how annoying it is when someone leaves their telephone number too quickly on your voice mail.)  Read clearly – remembering that the listener does not know the information. For a phone number, the proper technique is to pause after the area code and prefix. These pauses are usually very short. For example: Read: Call us at 1-800-123-4567. Like this: Call us at 1800 … 123 … 4567. Notice that it is not necessary to pause after the first digit, “1.”"
+    },
+    {
+      "source_id": "56a2a9fa-3aa5-4d68-9dbf-2992cddf219d",
+      "citation_number": 10,
+      "cited_text": "These language particularities are likely to strongly impact reading acquisition and performance. Intonation is mostly linked to punctuation (e.g., it is used to cue declarative versus interrogative sentences). It can also mark asides—cued in the text by commas or brackets—as well as focus (Wennerstrom, 2001). Exclamation marks are also used by authors to induce a variation in the melodic pattern of the sentence. In prosodic phonology, intonation and phrasing are closely linked. In the prosodic structure, the intonation phrase constitutes an intermediate level between the syllable, the word and the intonation unit. The intonation phrase is a stretch (or chunk) of spoken material that has its own intonation pattern. In a nutshell, intonation and phrasing are parts of the linguistic prosody both in speech and reading."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 11,
+      "cited_text": "telephony system Thank you for choosing AT&T. television commercial The Honda Accord, now driving in a town near you. corporate video Welcome to Advantage Technologies, and to the beginning of a wonderful, new career. h. Inverting (the opposite of emphasizing a word) Inverting a word does two things: makes a word a question signals that there is more to follow Industry terms for inverting are “up-talk,” “swooping upwards,” “questioning,” even “high-rising terminal inflective.”  This guidebook will use “inverting” to designate this."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 12,
+      "cited_text": "vocal delivery, your volume (loudness) and tone (emotion) should not change. In other words, “stay in character.” Emphasis:  Emphasizing a word (raising pitch on a word) does three things: makes the word stand out makes the word declarative signals the end of a thought Most commonly, producers ask you to emphasize a word to make it stand out. In fact, this is one of the most common directions given. IMPORTANT: Producers and directors rarely use the word “emphasis.” They use syn- onyms. They may ask you to hit the word, or punch the word, or stress, color, goose, milk, or accent the word, etc."
+    },
+    {
+      "source_id": "05ca0ea0-e166-4d42-8a63-8bdf1dfccf76",
+      "citation_number": 13,
+      "cited_text": "Where to Pitch Down Pitch down for: Threats and intimidation Serious revelations and weighty truths Moments of authority or command Resignation, defeat, or grief The \"punchline\" of a building intensity sequence How to Practice Pitch Variation Pull up a script you're working on and mark it with arrows. Up arrow on words or phrases that should pitch up. Down arrow on words that should pitch down. Be specific. Don't mark every other word, mark the moments where the meaning genuinely supports a pitch shift."
+    },
+    {
+      "source_id": "05ca0ea0-e166-4d42-8a63-8bdf1dfccf76",
+      "citation_number": 14,
+      "cited_text": "Building Sequences A specific technique worth practicing: building intensity across consecutive sentences . Take a paragraph where the character is escalating emotionally. Maybe they're talking themselves into something, or losing their temper, or working up to a declaration. Mark each sentence with a volume level. Sentence one at level 4. Sentence two at level 5. Sentence three at level 7. Sentence four at level 9. Then a final sentence that pulls all the way back to level 2 for the punchline. That contrast between the build and the pullback is devastating when delivered well. The audience gets pulled along with the rising intensity, and then the sudden drop into quiet creates the moment they remember."
+    },
+    {
+      "source_id": "05ca0ea0-e166-4d42-8a63-8bdf1dfccf76",
+      "citation_number": 15,
+      "cited_text": "Where to Speed Up Lists, multiple beats stacked together. Excitement, anxiety, panic. Glossing over information that doesn't matter much (so the important stuff stands out). Comedic patter and rapid-fire delivery. Pauses Are Pace Tools Too A pause is the most extreme version of slowing down: stopping entirely. Strategic pauses are one of the most powerful tools in voice acting because beginners are afraid of them. Try this experiment. Take any line where your character is about to say something heavy, and add a one-beat pause before the loaded word. Then add a two-beat pause and try it again. Then a three-beat pause. You'll find that pauses much longer than feel comfortable in the moment actually play beautifully on the recording."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 16,
+      "cited_text": "television commercial By shopping direct, you could save more money! information on-hold message Did you know you can request certificate rewards?  Just ask when we return. 2. Use dramatic pauses to add variety to your read. A short dramatic pause is also called a “beat.” For example, a producer will say, “Give me a beat before that word.” Dramatic pauses also help emphasize the following word. In other words, instead of hitting a word to emphasize it, insert a pause (space) before it. Whether you use a dramatic pause to add variety or to emphasize the following word, be sure that the pause is not too long, or it will sound too dramatic … and thus artificial."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 17,
+      "cited_text": "Examples: loud (car dealer commercial): But hurry, these prices are in effect for a limited time only. mid (computer training tutorial): Next, hit the “forward” button to return to the main menu. low (commercial): Sensual colors for sensual lips. Revlon introduces … IMPORTANT: As with the other vocal components (see above), don’t let volume changes affect your pitch, tone, and tempo. For example, when told to lower volume, aspiring voice talent tend to let their energy level decrease and their tempo slow down."
+    },
+    {
+      "source_id": "6365f668-4666-4e49-b577-78b124b47a16",
+      "citation_number": 18,
+      "cited_text": "Model 4 linguistic and paralinguistic dynamic. Figure 6 Model 4: linguistics and paralinguistics dynamic. Conclusion about models 3 and 4: (a) as expected, the models explain more variance, and (b) it is quite interesting that dynamic or granular paralinguistic features become the predominant predictive features of audience engagement. 3.3 Dynamic affective linguistics and paralinguistic interaction effects In model 5 : Affective Linguistics and Paralinguistics: Dynamic interaction effects, including interaction terms allows for a more advanced analysis of how affective linguistic and paralinguistic features interact to influence audience engagement. Here more variance is explained compared to the earlier models 1, 2, 3, and 4. The adjusted R 2 is 0.38 with a p -value of 0.00. Surprisingly, as shown in Table 8 and Figure 7 , there is another set of predictive features or variables that explain audience engagement in a positive or negative way. First in predicting audience engagement, the interaction between Q1 surprise x Q1 intonation q75 is most significant (coefficient: 4.76, p > 0.00), and to a somewhat lesser extent, Q4 surprise x Q4 articulation rate (coefficient: 0.33, p > 0.00), Q1 negative x Q1 intonation q25 (coefficient: 0.29, p > 0.00), Q4 positive x Q4 articulation rate (coefficient: 0.28, p > 0.00), and Q4 anticipation x Q4 articulation rate (coefficient: 0.21, p > 0.04) are positively affecting audience engagement. However, the average or general paralinguistic feature, the number of syllables (coefficient: 2.63, p > 0.01) also positively affects engagement. Do the general affective linguistic features anticipation (coefficient: 0.51, p > 0.00) and surprise (coefficient: 0.34, p > 0.00) have positive effects? The positive effect of podcast length intonation is Q1 (coefficient: 1.55, p > 0.07)."
+    },
+    {
+      "source_id": "6365f668-4666-4e49-b577-78b124b47a16",
+      "citation_number": 19,
+      "cited_text": "Table 8 <cited_table>",
+      "cited_table": {
+        "num_columns": 3,
+        "rows": [
+          [
+            "Variable",
+            "Coefficients",
+            "p"
+          ],
+          [
+            "Intercept",
+            "0.03",
+            "0.74"
+          ],
+          [
+            "Q1 Surprise x Q1 Intonation q75",
+            "4.76",
+            "0.00"
+          ],
+          [
+            "Number Syllables",
+            "2.63",
+            "0.00"
+          ],
+          [
+            "Podcast Length",
+            "1.55",
+            "0.07"
+          ],
+          [
+            "Anticipation",
+            "0.51",
+            "0.00"
+          ],
+          [
+            "Surprise",
+            "0.34",
+            "0.02"
+          ],
+          [
+            "Q4 Surprise x Q4 Articulation Rate",
+            "0.33",
+            "0.00"
+          ],
+          [
+            "Q1 Negative x Q1 Intonation q25",
+            "0.29",
+            "0.00"
+          ],
+          [
+            "Q4 Positive x Q4 Articulation Rate",
+            "0.28",
+            "0.01"
+          ],
+          [
+            "Q4 Anticipation x Q4 Articulation Rate",
+            "0.21",
+            "0.04"
+          ],
+          [
+            "Q1 Positive x Q1 Min Intonation",
+            "0.20",
+            "0.06"
+          ],
+          [
+            "Q2 Intonation Variability",
+            "0.19",
+            "0.06"
+          ],
+          [
+            "Articulation Rate",
+            "0.18",
+            "0.15"
+          ],
+          [
+            "Gender",
+            "−0.03",
+            "0.77"
+          ],
+          [
+            "Q1 Anger x Articulation Rate",
+            "−0.21",
+            "0.03"
+          ],
+          [
+            "Q4 Fear",
+            "−0.22",
+            "0.06"
+          ],
+          [
+            "Q3 Surprise x Q3 Articulation Rate",
+            "−0.20",
+            "0.01"
+          ],
+          [
+            "Q4 Surprise x Q4 Timbre",
+            "−0.29",
+            "0.01"
+          ],
+          [
+            "Q2 Joy x Q2 Timbre",
+            "−0.33",
+            "0.01"
+          ],
+          [
+            "Q1 Anticipation",
+            "−0.34",
+            "0.02"
+          ],
+          [
+            "Q1 Fear x Q1 Minimum Intonation",
+            "−0.37",
+            "0.02"
+          ],
+          [
+            "Q1 Surprise x Q1 Intonation Variability",
+            "−0.97",
+            "0.00"
+          ],
+          [
+            "Q1 Number Syllables",
+            "−1.41",
+            "0.00"
+          ],
+          [
+            "Q3 Number Syllables",
+            "−1.52",
+            "0.00"
+          ],
+          [
+            "Number Pauses",
+            "−1.54",
+            "0.04"
+          ],
+          [
+            "Q1 Surprise x Q1 Timbre",
+            "−4.05",
+            "0.00"
+          ]
+        ]
+      }
+    },
+    {
+      "source_id": "e86ce354-abd6-4a02-b628-35704c487308",
+      "citation_number": 20,
+      "cited_text": "which I think is a shame, so let's try and break that habit. Pace. I can get very excited by saying\nsomething really quickly, or I can slow right down to emphasize, and at the end of that, of course,\nis our old friend silence. There's nothing wrong with a bit\nof silence in a talk, is there? We don't have to fill it with ums and ahs. It can be very powerful. Of course, pitch often\ngoes along with pace to indicate arousal, but you\ncan do it just with pitch. Where did you leave my keys? (Higher pitch) Where did you\nleave my keys?"
+    },
+    {
+      "source_id": "767c5034-d6bd-4eed-831f-9ac71335ab6d",
+      "citation_number": 21,
+      "cited_text": "Soft volume conveys intimacy, sadness, reflection, or tension. Moderate volume creates grounded, conversational authenticity. Increased volume communicates urgency, authority, or excitement. Mastering volume is not about extremes. It is about variation that mirrors human expression. Professional guidance from a vocal coach or vocal instructor helps voice actors avoid overprojection or under-energized delivery, developing range without losing control. Pacing: The Rhythm That Shapes Meaning Pacing determines how a listener processes information. Fast pacing conveys enthusiasm, youthfulness, or urgency. Slow pacing creates space for emotion, reflection, or gravity. Varied pacing introduces contrast, suspense, and storytelling flow."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 22,
+      "cited_text": "Tempo: Tempo is the speed of your vocal delivery. Sometimes a faster tempo is necessary, sometimes a slower one. And just as in most everyday conversations, often a fluctuating tempo is most natural. Examples: fast (promotional video): Stains and discoloration just disappear!  As you see, this product … mid (documentary): Here you see the speckled white owl. Notice how the wing span … slow (television commercial): Luxurious. (Visual: Plush interior of the car.)  Inviting. (Visual: People on the street    gazing at the car as it slowly passes by.)  Exhilarating. (Visual: The driver smiling    while rounding a curve on a beautiful road.)  The all new M6 from BMW."
+    },
+    {
+      "source_id": "e86ce354-abd6-4a02-b628-35704c487308",
+      "citation_number": 23,
+      "cited_text": "So, slightly different meaning\nin those two deliveries. And finally, volume. (Loud) I can get really excited\nby using volume. Sorry about that, if I startled anybody. Or, I can have you really pay attention\nby getting very quiet. Some people broadcast the whole time. Try not to do that. That's called sodcasting, (Laughter) Imposing your sound on people around you\ncarelessly and inconsiderately. Not nice. Of course, where this all comes\ninto play most of all is when you've got something\nreally important to do."
+    },
+    {
+      "source_id": "05ca0ea0-e166-4d42-8a63-8bdf1dfccf76",
+      "citation_number": 24,
+      "cited_text": "The pause isn't dead air. It's the character thinking, deciding, processing. The audience watches that thinking happen and gets pulled in. Projection: Loud and Quiet Projection is your volume level. And like the other two Ps, the issue most voice actors have is that they stay at one volume for the whole performance. Real performances build and pull back constantly. A line might start at conversational volume, build through a sequence of escalating sentences, peak at a near-shout, and then pull back to an intimate whisper for the final beat. That kind of dynamic shape is what makes performances feel cinematic instead of flat."
+    },
+    {
+      "source_id": "754c3832-b1b5-4755-aa0e-8f65df3ac2d4",
+      "citation_number": 25,
+      "cited_text": "We observed that the presence or absence of a silent pause is the main feature that distinguishes between strong (///) and intermediate (//) prosodic boundaries. Strong PBs (///) are almost always followed by a silent pause, while this is rare for intermediate PBs (//); hesitations are occasionally followed by a pause. Syllable lengthening occurs on PBs regardless of their associated contour, and it is more pronounced in cases of Focus. Tak-ing non-PB syllables as the baseline, PBs associated with the C (continuation) and F (focus) show a rising intonation, while T (final) PBs exhibit a falling intonation, followed by S (suspense) PBs, while hesitations are more similar to T (final) PBs. Focus (F) PBs have the most dynamic (pronounced) intrasyllabic pitch movement, followed by C (continuation). Strong continuation (///C) prosodic boundaries are clearly marked with both inter- and intrasyllabic pitch movements, whereas intermediate continuation (//C) prosodic boundaries are only marked with relative pitch differences."
+    },
+    {
+      "source_id": "754c3832-b1b5-4755-aa0e-8f65df3ac2d4",
+      "citation_number": 26,
+      "cited_text": "Zellner (1998) also argues that the characterization of speech rate with only one parameter is unsatisfactory (p. 3159) because it has been shown that changes in rate produce effects at the prosodic (Fougeron & Jun, 1998, e.g.), syllabic and articulatory levels. Analysing a corpus of 50 sentences read in French, she suggests that speakers have a number of strategies available for slowing down their speech. While F. Grosjean and Deschamps (1975), F. Gros-jean, Grosjean, and Lane (1979), Barbosa (1994) and others reported that the main mechanism to slow down speech is the production of silent pauses, Zellner’s results do not confirm this hypothesis. She observes, instead, that pauses already produced in normal rate are lengthened in slow rate and that the new pauses appear inside longer prosodic groups. Slow speech and fast speech have different pause patterns (p. 3160), but pauses only account for less than 8% of the time difference. The main mechanism used for slowing down speech is the lengthening of segments, accounting for almost 70% of the difference. Not all segments have the same temporal elasticity; for example, vowels and fricatives can be lengthened much more than plosives. Zellner (1998) categorises phonemes into durational classes based on their normalised average duration (based on her corpus)."
+    },
+    {
+      "source_id": "303c28b4-bd96-448a-90e6-e56ffd86aeb8",
+      "citation_number": 27,
+      "cited_text": "applied to the parameter pause duration. The main effects of Answer Position were overall similar: Duration characteristics like final lengthening, pause duration, and the alignments of nuclear accents and intensity peaks decreased across the alter- native-answer positions, particularly after position <a> or at position <d>. The two range parameters showed a similar de- crease, except that the answers' F0 ranges increased again at position <d>. Speaking rate is the only parameter whose mean values increased after <a>, see Figure 2(e)."
+    }
+  ]
+}

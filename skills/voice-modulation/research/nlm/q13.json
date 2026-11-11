@@ -1,0 +1,121 @@
+{
+  "answer": "When scoring a video script or directing a voice actor, the literature provides several concrete vocal exercises, script-marking notation rules, and line-level delivery examples:\n\n---\n\n### 1. Script-Marking Notation & Scoring Rules\nBefore recording, the performance guidebooks recommend marking up copy in **pencil** using specific visual symbols to guide performance dynamics [1-3]:\n\n* **Pitch Arrows (\\\\(\\uparrow\\\\) / \\\\(\\downarrow\\\\))**: Draw an **up arrow (\\\\(\\uparrow\\\\))** above accent syllables requiring a pitch lift (questions, reveals, surprise, or sentence-opening attention-grabbers) and a **down arrow (\\\\(\\downarrow\\\\))** for pitch drops (threats, commands, gravity, or punchlines) [1].\n* **Hitting Words via Pitch (Not Volume)**: \"Hitting\" or \"punching\" a word means raising the pitch on its **accented syllable** (e.g., *EL-ephant* vs. *rhi-NOC-eros*), while keeping volume and emotional tone perfectly stable [158, 164–166]. Raising volume instead of pitch makes the delivery sound unnatural or aggressive [4, 5].\n* **The \"Pivot\" (Siren Glide for Adjacent Key Words)**: When two important words appear side-by-side, shouting both destroys their impact [173–174]. Instead, use a \"pivot\"—glide pitch high on the first word's accent syllable, drop low in the middle, and sweep back up on the second word (modeled after *\"Heeeeeeeeeeere's Johhhhhhhny!\"*) [174–175].\n* **Breath & Linkage Marks**: Annotate planned breath points, but also mark **places NOT to pause** (e.g., connecting words that start with vowels to avoid \"glottal stops\" or choppy hesitation) [2, 6, 7].\n\n---\n\n### 2. Line-Level Delivery Examples & Direction Tweaks\n\n* **Hitting the First Word to \"Open Up\" the Read**:\n  * *Direction*: Always hit one of the first words of a phrase or sentence to grab listener attention [8, 9].\n  * *Example*: *\"**WELCOME** to our company video\"* or *\"**BENEFIT** from our experience...\"* [8, 10].\n* **Focusing on the Positive Solution, Not the Negative Problem**:\n  * *Direction*: In commercial or explainer scripts, hit the verb representing the positive solution rather than the negative condition you want to avoid [11].\n  * *Example*: Read *\"**PREVENT** drains from clogging\"* by pitching up on *PREVENT*, rather than emphasizing *clogging* (which highlights the negative problem and creates a choppy pause) [11].\n* **Pre-Sentencing with Lead-In Phrases**:\n  * *Direction*: To hit the exact emotion on the very first word without a \"warm-up lag,\" have the narrator silently or aloud speak a \"lead-in\" phrase right before starting the line [209–210].\n  * *Example Script*: *\"I was walking into my bank...\"*\n  * *With Lead-In*: *\"[It was amazing,] I was walking into my bank...\"* [209–210].\n* **Conversational Contractions vs. Formal Clarity**:\n  * *Informal Read*: Convert written text into natural conversational spoken forms: Read *\"At Toyota, you will love what we are all about\"* as *\"At Toyota, you'll love what we're all about\"* or *\"Ya' know when it's hot...\"* [12, 13].\n  * *Formal Read*: Enunciate full words and hard consonants without contractions (e.g., pronouncing the \"t\" in *commitment*, *St. Vincent*, or *mountain*) [14, 15].\n* **Digit Sequences & List Chunking**:\n  * *Direction*: For multi-digit numbers, phone numbers, or automated menu prompts, alternate inflections across 3-part groups [192–193].\n  * *Pattern*: Set digit 1 to **upward inflection**, digit 2 to **straight inflection**, and digit 3 to **downward inflection** (e.g., *\"1 \\\\(\\uparrow\\\\) – 2 \\\\(\\rightarrow\\\\) – 3 \\\\(\\downarrow\\\\)\"*) to sound natural and prevent repetitive monotony [16].\n\n---\n\n### 3. Concrete Vocal Exercises & Drills\n\n* **The 6-Step Pre-Talk Warm-Up Sequence** (Julian Treasure) [68–69]:\n  1. **Breathing & Sighing**: Raise arms, inhale deeply, and exhale with an vocalized sigh (*\"ahhhhh\"*) [17].\n  2. **Lip Activation**: Repeat *\"Ba, Ba, Ba, Ba, Ba, Ba, Ba, Ba\"* [17].\n  3. **Lip Trill**: Vibrating lip buzz (*\"Brrrrrrrrrr\"*) [17].\n  4. **Tongue Agility**: Exaggerated *\"la, la, la, la, la, la, la, la\"* [17].\n  5. **Tongue Roll**: Rolling an R (*\"Rrrrrrrrrr\"*) [17].\n  6. **Vocal Siren**: Sliding pitch continuously from high *\"weee\"* to low *\"awww\"* (*\"weeeaawww\"*) [17].\n* **Air-Control & Stamina Drill**: Inhale deeply, hold air for 5 seconds, and exhale slowly while reciting the alphabet. Perform regularly to increase how many words can be spoken cleanly on a single breath without gasping [18].\n* **\"Lazy Mouth\" Elimination Drill**: To stop unwanted \"mmm\" or \"nnn\" sounds before hard consonants (e.g., saying *\"mmm-bye\"* or *\"nnn-Duracell\"*), deliberately exaggerate the lazy mouth sound, notice mouth/tongue position, and incrementally reduce it down to zero [188–189].\n\n---\n\n🎬 Would you like me to take one of your script passages and write out a fully scored, line-by-line delivery map using these notation rules?",
+  "conversation_id": "880b673b-cab4-488f-b8ec-d2bfbfb1f949",
+  "sources_used": [
+    "05ca0ea0-e166-4d42-8a63-8bdf1dfccf76",
+    "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "e86ce354-abd6-4a02-b628-35704c487308"
+  ],
+  "citations": {
+    "1": "05ca0ea0-e166-4d42-8a63-8bdf1dfccf76",
+    "2": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "3": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "4": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "5": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "6": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "7": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "8": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "9": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "10": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "11": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "12": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "13": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "14": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "15": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "16": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "17": "e86ce354-abd6-4a02-b628-35704c487308",
+    "18": "d56ce0a6-390a-4012-a26b-1a32d2353e26"
+  },
+  "references": [
+    {
+      "source_id": "05ca0ea0-e166-4d42-8a63-8bdf1dfccf76",
+      "citation_number": 1,
+      "cited_text": "Where to Pitch Down Pitch down for: Threats and intimidation Serious revelations and weighty truths Moments of authority or command Resignation, defeat, or grief The \"punchline\" of a building intensity sequence How to Practice Pitch Variation Pull up a script you're working on and mark it with arrows. Up arrow on words or phrases that should pitch up. Down arrow on words that should pitch down. Be specific. Don't mark every other word, mark the moments where the meaning genuinely supports a pitch shift."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 2,
+      "cited_text": "IMPORTANT: ALWAYS MARK UP YOUR COPY!  A pencil is among the most useful tools in your voice-over kit. You can’t focus on thoughts if you are simultaneously trying to remember every nuance you had planned for expressing them. So every experienced voice talent has his or her own sort of short-hand for making notes on scripts. This notation process is called “marking up” the copy. Among things your copy mark-up should indicate are: where you plan to take each breath other pauses places NOT to pause changes in inflection changes in tempo anything else that will help you get through the script without distraction or error"
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 3,
+      "cited_text": "TIP: The team may cause you to change your initial analysis, and you’ll need to change your mark-up. Sometimes, you, yourself will decide to change something. Or you’ll want to take an entirely different copy approach. Now you know why to use a pencil during the session, not a pen. And why to bring the eraser. 3. Delivery/character development After the copy has been analyzed, it is time to establish the delivery/character. Part of a voice talent’s job is to establish an appropriate delivery. Once mastered, you appear professional, experienced, and polished. This section will discuss how to develop and maintain an appropriate delivery."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 4,
+      "cited_text": "Examples: strong (ESPN promo): It’s Major League Baseball like you’ve never seen before! nonchalant (commercial): I’m here to tell you about an HMO program from HealthNet. soft (relaxation guide): Breathe in. Breathe out. And again. Now relax your body … friendly (college interactive tour): Welcome to UCONN. In the next 15 minutes, you will … IMPORTANT: Be sure to not let tonal changes affect your pitch, tempo, and volume. For example, when told to increase enthusiasm, aspiring voice talent often get louder and faster. This is not good. In this situation, the producer may say, “Try the read again, this time with the additional enthusiasm, but use the volume and speed that you had for the first read.”  Try to avoid creating the need for such an extra take, which should not be necessary if you remember this lesson. There are often more productive ways to use that recording time."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 5,
+      "cited_text": "Newcomers to voice-over often: forget to hit words that should be hit incorrectly hit words (they raise volume and/or strengthen tone instead of raising pitch) Practice hitting the following words. Remember that the pitch should be raised on the accented syllable, not on the entire word. Also remember that the volume and tone should remain consistent. the first syllable should be raised in pitch elephant the second syllable should be raised in pitch rhinoceros Note that when hitting a word with one syllable, the beginning of it is generally hit."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 6,
+      "cited_text": "If the script is: Snapple … made from the best stuff on earth. it should be read as: Snapple … made from the bestuff on earth. Connect words beginning with vowels, instead of pausing before them. In nat- ural conversation, we generally connect our words, even when they begin with a vowel. However, when reading, we are inclined to pause before words that begin with vowels. This is known as a “glottal stop.” Technically, it is a momentary closing of the airway by the glottis (at the back of the mouth)."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 7,
+      "cited_text": "Aetna Insurance. Security for a lifetime. Clarifying (and often subconscious) pauses: Due to trying too hard to make the delivery ultra-clear for the listener. Also due to lack of confidence. Less experienced talent try really hard to make their delivery clear for the listener. In doing so, they often separate phrases of the script into little choppy bits. This usually occurs unknowingly. Once pointed out, they often recognize how choppy they were and how much better their reads sound when reading smoothly."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 8,
+      "cited_text": "TIP: Do not argue with the producer about the words they request that you hit … even if you are sure that a different word should be hit instead. You skill includes being able to do whatever the director asks. b. One of the first words of every phrase and sentence should be hit – this    grabs the attention of the listener. Try reading this: “Welcome to our company video.” First, read it without any emphasis – you’ll find that your delivery is monotonous and boring. Then re-read the sentence many times, each time hitting a different word – now you’ll find that your delivery is interesting."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 9,
+      "cited_text": "Hitting the first word of phrases can “open up” the delivery. Note: a common error that voice-over artists make is rushing the first word of a phrase, instead of valuing it. Just waiting to engage your driving passion for performance. In this video presentation, you’ll learn how clear plastic is recycled. 11. Smile Half of voice-over work requires a smile. Therefore being able to add a smile to your delivery can double the amount of work you obtain. However the smile must be convincing, because a contrived smile sounds fake and is a huge turn-off to producers and listeners."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 10,
+      "cited_text": "If the script is Benefit from our experience … the James Company. try Benefit from our experience … the James Company. or Benefit from our experience … the James Company. or Benefit from our experience … the James Company. or Benefit from our experience … the James Company. etc. IMPORTANT: In these examples, the key words are emphasized by their formatting, for illustrative purposes. (In this case, they’re underlined.) In an actual script, they might not be. If no emphasis is indicated, the choices of what to hit are up to you and the director. If key words are indicated, you surely will want to hit them, at least."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 11,
+      "cited_text": "training tutorial Next, choose a topic, wait for the picture, and then press the “go” button. NOTES:  In the first example, many aspiring voice artists would emphasize “clogs,” since that is what the commercial is about. However the commercial is about preventing clogs. In fact, emphasizing “clogs” showcases the negative … the thing the listener wants to get rid of. Hitting “prevent” suggests a positive solution. Also, if you’re like most people, you paused between “clogging” and “with” in the first example. This pause in not necessary and creates a choppy sound. Try again without the hesitation – your read will likely sound smoother."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 12,
+      "cited_text": "Following is an informal script, where contractions would be desired: If the script is: At Toyota, you will love what we are all about. … it probably should be read as: At Toyota, you’ll love what we’re all about. When reading a formal script, keeping words un-contracted may be desired. Mercedes Benz … we are the best. Mercedes Benz … we’re the best. TIP: The safest bet is to read as written. But if you’re unsure it’s correct, there’s no harm in asking. A producer or director would much rather you ask than have you get it wrong."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 13,
+      "cited_text": "finances: fuh-naan’-sehs, phi-naan’-sehs, or phi’-naan-sehs details: dih-tayls’, or dee’-tayls data: day’-teh, or dah’-teh envelope: ehn’-veh-lohp, or ahn’-veh-lohp g. The use of contractions is generally preferred in informal scripts. For example: You know when it is hot … I grab a cold 7UP. … should be read like this: Ya’ know when it’s hot, I grab a cold 7UP. h. Lazy mouth occurs when undesired sounds are made before pronouncing “hard” consonants. For example, people often make an “mmm” before saying the word “bye.”  (If you haven’t noticed people saying “mmm-bye,” listen for it … you’ll be sure to hear it.)"
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 14,
+      "cited_text": "Exercises: The following scripts should be read formally, as they need to be clear and/or may be heard by foreigners. television commercial Compassion and trust … qualities you can expect from Aetna Insurance. airline safety video Your seat may be used as a flotation device in the unlikely event of an in-flight emergency. These following scripts should be read informally, sounding natural and conversational. radio commercial At B.K.’s, we’re all about great taste! on-hold message Thanks for calling Milford Bank, your hometown bank."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 15,
+      "cited_text": "commercial Up here in the mountains, we love Coors Beer. promotional video So check us out – we offer the fastest way to the Internet! FORMAL: In the commercial below, pronounce the “t” in “commitment” and “Vincent.“  In the documentary below, pronounce the “t” in “mountain.” commercial Service and commitment … what you expect from St. Vincent Hospital. documentary The Atlas Mountains stand over 13,000 feet high. f. Words with multiple pronunciations often occur in scripts. When deciding which pronunciation to use, the rule of thumb is to use the dictionary’s first phonetic pronunciation, as that is the officially preferred pronunciation. However, sometimes in VO, you might chose the approved alternative, which might actually be equally or more popular. Here are examples:"
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 16,
+      "cited_text": "For example, if the computer needs to announce: The number is 123-456-7890. The “1” will have upwards inflection, the “2” straight inflection, the “3” downwards inflection, etc. A typical menu-prompt script looks like this: Read the following, each with upwards, straight, and downwards inflections: digits 0 though 9 10, 20, 30, 40, 50, 60, 70, 80, 90 hundred thousand Read the following with downwards inflection only: and the number is I’m sorry, I did not understand. Please enter the number again."
+    },
+    {
+      "source_id": "e86ce354-abd6-4a02-b628-35704c487308",
+      "citation_number": 17,
+      "cited_text": "Any time you're going to talk\nto anybody important, do these. First, arms up, deep breath in, and sigh out, ahhhhh, like that. One more time. Ahhhh, very good. Now we're going to warm up our lips, and we're going to go Ba, Ba, Ba, Ba, Ba, Ba, Ba, Ba. Very good. And now, brrrrrrrrrr, just like when you were a kid. Brrrr. Now your lips\nshould be coming alive. We're going to do the tongue next with exaggerated la, la, la,\nla, la, la, la, la, la. Beautiful. You're getting\nreally good at this. And then, roll an R. Rrrrrrr."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 18,
+      "cited_text": "3. When reading scripts written without enough punctuation marks, you’ll notice a tendency to run out of air. Therefore, adding punctuation marks is often necessary (see “punctuation” below). There are two exercises that can teach the body to have greater control of the intake and release of air, allowing longer periods of reading without running out of air. By employing them, recording sessions will go smoother, and the engineer will have fewer edits.   • any cardiovascular exercise  • air-controlling exercise: Inhale deeply, hold the air in for five seconds, and   then let it out slowly while saying the alphabet. By doing this regularly, you     will increase how many letters of the alphabet you can say on a single breath."
+    }
+  ]
+}

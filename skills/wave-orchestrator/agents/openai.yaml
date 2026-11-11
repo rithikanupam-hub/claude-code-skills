@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wave Orchestrator"
+  short_description: "Delegate wave work across matched models"
+  default_prompt: "Use $wave-orchestrator to implement this wave with model-matched subagents while you remain the orchestrator."

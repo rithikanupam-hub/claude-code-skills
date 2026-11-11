@@ -1,0 +1,245 @@
+{
+  "answer": "Here are six of the most surprising and counterintuitive findings regarding voice modulation and vocal delivery documented in the literature:\n\n---\n\n### 1. Women Lower Voice Pitch Twice as Much as Men to Sound Authoritative, Yet Gain Less Perceived Authority\n* **The Fact**: When academic faculty members transition from giving simple campus directions to delivering expert advice, both men and women naturally lower their vocal fundamental frequency (\\\\(F_0\\\\)) and vocal tract resonances [1, 2]. Counterintuitively, **women lower their pitch significantly more than men do** (\\\\(33\\text{ Hz}\\\\) drop for women vs. \\\\(14\\text{ Hz}\\\\) for men) [1-3]. However, in playback studies, foreign listeners judged male voices as gaining a larger, more pronounced boost in perceived authority from this modulation than female voices (\\\\(59\\%\\\\) for male voices vs. \\\\(54\\%\\\\) for female voices) [4, 5].\n* **Which Source**: *\"Voice of Authority: Professionals Lower Their Vocal Frequencies When Giving Expert Advice\"* [1].\n* **Solidness of Evidence**: **Very Solid** [1, 4, 6]. Grounded in a two-part study: Study 1 recorded 51 university faculty members (27 men, 24 women) across real-world speech conditions [6]. Study 2 conducted a playback experiment across 2,028 trial evaluations using Linear Mixed Models, confirming statistically significant acoustic drops (\\\\(p < 0.001\\\\)) and perceptual differences [4, 7].\n\n---\n\n### 2. Fast Speech Rate Is the Single Strongest Acoustic Predictor of Listener Trust\n* **The Fact**: While intuition suggests that speaking slowly and deliberately projects sincerity, acoustic analysis reveals that **a faster speech rate (shorter utterance duration) is the single strongest acoustic predictor of higher perceived trustworthiness** (\\\\(\\beta = -0.73\\\\), \\\\(p < 0.0001\\\\)) [8-10]. Speaking fast outweighed pitch modulation (\\\\(\\beta = -0.27\\\\)) and proved even more influential in driving trust than a speaker's expressed emotion, age, or sex [9, 10].\n* **Which Source**: *\"Angry, old, male – and trustworthy? How expressive and person voice characteristics shape listener trust\"* (*PLOS ONE*) [11, 12].\n* **Solidness of Evidence**: **Very Solid** [9, 13, 14]. Analyzed 520 utterances from 20 speakers of varying age and sex, evaluated by 80 age- and sex-matched listeners with high inter-rater consistency (\\\\(ICC = 0.967\\\\)) using cumulative link mixed-effects modeling [9, 13, 14].\n\n---\n\n### 3. Vocal Fry Is Adopted to Sound Authoritative, but Backfires Harshly (Especially Among Women)\n* **The Fact**: Young women frequently adopt vocal fry (creaky, low-register glottalization) believing it projects seriousness, intelligence, or corporate authority [15, 16]. In reality, **vocal fry drastically degrades perceptions of competence, education, trustworthiness, attractiveness, and hirability** [15, 17]. Counterintuitively, **female listeners and employers judge female vocal fry significantly more negatively than male listeners do** [17, 18].\n* **Which Source**: *\"Vocal Fry May Undermine the Success of Young Women in the Labor Market\"* (*PLOS ONE*) [15, 19].\n* **Solidness of Evidence**: **Very Solid** [20-22]. Tested a national sample of 800 American adults listening to 14 speakers (7 male, 7 female) delivering job interview phrases in both normal voice and vocal fry, analyzed via ANOVA and linear regression models (\\\\(p < 0.001\\\\)) [20-22].\n\n---\n\n### 4. Consciously Trying to \"Sound Smart\" Causes Pitch to Rise—Opposite to Natural Authoritative Speech\n* **The Fact**: When participants in laboratory experiments are instructed to intentionally \"sound confident, intelligent, or dominant,\" both men and women **raise their voice pitch by \\\\(5\\text{–}13\\text{ Hz}\\\\)** [23]. This directly contradicts real-world behavior, where professionals speaking in genuine expert contexts **lower their pitch** [1, 2, 23]. Conscious, forced efforts to project authority produce pitch modulation opposite to actual authoritative speech [2, 23].\n* **Which Source**: Discussed in *\"Voice of Authority: Professionals Lower Their Vocal Frequencies When Giving Expert Advice\"* (citing *Hughes et al., 2014*) [1, 23].\n* **Solidness of Evidence**: **Moderate to Solid** [23]. Observed across multiple controlled laboratory vocal manipulation tasks compared against ecologically valid field studies [23].\n\n---\n\n### 5. Quizmasters Unconsciously Leak Correct Answers via Cues That Invert by Answer Position\n* **The Fact**: Quizmasters explicitly instructed not to leak answer choices in a *\"Who Wants to Be a Millionaire?\"* format still **unconsciously emit prosodic cues (pitch range, intensity range, speaking rate, final lengthening)** that allow statistical prediction of the correct answer at **\\\\(70\\text{–}87\\%\\\\) accuracy** [24-26]. Counterintuitively, these prosodic cues **completely invert depending on answer position**: the acoustic markers for a correct answer in position \\\\(a\\\\) or \\\\(b\\\\) are diametrically opposed to those in position \\\\(c\\\\) or \\\\(d\\\\) [27-29].\n* **Which Source**: *\"Who wants to be a blabbermouth? Prosodic cues to correct answers in the WWTBAM quiz show scenario\"* (*ISCA Archive*) [30, 31].\n* **Solidness of Evidence**: **Solid Laboratory Evidence** [25, 28, 32]. Evaluated 20 German participants in simulated quizmaster/contestant roles across 7 multiparametric prosodic measures (\\\\(p < 0.001\\\\)) [28, 32, 33].\n\n---\n\n### 6. Strategic Silent Pauses Fully Restore Comprehension of Ultra-Fast Compressed Speech\n* **The Fact**: Accelerating speech to \\\\(167\\%\\\\) speed (\\\\(288\\text{ wpm}\\\\)) causes a drastic drop in listener recall [34, 35]. However, **inserting silent pauses at key grammatical boundaries restores recall accuracy up to \\\\(95\\%\\\\) back to baseline**, making comprehension equivalent to normal-rate speech without altering the speed of the spoken words themselves [34, 36-38]. Crucially, inserting pauses at random, non-syntactic locations provides no memory benefit [36].\n* **Which Source**: *\"Strategic Pauses Relieve Listeners from the Effort of Listening to Fast Speech\"* (*PMC*) [34].\n* **Solidness of Evidence**: **Very Solid** [34, 39]. Replicated across 27 normal-hearing young adults and 15 adult cochlear implant users, verified via behavioral recall scores and pupillometry (pupil dilation tracking cognitive processing load) [34, 39].\n\n---\n\n🎙️ Would you like to explore how these findings could be formatted into a structured comparative report or executive summary?",
+  "conversation_id": "880b673b-cab4-488f-b8ec-d2bfbfb1f949",
+  "sources_used": [
+    "2ea09729-0364-4b0a-b76e-05ef05909b0e",
+    "75549ac6-cab3-418b-9b7b-7509bab3a285",
+    "75d4d2cc-087f-4944-8295-cd60866d5eac",
+    "303c28b4-bd96-448a-90e6-e56ffd86aeb8",
+    "40c74934-888f-4a9d-9a63-98aea40d2c8e"
+  ],
+  "citations": {
+    "1": "2ea09729-0364-4b0a-b76e-05ef05909b0e",
+    "2": "2ea09729-0364-4b0a-b76e-05ef05909b0e",
+    "3": "2ea09729-0364-4b0a-b76e-05ef05909b0e",
+    "4": "2ea09729-0364-4b0a-b76e-05ef05909b0e",
+    "5": "2ea09729-0364-4b0a-b76e-05ef05909b0e",
+    "6": "2ea09729-0364-4b0a-b76e-05ef05909b0e",
+    "7": "2ea09729-0364-4b0a-b76e-05ef05909b0e",
+    "8": "75549ac6-cab3-418b-9b7b-7509bab3a285",
+    "9": "75549ac6-cab3-418b-9b7b-7509bab3a285",
+    "10": "75549ac6-cab3-418b-9b7b-7509bab3a285",
+    "11": "75549ac6-cab3-418b-9b7b-7509bab3a285",
+    "12": "75549ac6-cab3-418b-9b7b-7509bab3a285",
+    "13": "75549ac6-cab3-418b-9b7b-7509bab3a285",
+    "14": "75549ac6-cab3-418b-9b7b-7509bab3a285",
+    "15": "75d4d2cc-087f-4944-8295-cd60866d5eac",
+    "16": "75d4d2cc-087f-4944-8295-cd60866d5eac",
+    "17": "75d4d2cc-087f-4944-8295-cd60866d5eac",
+    "18": "75d4d2cc-087f-4944-8295-cd60866d5eac",
+    "19": "75d4d2cc-087f-4944-8295-cd60866d5eac",
+    "20": "75d4d2cc-087f-4944-8295-cd60866d5eac",
+    "21": "75d4d2cc-087f-4944-8295-cd60866d5eac",
+    "22": "75d4d2cc-087f-4944-8295-cd60866d5eac",
+    "23": "2ea09729-0364-4b0a-b76e-05ef05909b0e",
+    "24": "303c28b4-bd96-448a-90e6-e56ffd86aeb8",
+    "25": "303c28b4-bd96-448a-90e6-e56ffd86aeb8",
+    "26": "303c28b4-bd96-448a-90e6-e56ffd86aeb8",
+    "27": "303c28b4-bd96-448a-90e6-e56ffd86aeb8",
+    "28": "303c28b4-bd96-448a-90e6-e56ffd86aeb8",
+    "29": "303c28b4-bd96-448a-90e6-e56ffd86aeb8",
+    "30": "303c28b4-bd96-448a-90e6-e56ffd86aeb8",
+    "31": "303c28b4-bd96-448a-90e6-e56ffd86aeb8",
+    "32": "303c28b4-bd96-448a-90e6-e56ffd86aeb8",
+    "33": "303c28b4-bd96-448a-90e6-e56ffd86aeb8",
+    "34": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+    "35": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+    "36": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+    "37": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+    "38": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+    "39": "40c74934-888f-4a9d-9a63-98aea40d2c8e"
+  },
+  "references": [
+    {
+      "source_id": "2ea09729-0364-4b0a-b76e-05ef05909b0e",
+      "citation_number": 1,
+      "cited_text": "Title: Voice of Authority: Professionals Lower Their Vocal Frequencies When Giving Expert Advice URL Source: https://link.springer.com/article/10.1007/s10919-019-00307-0 Published Time: Tue, 23 Jun 2026 02:06:19 GMT Markdown Content: Abstract Acoustic analysis and playback studies have greatly advanced our understanding of between-individual differences in nonverbal communication. Yet, researchers have only recently begun to investigate within-individual variation in the voice, particularly how people modulate key vocal parameters across various social contexts, with most of this research focusing on mating contexts. Here, we investigated whether men and women modulate the frequency components of their voices in a professional context, and how this voice modulation affects listeners’ assessments of the speakers’ competence and authority. Research assistants engaged scientists working as faculty members at various universities in two types of speech conditions: (1) Control speech, wherein the subjects were asked how to get to the administrative offices on that given campus; and (2) Authority speech, wherein the same subjects were asked to provide commentary for a radio program for young scholars titled, “How to become a scientist, and is it worth it?”. Our results show that male ( n = 27) and female ( n = 24) faculty members lowered their mean voice pitch (measured as fundamental frequency, F 0) and vocal tract resonances (measured as formant position, P f ) when asked to provide their expert opinion compared to when giving directions. Notably, women lowered their mean voice pitch more than did men (by 33 Hz vs. 14 Hz) when giving expert advice. The results of a playback experiment further indicated that foreign-speaking listeners judged the voices of faculty members as relatively more competent and more authoritative based on authority speech than control speech, indicating that the observed nonverbal voice modulation effectively altered listeners’ perceptions. Our results support the prediction that people modulate their voices in social contexts in ways that are likely to elicit favorable social appraisals."
+    },
+    {
+      "source_id": "2ea09729-0364-4b0a-b76e-05ef05909b0e",
+      "citation_number": 2
+    },
+    {
+      "source_id": "2ea09729-0364-4b0a-b76e-05ef05909b0e",
+      "citation_number": 3
+    },
+    {
+      "source_id": "2ea09729-0364-4b0a-b76e-05ef05909b0e",
+      "citation_number": 4,
+      "cited_text": "Study 2:Results Linear Mixed Models with speaker sex included as a fixed factor indicated that listeners chose voice stimuli from the authority speech condition as relatively more competent than control speech stimuli on 62% of trials, with no effect of speaker sex ( F 1,2026 = .004, p = .95). Likewise, listeners chose authority speech stimuli as more authoritative than control speech stimuli on 57% of trials. However, the effect of voice condition on listeners’ judgments of authority differed for male and female voices ( F 1,2026 = 5.16, p = .023), indicating that authoritative speech stimuli were chosen as more authoritative than control speech stimuli more often for male ( M = 0.59 ± .015) than for female speakers ( M = 0.54 ± .016). These effects were corroborated through a series of two-tailed t tests, confirming that despite this sex difference, authority speech stimuli were judged as relatively more authoritative, and more competent, at above-chance levels for both male ( t 1052 = 6.18, p < .001; t 1052 = 7.96, p < .001) and female speakers ( t 974 = 2.73, p = .006; t 974 = 7.75, p < .001; see Fig. 2 )."
+    },
+    {
+      "source_id": "2ea09729-0364-4b0a-b76e-05ef05909b0e",
+      "citation_number": 5
+    },
+    {
+      "source_id": "2ea09729-0364-4b0a-b76e-05ef05909b0e",
+      "citation_number": 6,
+      "cited_text": "Study 1: Acoustic Correlates of Authoritative Speech Method and Materials Participants Fifty-one professional men and women took part in the study as speakers (27 men and 24 women aged 30–55 years). All participants were academic faculty members and scientists with at least a PhD degree, recruited from various universities in Wroclaw, Poland. Procedure Two trained research assistants (a man and a woman, unknown to participants) visited the faculty individually during their office hours and introduced themselves as employees of a radio broadcasting agency. These research assistants then engaged the faculty member in two types of speech conditions: (1) control speech , wherein the subjects were asked to provide directions to the administrative offices (in Polish, “dziekanat”) on that given campus, which is common knowledge to all university faculty; and (2) authority speech , wherein the research assistants indicated that they ran a radio program for young scholars titled, “How to become a scientist, and is it worth it?”, and invited the faculty member to express her or his opinion on this topic. In the authority speech condition, the research assistants repeatedly highlighted the expertise of the faculty member (e.g., “ Dr. [last name], you are an expert and authority in this area, please tell us…” ). In the control speech condition, all participants knew where the administrative offices were located and provided accurate directions without hesitation. Condition order was counter-balanced across participants. All voice recordings were taken in the faculty members’ native language (Polish)."
+    },
+    {
+      "source_id": "2ea09729-0364-4b0a-b76e-05ef05909b0e",
+      "citation_number": 7,
+      "cited_text": "Table 1 MANOVA model with speech condition (control vs. authority), sex of speaker (male vs. female) and condition order as variables Full size table Study 1:Results To test for differences in voice parameters between speech conditions, we conducted an omnibus repeated measures MANOVA with speech condition (control vs. authority) as a within-subject variable, and sex of speaker (male vs. female) and condition order as between-subject variables. Because the average length of voice recordings collected in the authority speech condition was significantly longer ( M = 57.2 ± .09) than the average length of control speech recordings ( M = 10.3 ± 3.2; t 51 = 15.4, p < .001), the difference in recording duration between conditions (authority-control) was computed for each participant and included as a covariate in the model."
+    },
+    {
+      "source_id": "75549ac6-cab3-418b-9b7b-7509bab3a285",
+      "citation_number": 8,
+      "cited_text": "Abstract This study examined how trustworthiness impressions depend on vocal expressive and person characteristics and how their dependence may be explained by acoustical profiles. Sentences spoken in a range of emotional and conversational expressions by 20 speakers differing in age and sex were presented to 80 age and sex matched listeners who rated speaker trustworthiness. Positive speaker valence but not arousal consistently predicted greater perceived trustworthiness. Additionally, voices from younger as compared with older and female as compared with male speakers were judged more trustworthy. Acoustic analysis highlighted several parameters as relevant for being perceived as trustworthy (i.e., accelerated tempo, low harmonic-to-noise ratio, more shimmer, low fundamental frequency, more jitter, large intensity range) and showed that effects partially overlapped with those for perceived speaker affect, age, but not sex. Specifically, a fast speech rate and a lower harmonic-to-noise ratio differentiated trustworthy from untrustworthy, positive from negative, and younger from older voices. Male and female voices differed in other ways. Together, these results show that a speaker's expressive as well as person characteristics shape trustworthiness impressions and that their effect likely results from a combination of low-level perceptual and higher-order conceptual processes."
+    },
+    {
+      "source_id": "75549ac6-cab3-418b-9b7b-7509bab3a285",
+      "citation_number": 9,
+      "cited_text": "Normalized vocal parameters (y-axes) are plotted as a function of trustworthiness ratings, valence, arousal, and speaker characteristics (x-axes). The individual points in the scatter plots represent the 13 expressions for the 2 sentences produced by each speaker. These points are summarized by a regression line for each speaker. The error bars in the bar-graphs represent the 95% confidence intervals. https://doi.org/10.1371/journal.pone.0232431.g004 In order of effect size, higher trustworthiness was associated with a shorter utterance Duration (β = -.73, SE = .07, Z = -10.11, p < .0001), a lower HNR (β = -.55, SE = .09, Z = -5.87, p < .0001), more Shimmer (β = .37, SE = .08, Z = 4.40, p < .0001), a lower mean F0 (β = -.27, SE = .09, Z = -2.99, p = .003), more Jitter (β = .24, SE = .02, Z = 11.69 , p < .0001), and a larger Intensity range (β = .15, SE = .05, Z = 3.22 p = .001). Effects were non-significant for F0 range (β = -.05, SE = .06, Z = -.83, p = .4) and F0 SD (β = -.02, SE = .05, Z = -.3, p = .77)."
+    },
+    {
+      "source_id": "75549ac6-cab3-418b-9b7b-7509bab3a285",
+      "citation_number": 10,
+      "cited_text": "Conclusions To conclude, the present study pursued voice-based trustworthiness impressions from a fresh angle. In addition to exploring the sound properties of trustworthiness, it examined the role of vocal expressive and person characteristics and linked those back to relevant voice acoustics. In doing so, it produced original evidence that positive voices sound more trustworthy than negative voices. Additionally, it delineated speaker age and sex effects according to which trustworthiness is higher for younger as compared with older and female as compared with male individuals. Last, this study highlighted speech rate and HNR as trust's most important acoustic dimensions and showed that they map onto a subset of expressive and person characteristics providing some, albeit imperfect, support for the emotion overgeneralization hypothesis. Notably, a single acoustic parameter—fast speech—was more important than speaker affect, age, and sex in predicting listener trust thus underlining that trust likely arises from both simple perceptual as well as higher-order conceptual processes."
+    },
+    {
+      "source_id": "75549ac6-cab3-418b-9b7b-7509bab3a285",
+      "citation_number": 11,
+      "cited_text": "Angry, old, male – and trustworthy? How expressive and person voice characteristics shape listener trust Annett Schirmer, Man Hey Chiu, Clive Lo, Yen-Ju Feng, Trevor B. Penney x Published: May 4, 2020 https://doi.org/10.1371/journal.pone.0232431 Article Authors Metrics Comments Media Coverage Abstract Introduction Materials and methods Results Discussion Conclusions Acknowledgments References Reader Comments Figures Accessible Data See the dataLink Icon This article includes the Accessible Data icon, an experimental feature to encourage data sharing and reuse. Find out how research articles qualify for this feature."
+    },
+    {
+      "source_id": "75549ac6-cab3-418b-9b7b-7509bab3a285",
+      "citation_number": 12,
+      "cited_text": "Figures Citation: Schirmer A, Chiu MH, Lo C, Feng Y-J, Penney TB (2020) Angry, old, male – and trustworthy? How expressive and person voice characteristics shape listener trust. PLoS ONE 15(5): e0232431. https://doi.org/10.1371/journal.pone.0232431 Editor: Nicholas D. Duran, Arizona State University, UNITED STATES Received: February 20, 2020; Accepted: April 14, 2020; Published: May 4, 2020 Copyright: © 2020 Schirmer et al. This is an open access article distributed under the terms of the Creative Commons Attribution License , which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited."
+    },
+    {
+      "source_id": "75549ac6-cab3-418b-9b7b-7509bab3a285",
+      "citation_number": 13,
+      "cited_text": "The study reported then and here employed 20 speakers, differing in age and sex, to produce two sentences in accordance with specific expressive instructions (see below). Each expression was subjected to an analysis of frequency, intensity and duration properties and to a trustworthiness rating by a group of 80 listeners. Statistical analyses tested the following hypotheses. (1) Expression valence was expected to predict perceived trustworthiness. As shown for faces, positive voices should be rated as more trustworthy than negative voices. We also pursued a possible, and not previously delineated, relation between the arousal and trustworthiness of vocal expressions. Besides valence, arousal, or a person's level of energy, forms a major dimension in a basic affective space [ 45 , 46 ] and serves as a relevant cue to behavioral intentions. It may, therefore, also play a role in biasing trust. (2) A second hypothesis was that basic person characteristics like sex and age would modulate perceived trustworthiness. This was based on previous work showing that person characteristics bias trust preferences for faces [ 29 , 31 ]. In line with extant findings, we expected female voices to receive higher trustworthiness ratings than male voices. However, due to inconsistent results no directional predictions could be made for age effects. (3) Last, and in line with the emotion over-generalization hypothesis, we expected that acoustical parameters predicting higher perceived trustworthiness should also be the voice acoustics characterizing the expressive and person characteristics that are most trusted. For example, if a low mean F0 is associated with high perceived trustworthiness, then the affective expression, sex, and age receiving the highest trustworthiness ratings should have a lower mean F0 than the affective expression, sex, and age receiving the lowest trustworthiness ratings."
+    },
+    {
+      "source_id": "75549ac6-cab3-418b-9b7b-7509bab3a285",
+      "citation_number": 14,
+      "cited_text": "Results Listener agreement The data are available on the Open Science Framework ( https://osf.io/j3hfg/?view_only=77db09592fe44a79837f61ba8146fdb8 ). We computed intraclass correlation coefficients (ICC) to determine listener agreement. To this end, we used the icc function from the irr package [ 53 ] in R [ 51 ] to examine two-way consistency across raters. This revealed that there was high agreement among participants in how they evaluated the voices (ICC(C,80) = .967). Trustworthiness and speaker affective expression First, we examined the relationship between perceived trustworthiness—our ordinal dependent variable—and the affective rating of each item averaged across all raters (see Methods ). Specifically, we fitted a CLM model (i.e., ordered logit regression model) with Trustworthiness as the dependent variable, either normalized Valence or Arousal (normed item values, mean 0, SD 1) as the fixed effect and the slopes and intercepts of Listener (40 levels) and Speaker (20 levels) as random effects. This analysis was conducted for young listeners only because only young listeners participated in the preliminary rating study from which we derived affective item norms."
+    },
+    {
+      "source_id": "75d4d2cc-087f-4944-8295-cd60866d5eac",
+      "citation_number": 15,
+      "cited_text": "Vocal Fry May Undermine the Success of Young Women in the Labor Market Rindy C. Anderson, Casey A. Klofstad, William J. Mayew, Mohan Venkatachalam x Published: May 28, 2014 https://doi.org/10.1371/journal.pone.0097506 Article Authors Metrics Comments Media Coverage Abstract Introduction Materials and Methods Results Discussion Supporting Information Acknowledgments Author Contributions References Reader Comments Figures Abstract Vocal fry is speech that is low pitched and creaky sounding, and is increasingly common among young American females. Some argue that vocal fry enhances speaker labor market perceptions while others argue that vocal fry is perceived negatively and can damage job prospects. In a large national sample of American adults we find that vocal fry is interpreted negatively. Relative to a normal speaking voice, young adult female voices exhibiting vocal fry are perceived as less competent, less educated, less trustworthy, less attractive, and less hirable. The negative perceptions of vocal fry are stronger for female voices relative to male voices. These results suggest that young American females should avoid using vocal fry speech in order to maximize labor market opportunities."
+    },
+    {
+      "source_id": "75d4d2cc-087f-4944-8295-cd60866d5eac",
+      "citation_number": 16,
+      "cited_text": "Some forward that young American women who speak with vocal fry are perceived as educated and upwardly mobile [6] , which would imply favorable outcomes in the job market. Supporters of this view refer to the use of vocal fry among successful females working in traditionally male dominated industries such as finance [7] and print media [8] , suggesting vocal fry as a means of communicating seriousness, intelligence, and determination. As vocal fry typically occurs when speakers lower their vocal pitch [3] , [4] , this interpretation comports with research showing that men and women with lower pitched voices are perceived as stronger and more dominant [9] , [10] , [11] ."
+    },
+    {
+      "source_id": "75d4d2cc-087f-4944-8295-cd60866d5eac",
+      "citation_number": 17,
+      "cited_text": "Discussion This paper investigates how vocal fry is perceived when used by young American females in a labor market context. A between-subjects experiment conducted on a national sample of American adults reveals that vocal fry is interpreted negatively relative to a normal speaking voice. Young adult female voices exhibiting vocal fry are perceived as less competent, less educated, less trustworthy, less attractive, and less hirable. The negative perceptions of women who use vocal fry are stronger when the listener is also a woman. Collectively, these results suggest young American women should avoid vocal fry in order to maximize labor market perceptions, particularly when being interviewed by another woman."
+    },
+    {
+      "source_id": "75d4d2cc-087f-4944-8295-cd60866d5eac",
+      "citation_number": 18,
+      "cited_text": "To test for effects of both sex of speaker and sex of listener, a full-factorial between-subjects analysis of variance (ANOVA) of listeners' preferences was conducted with speaker sex, listener sex, and the interaction of listener and speaker sex. Type of playback device (headphones or computer speakers) was included as a covariate. The results of this analysis show that the negative perception of vocal fry was significantly stronger when listeners judged female voices on trustworthiness (F 1,795 = 9.54, p<.01, partial η 2 = 1.19%), competence (F 1,795 = 10.11, p<.01, partial η 2 = 1.26%), education (F 1,795 = 7.24, p = .01, partial η 2 = 0.90%), and willingness to hire (F 1,795 = 6.33, p = .01, partial η 2 = 0.79%), but not in the case of attractiveness (F 1,795 = 2.33, p = .13). Additionally, while a normal voice is always strongly preferred over vocal fry, female listeners have a more negative perception of vocal fry than male listeners for all five judgments made of the voices (trustworthiness: F 1,795 = 4.97, p = .03, partial η 2 = 0.62%; competence: F 1,795 = 7.50, p = .01, partial η 2 = 0.93%; education: F 1,795 = 7.02, p = .01, partial η 2 = 0.87%; attractiveness: F 1,795 = 12.57, p<.01, partial η 2 = 1.16%; willingness to hire: F 1,795 = 4.97, p = .03, partial η 2 = 0.62%). While there is statistically significant variation in judgment of vocal fry by sex of the listener and sex of the speaker, the effect sizes (partial η 2 ) are small because vocal fry is universally derided regardless of the sex of the speaker or listener. There were no statistically significant interactions between speaker sex and listener sex."
+    },
+    {
+      "source_id": "75d4d2cc-087f-4944-8295-cd60866d5eac",
+      "citation_number": 19,
+      "cited_text": "Figures Citation: Anderson RC, Klofstad CA, Mayew WJ, Venkatachalam M (2014) Vocal Fry May Undermine the Success of Young Women in the Labor Market. PLoS ONE 9(5): e97506. https://doi.org/10.1371/journal.pone.0097506 Editor: Joel Snyder, UNLV, United States of America Received: November 27, 2013; Accepted: April 16, 2014; Published: May 28, 2014 Copyright: © 2014 Anderson et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License , which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited."
+    },
+    {
+      "source_id": "75d4d2cc-087f-4944-8295-cd60866d5eac",
+      "citation_number": 20,
+      "cited_text": "Materials and Methods Vocal Stimuli In line with Fraccaro et al. [16] our stimuli were produced by speakers mimicking the vocal fry affectation. More specifically, seven young adult females (average age 24 years, range 19–27 years) and seven young adult males (average age 26 years, range 20–30 years) were recorded speaking the phrase, “Thank you for considering me for this opportunity” in both their normal tone of voice and in vocal fry. We chose this particular phrase as it is one we expect would be spoken by a job candidate when attempting to secure employment."
+    },
+    {
+      "source_id": "75d4d2cc-087f-4944-8295-cd60866d5eac",
+      "citation_number": 21,
+      "cited_text": "Download: PNG larger image TIFF original image Figure 2. Waveform and spectrogram of the same woman saying the word “opportunity” in normal voice (Panel A) and vocal fry (Panel B). The dashed circles indicate the vibrations in the vocal fry voice at the end of the utterance. https://doi.org/10.1371/journal.pone.0097506.g002 Download: PNG larger image TIFF original image Table 1. Descriptive statistics of acoustic features of vocal stimuli. https://doi.org/10.1371/journal.pone.0097506.t001 Perceptions of Speech Exhibiting Vocal Fry The listener is the unit of analysis. Analyses were conducted in SPSS (version 19) and Stata/SE (version 12.1). Two-tailed one-sample t-tests were used to compare listeners' average preference ratios to .50, which represents indifference between a normal voice and vocal fry. As shown in Figure 3 , preference ratios for all five assessments by speaker gender are substantially below .50, indicating that a normal voice was preferred by listeners over vocal fry at a rate greater than chance (p<.001)."
+    },
+    {
+      "source_id": "75d4d2cc-087f-4944-8295-cd60866d5eac",
+      "citation_number": 22,
+      "cited_text": "The results of estimating equation (1) for all participants presented in Table 2 , Column 1, indicate that while all four vocal perceptions exhibit statistically significant associations with willingness to hire, the influence of perceptions of trust is stronger than that of perceptions of competence ( β 1 > β 2 , F 1,795 = 21.71, p<.001), education ( β 1 > β 3 , F 1,795 = 29.43, p<.001), and attractiveness ( β 1 > β 4 , F 1,795 = 114.24, p<.001). The influence of perceptions of competence and education are not significantly different ( β 2 = β 3 , F 1,795 = .72, p = .40), but both have greater influence relative to perceptions of attractiveness ( β 2 > β 4 , F 1,795 = 38.04, p<.001; β 3 > β 4 , F 1,795 = 24.39, p<.001). Taken together, these results suggest that job candidates who use vocal fry are not preferred particularly because they are perceived as untrustworthy."
+    },
+    {
+      "source_id": "2ea09729-0364-4b0a-b76e-05ef05909b0e",
+      "citation_number": 23
+    },
+    {
+      "source_id": "303c28b4-bd96-448a-90e6-e56ffd86aeb8",
+      "citation_number": 24,
+      "cited_text": "they allowed statistical prediction performances of 70-87 %. Note that we have no indications that prediction performances or qualities of cues differed between genders. Yet, it can be assumed that human listeners (contestants) would have a hard time identifying correct answers from the quizmasters' speech, as the links between correct answers and their prosodic cues are anything but straightforward. They strongly differ as a function of answer position. Accordingly, initial evidence from pilot perception experiments with and without de-lexicalized stimuli suggests that naive listeners are"
+    },
+    {
+      "source_id": "303c28b4-bd96-448a-90e6-e56ffd86aeb8",
+      "citation_number": 25,
+      "cited_text": "rect answers in the popular four-alternatives (a/b/c/d) frame- work of \"Who Wants to Be a Millionaire?\" (WWTBAM). We simulated this game-show scenario in the lab, based on 20 naive German participants who took the roles of either quiz- master or contestant. Quizmasters were instructed to take care not to reveal correct answers to contestants. Despite this ex- plicit instruction, our acoustic-prosodic analysis yielded clear telltale signs of correct answers. These telltale signs were con- sistent across all quizmasters, but complex insofar as they"
+    },
+    {
+      "source_id": "303c28b4-bd96-448a-90e6-e56ffd86aeb8",
+      "citation_number": 26,
+      "cited_text": "on the prosodic parameters in the lower-case letters. 4. Conclusions The results of the present study converge in the following main message: Yes, it is possible to predict from prosodic parameters which of the four alternatives in the WWTBAM scenario is the correct answer to the quiz question. Our quiz- masters did send out subtle cues to correct answers,  although they were explicitly instructed not to do so and tried hard to comply with this instruction, i.e. all quizmasters ticked a box in the de-briefing questionnaire stating that they were sure to"
+    },
+    {
+      "source_id": "303c28b4-bd96-448a-90e6-e56ffd86aeb8",
+      "citation_number": 27,
+      "cited_text": "applied to the parameter pause duration. The main effects of Answer Position were overall similar: Duration characteristics like final lengthening, pause duration, and the alignments of nuclear accents and intensity peaks decreased across the alter- native-answer positions, particularly after position <a> or at position <d>. The two range parameters showed a similar de- crease, except that the answers' F0 ranges increased again at position <d>. Speaking rate is the only parameter whose mean values increased after <a>, see Figure 2(e)."
+    },
+    {
+      "source_id": "303c28b4-bd96-448a-90e6-e56ffd86aeb8",
+      "citation_number": 28,
+      "cited_text": "2(a)-(f), the F0 range was the only prosodic parameter whose difference between right and wrong answers was independent of Answer Position. There were significant interactions of Answer Type with Answer Position for intensity range (F[3, 385]=14.1, p<0.001), speaking rate (F[3,385]=8.2, p<0.001), and degree of final lengthening (F[1,385]=12.7, p<0.001). The interactions were disordinal in nature, i.e. the direction in which right answers differed from wrong answers depended on whether the right answer was in position <a>, <b>, <c>, or"
+    },
+    {
+      "source_id": "303c28b4-bd96-448a-90e6-e56ffd86aeb8",
+      "citation_number": 29,
+      "cited_text": "<d>. More specifically, Figures 2(a)-(f) illustrate that the prosodic profile of right answers in positions <c> and <d> resem- bled that of wrong answers in positions <a> or <a> and <b>. Thus, what characterizes right answers in positions <a> or <a> and <b> is diametrically opposed to what characterizes right answers in positions <c> and <d>. Figure 2: Means of the prosodic parameters (1)-(6), measured for right (n=100) and wrong (n=300) alternative answers in positions <a>-<d>. It is due to the disordinal interactions that we found no"
+    },
+    {
+      "source_id": "303c28b4-bd96-448a-90e6-e56ffd86aeb8",
+      "citation_number": 30,
+      "cited_text": "voice quality, and a faster speaking rate [15,16,17,18]. Simi- larly, deception as well as other types of increased mental/ cognitive workload, for example, those due to multi-tasking, are typically characterized by an increase in all F0 and in- tensity parameters, including ranges, a tenser or creakier voice quality, and a lower speaking rate [8,9,12,13,14,19,20]. Quizmasters in game shows like \"Who Wants to Be a Millionaire?\" (WWTBAM) must be no blabbermouths in the sense that they constantly have to take care not to send out any"
+    },
+    {
+      "source_id": "303c28b4-bd96-448a-90e6-e56ffd86aeb8",
+      "citation_number": 31,
+      "cited_text": "Who wants to be a blabbermouth? Prosodic cues to correct answers in the WWTBAM quiz show scenario Oliver Niebuhr Department of Design and Communication, Innovation Research Cluster Alsion (IRCA), University of Southern Denmark, Sonderborg, Denmark olni@sdu.dk Abstract Starting from previous research on the prosodic patterns of emotion, psychological stress and deceptive speech, the paper investigates whether quizmasters convey telltale cues to cor-"
+    },
+    {
+      "source_id": "303c28b4-bd96-448a-90e6-e56ffd86aeb8",
+      "citation_number": 32,
+      "cited_text": "master training. In addition, some initial conclusions could be drawn on how emotion and stress factors interact, for example, in terms of coping strategies and/or prosodic correlates. We addressed these issues by simulating the WWTBAM scenario that is illustrated in Figure 1 in a controlled labora- tory production experiment, with students taking the roles of quizmaster and contestant. 2. Method 2.1. Participants Twenty native speakers of Northern Standard German, 10 males and 10 females, participated in the production experi-"
+    },
+    {
+      "source_id": "303c28b4-bd96-448a-90e6-e56ffd86aeb8",
+      "citation_number": 33,
+      "cited_text": "alternatives <a>-<d> both within and across the target and filler conditions (only <c> was correct twice). 2.4. Analysis The quizmaster's realizations of the four alternative answers per question were acoustically analyzed with respect to a set of 7 prosodic parameters that are known from previous studies to be involved in psychological stress/deception and (cold) fear [6-14], perceptual prominence and accentuation [22,23], and prosodic phrasing [24]. That is, if the quizmaster did subconsciously send out subtle cues to correct answers, then we"
+    },
+    {
+      "source_id": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+      "citation_number": 34,
+      "cited_text": "Title: Strategic Pauses Relieve Listeners from the Effort of Listening to Fast Speech: Data Limited and Resource Limited Processes in Narrative Recall by Adult Users of Cochlear Implants URL Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC10637151/ Markdown Content: Abstract Speech that has been artificially accelerated through time compression produces a notable deficit in recall of the speech content. This is especially so for adults with cochlear implants (CI). At the perceptual level, this deficit may be due to the sharply degraded CI signal, combined with the reduced richness of compressed speech. At the cognitive level, the rapidity of time-compressed speech can deprive the listener of the ordinarily available processing time present when speech is delivered at a normal speech rate. Two experiments are reported. Experiment 1 was conducted with 27 normal-hearing young adults as a proof-of-concept demonstration that restoring lost processing time by inserting silent pauses at linguistically salient points within a time-compressed narrative (“time-restoration”) returns recall accuracy to a level approximating that for a normal speech rate. Noise vocoder conditions with 10 and 6 channels reduced the effectiveness of time-restoration. Pupil dilation indicated that additional effort was expended by participants while attempting to process the time-compressed narratives, with the effortful demand on resources reduced with time restoration. In Experiment 2, 15 adult CI users tested with the same (unvocoded) materials showed a similar pattern of behavioral and pupillary responses, but with the notable exception that meaningful recovery of recall accuracy with time-restoration was limited to a subgroup of CI users identified by better working memory spans, and better word and sentence recognition scores. Results are discussed in terms of sensory-cognitive interactions in data-limited and resource-limited processes among adult users of cochlear implants."
+    },
+    {
+      "source_id": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+      "citation_number": 35,
+      "cited_text": "Discussion Experiment 1 replicates two well-known effects relating to recall of time-compressed clear speech by young adults with age-normal hearing. First, accelerating the rate of speech had a significant detrimental effect on speech recall ( Foulke, 1971 ). Second, restoring the lost processing time at linguistically salient points in the time-compressed passages allowed recall accuracy to return to a level equivalent to the participant's baseline accuracy for normal, uncompressed speech ( Aronson et al., 1971 ; Overman, 1971 ). Both are robust findings that have been replicated in older adults with age-normal hearing, albeit with older adults having a differentially greater recall decrement with time-compression relative to young adults ( Gordon-Salant & Fitzgibbons, 1993 ; Konkle et al., 1977 ; Sticht & Gray, 1969 ), and a less complete recovery with time-restoration ( Wingfield et al., 1999 )."
+    },
+    {
+      "source_id": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+      "citation_number": 36,
+      "cited_text": "An important feature of work conducted with normal-hearing adults has been a demonstration that comprehension and recall of time-compressed speech can be rescued by the insertion of lengthened silent periods at linguistically salient points (e.g., clause and sentence boundaries), within a speech sample to allow listener's processing to “catch up” while listening to the compressed speech ( Overman, 1971 ) at least so long as the degree of time compression is not too great ( Wingfield et al., 1999 ). The placement of pauses is critical, such that the insertion of pauses at random points unrelated to the clausal structure yields little or no improvement in recall ( Wingfield et al., 1999 )."
+    },
+    {
+      "source_id": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+      "citation_number": 37,
+      "cited_text": "Although overall recall accuracy differed between the three clarity conditions (clear speech, 10-channel vocoding, and 6-channel vocoding) it can be seen in Figure 2 that all three conditions showed a similar V-shaped function. However, when clarity was progressively reduced, the detrimental effect of time compression increased, and the benefit of time restoration decreased. Consistent with this observation, there was a significant Stimulus Clarity × Rate interaction ( p = .001). A series of pairwise planned comparisons confirmed that time compression had a detrimental effect on recall in all three stimulus clarity conditions ( p < .001 in all cases). As suggested by visual inspection of the left panel of Figure 2 , when passages were heard with clear speech, time-restoration (TR) raised the level of recall accuracy for otherwise time-compressed speech 95% of the way back to baseline, a level that did not differ significantly from the accuracy level for passages presented with their original normal (N) speech rate ( p = .874)."
+    },
+    {
+      "source_id": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+      "citation_number": 38,
+      "cited_text": "For normal-hearing young adults, pauses inserted strategically in rapid speech rescues the listener from the detrimental effect of rapid speaking rate, with that benefit diminishing as the signal gets poorer and poorer. The recall decrement resulting from time compression was fully reversed in the time-restoration condition for clear speech, and nearly so when the speech was heard with 10-channel vocoding. These cases reflect the expectations for a resource-limited process. That is, in both cases there was sufficient sensory information available to the listener to allow an effective allocation of processing resources, along with the presence of periodic silent intervals during which no new information was arriving, to yield a level of recall approximating that observed for noncompressed speech."
+    },
+    {
+      "source_id": "40c74934-888f-4a9d-9a63-98aea40d2c8e",
+      "citation_number": 39,
+      "cited_text": "As noted, pupillometry has seen wide use as a measure of relative processing effort in a range of speech and problem-solving tasks (e.g., Van der Wel & Steenbergen, 2018 ; Zekveld et al., 2018 ). In the present case, the TEPR offered objective physiological evidence of greater effort being allocated to the task when the speech input was very rapid due to time compression, and reduced processing effort when the task was made more manageable with the insertion of silent periods at salient points in the passages that allowed the listener additional processing time. The GAMM visualizations revealed that for CI users, complete recovery of processing effort did not appear until later in the passage than was the case for normal hearing young adults. This implies that the effortful demand associated with rapid speech, combined with the spectrally impoverished signal of the CI, delayed the point at which strategic pauses completely relieved CI users from the effort of listening to time-compressed speech."
+    }
+  ]
+}

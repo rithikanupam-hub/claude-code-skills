@@ -1,0 +1,308 @@
+{
+  "answer": "### 1. Applying Story Frameworks to Educational & Research Explainers\n\nEducational and research-based explainers often suffer from feeling like information dumps. Applying narrative frameworks transforms raw data into a structured journey of discovery.\n\n*   **The \"But / Therefore\" Framework (Replacing \"And Then\")**: When detailing research or historical events, avoid listing facts chronologically (\"this happened, *and then* this happened\") [1, 2]. This creates a monotonous sequence that causes viewers to lose interest [1, 2]. Instead, link facts using **cause-and-effect complications**: *\"Researchers assumed X was true, **BUT** new data revealed an anomaly, **THEREFORE** they tested a second hypothesis, **BUT** the results contradicted expectations...\"* [1-3]. This creates open conflict loops in the viewer's brain that demand resolution [1, 4].\n*   **The 5-Line Blueprint for Research Narratives**: You can map complex concepts or studies onto a simple 5-line structural arc [5, 6]:\n    1.  **Situation**: Establish the current baseline, consensus, or context [5, 7].\n    2.  **Desire**: Define the core goal or question driving the research [8, 9].\n    3.  **Conflict**: Introduce the barrier, contradiction, or gap in knowledge [8, 9].\n    4.  **Change**: Highlight the pivotal experiment, discovery, or shift in understanding [8, 10].\n    5.  **Result**: Reveal the new reality, solution, or broader implication [10, 11].\n    \n    *Note*: This 5-line skeleton can easily scale up to 10 or 20 lines to add depth without losing the emotional core [6, 12-15].\n*   **Choosing a \"Story Lens\"**: In educational content, topic selection alone isn't enough because others cover the same subjects [16, 17]. Apply a **story lens**—a unique prism through which you analyze the topic (e.g., explaining a major cultural event through its underlying business/economic impact rather than surface-level news) [16-18].\n\n---\n\n### 2. Making Information Feel Like a Story\n\n*   **Translate Specs into Human Experience**: Viewers remember how information made them feel rather than raw specifications [19]. For example, instead of focusing on technical metrics like *\"1 gigabyte of storage\"* or *\"audio compression,\"* translate the data into human impact: *\"1,000 songs in your pocket\"* [19, 20].\n*   **Connecting vs. Teaching**: Plain instructional delivery teaches, but narrative storytelling connects [21]. Before writing your script, define the single specific **feeling or truth** you want the viewer to walk away with [22].\n*   **Hyper-Specificity**: Abstract academic concepts feel distant. Ground your explanation in **exact numbers, precise timeframes, and concrete physical details** rather than broad generalities [23].\n*   **Show While You Tell**: Pair line-by-line script statements with visual proof or B-roll [24-27]. Visuals carry emotion and credibility that spoken text alone cannot achieve [26].\n\n---\n\n### 3. Stakes, Curiosity, and Endings\n\n*   **Establishing Stakes**: In educational videos, stakes represent the **desired outcome or problem solved**—such as mastering a critical skill, saving time, or avoiding a costly error [28-30]. The viewer must immediately understand what value they gain by watching [28, 31].\n*   **Sparking Curiosity**:\n    *   **Knowledge Gap**: Curiosity is created by highlighting the gap between what the viewer knows today and what they want to understand tomorrow [32].\n    *   **The 4 S's of Hooks**: Ensure your opening delivers a clear **Subject**, high **Stakes**, fast **Speed** (compressed phrasing), and absolute **Simplicity** [28, 31, 33].\n    *   **The Lock-In Zone (Trust Anchors)**: In the 5–10 seconds directly following the hook, immediately confirm your opening claim and establish rapid credibility using **proof anchors** (such as case studies, data screenshots, or published studies) so the viewer trusts you enough to stay for the full explanation [34-37].\n*   **Crafting Endings**:\n    *   **Start at the End (\"The Last Dab\")**: Determine your final takeaway line before writing the middle [38]. Make it memorable enough that a viewer would quote or share it [38]. For short-form content, the final line should double as a seamless bridge back into the opening line [38].\n    *   **Closure & Transformation**: The ending (\"Result\") must tie the entire narrative together, demonstrating clearly how the audience's understanding has transformed compared to where they started [10, 11].\n    *   **Value-First Call to Action**: Rather than asking for subscriptions to boost channel metrics, frame your ending around validating the viewer or offering a next step that serves their learning journey [39, 40].\n\n---\n\n### 4. What NOT to Do (Pitfalls & Anti-Patterns)\n\n*   **Do NOT use \"And Then\" progression**: Avoid presenting information as a simple sequential list (\"X happened, and then Y happened\"). It removes tension and makes the video feel boring [1, 2].\n*   **Do NOT use vague or clickbaity hooks**: Avoid starting with opaque phrases like *\"Wait till you see this\"* or *\"You won't believe this.\"* Educational hooks must immediately identify the specific subject and outcome [18, 31, 33].\n*   **Do NOT write with a monotonous sentence rhythm**: Uniform sentence lengths create a repetitive, drone-like cadence [41, 42]. Intentionally alternate between short, medium, and long sentences to create natural verbal music [41, 42].\n*   **Do NOT over-edit with constant effects**: Avoid back-to-back transitions, flashes, or light leaks on every cut [43, 44]. Excessive editing over-stimulates the brain and causes viewers to \"feel the edit\" rather than focus on the story [43, 44].\n*   **Do NOT talk \"at\" the audience**: Avoid an impersonal or overly academic lecture tone [45, 46]. Write and deliver your script as if speaking directly to one close friend [46, 47].\n*   **Do NOT misalign visual, text, and spoken hooks**: If the text on screen, spoken words, and visual imagery convey conflicting messages in the first few seconds, it creates cognitive confusion and triggers an immediate scroll-away [48].\n*   **Do NOT artificially rush the pacing**: Fast cuts are not always better; do not hesitate to adopt a slower, deliberate pace that gives complex ideas room to be absorbed [49].\n\n💡 *If you'd like, we could draft a 5-line script outline for a specific educational or research topic you're currently working on.*",
+  "conversation_id": "52c340b8-d058-4b55-b2a6-2522b8b6e8cf",
+  "sources_used": [
+    "261dc98e-d1f0-4c1d-92c2-ae81e40856ff",
+    "7980d507-83d5-43c0-bf16-0709ed18f5d6",
+    "40509e39-1f7c-48ff-ad76-81160ad0f944",
+    "6057422d-52c1-4bb8-94ae-81f6a33ea94f"
+  ],
+  "citations": {
+    "1": "261dc98e-d1f0-4c1d-92c2-ae81e40856ff",
+    "2": "261dc98e-d1f0-4c1d-92c2-ae81e40856ff",
+    "3": "261dc98e-d1f0-4c1d-92c2-ae81e40856ff",
+    "4": "261dc98e-d1f0-4c1d-92c2-ae81e40856ff",
+    "5": "7980d507-83d5-43c0-bf16-0709ed18f5d6",
+    "6": "7980d507-83d5-43c0-bf16-0709ed18f5d6",
+    "7": "7980d507-83d5-43c0-bf16-0709ed18f5d6",
+    "8": "7980d507-83d5-43c0-bf16-0709ed18f5d6",
+    "9": "7980d507-83d5-43c0-bf16-0709ed18f5d6",
+    "10": "7980d507-83d5-43c0-bf16-0709ed18f5d6",
+    "11": "7980d507-83d5-43c0-bf16-0709ed18f5d6",
+    "12": "7980d507-83d5-43c0-bf16-0709ed18f5d6",
+    "13": "7980d507-83d5-43c0-bf16-0709ed18f5d6",
+    "14": "7980d507-83d5-43c0-bf16-0709ed18f5d6",
+    "15": "7980d507-83d5-43c0-bf16-0709ed18f5d6",
+    "16": "261dc98e-d1f0-4c1d-92c2-ae81e40856ff",
+    "17": "261dc98e-d1f0-4c1d-92c2-ae81e40856ff",
+    "18": "261dc98e-d1f0-4c1d-92c2-ae81e40856ff",
+    "19": "40509e39-1f7c-48ff-ad76-81160ad0f944",
+    "20": "40509e39-1f7c-48ff-ad76-81160ad0f944",
+    "21": "40509e39-1f7c-48ff-ad76-81160ad0f944",
+    "22": "40509e39-1f7c-48ff-ad76-81160ad0f944",
+    "23": "40509e39-1f7c-48ff-ad76-81160ad0f944",
+    "24": "261dc98e-d1f0-4c1d-92c2-ae81e40856ff",
+    "25": "261dc98e-d1f0-4c1d-92c2-ae81e40856ff",
+    "26": "40509e39-1f7c-48ff-ad76-81160ad0f944",
+    "27": "40509e39-1f7c-48ff-ad76-81160ad0f944",
+    "28": "6057422d-52c1-4bb8-94ae-81f6a33ea94f",
+    "29": "6057422d-52c1-4bb8-94ae-81f6a33ea94f",
+    "30": "6057422d-52c1-4bb8-94ae-81f6a33ea94f",
+    "31": "6057422d-52c1-4bb8-94ae-81f6a33ea94f",
+    "32": "6057422d-52c1-4bb8-94ae-81f6a33ea94f",
+    "33": "6057422d-52c1-4bb8-94ae-81f6a33ea94f",
+    "34": "6057422d-52c1-4bb8-94ae-81f6a33ea94f",
+    "35": "6057422d-52c1-4bb8-94ae-81f6a33ea94f",
+    "36": "6057422d-52c1-4bb8-94ae-81f6a33ea94f",
+    "37": "6057422d-52c1-4bb8-94ae-81f6a33ea94f",
+    "38": "261dc98e-d1f0-4c1d-92c2-ae81e40856ff",
+    "39": "40509e39-1f7c-48ff-ad76-81160ad0f944",
+    "40": "40509e39-1f7c-48ff-ad76-81160ad0f944",
+    "41": "261dc98e-d1f0-4c1d-92c2-ae81e40856ff",
+    "42": "261dc98e-d1f0-4c1d-92c2-ae81e40856ff",
+    "43": "40509e39-1f7c-48ff-ad76-81160ad0f944",
+    "44": "40509e39-1f7c-48ff-ad76-81160ad0f944",
+    "45": "261dc98e-d1f0-4c1d-92c2-ae81e40856ff",
+    "46": "261dc98e-d1f0-4c1d-92c2-ae81e40856ff",
+    "47": "40509e39-1f7c-48ff-ad76-81160ad0f944",
+    "48": "6057422d-52c1-4bb8-94ae-81f6a33ea94f",
+    "49": "40509e39-1f7c-48ff-ad76-81160ad0f944"
+  },
+  "references": [
+    {
+      "source_id": "261dc98e-d1f0-4c1d-92c2-ae81e40856ff",
+      "citation_number": 1,
+      "cited_text": "ways there now why does this work conflicts create open Loops in the brain and then context helps close those Loops the best explanation I've ever seen for how to tactically implement this dance idea is from Matt Stone and Trey Parker they're the ones who created South Park they were giving a talk at NYU watch this we found out this really simple rule that maybe you guys have all heard before but it took us a long time to learn it but we can take these beats which are basically the Beats of your outline and if the words and then belong between those beats you're basically you got you got something pretty boring what should happen between every beat that you've written down is either the word therefore or but right so so what I'm saying is that you come up with an idea and it's like okay this happens right and then this happens no no no it should be this happens and therefore this happens but this happens therefore this happens and that as soon as we are able to and literally sometimes"
+    },
+    {
+      "source_id": "261dc98e-d1f0-4c1d-92c2-ae81e40856ff",
+      "citation_number": 2,
+      "cited_text": "we'll we'll write it out to make sure we're doing it U we'll we'll have our beats and we'll say okay this happened but then this happens and that affects this and that does to that and that's why you get a show that feels like okay this to that to this to that but this here's the complication to that so tactically it's as simple as using the words but and therefore consistently throughout your script that will create those open conflict Loops if you're using the words and then it'll feel like you're piling on detail after detail after detail and the viewer will lose interest now let's quickly take a look at one of my best performing videos you'll notice there are four but then conflict Loops in the first 30 seconds watch this something crazy is happening with Stanley Cups you ever seen one of these Stanley Cups Stanley Cups Stanley Cup racking up 6.7 billion views this 40 o Stanley quencher has become the Louis Vuitton of drink wear it's a status symbol new releases are selling out in"
+    },
+    {
+      "source_id": "261dc98e-d1f0-4c1d-92c2-ae81e40856ff",
+      "citation_number": 3,
+      "cited_text": "seconds people are flipping them for hundreds on eBay Stanley the company 10x its Revenue in 4 years off this single product but the real question is how' they do it how did Stanley Cups go from a construction worker's thermos to the dream Christmas gift I got a Stanley it's a wild story so in 2019 Stanley was actually about to discontinue the cup but this group of mom block loggers the buy guide knew they were making a huge mistake so they cut a special affiliate deal with Stanley to bulk order 5,000 cups with a Twist Stanley had to make them pastel colors those 5,000 cups sold out in 5 days and completely Chang their philosophy on design but it gets even better a few months ago Stanley had the burning car moment so I'm consistently setting up these head fakes to keep the storyline moving use this but then framework next time you're Ting a script I guarantee it'll uplevel that video all right tip number two is rhythm I talk about this a lot but there's this natural subconscious pacing"
+    },
+    {
+      "source_id": "261dc98e-d1f0-4c1d-92c2-ae81e40856ff",
+      "citation_number": 4,
+      "cited_text": "today we're talking about storytelling if you want your content to perform better you need to learn how to tell better stories so in this video I'm going to walk through my six favorite storytelling techniques that will massively improve your content after watching this I guarantee you will think differently about the way you write scripts and make videos by the way I'm Callaway I've pulled over a billion views on short form video I've got 500,000 followers and I think about this stuff all the time all right let's dive in tip number one is what I call the dance all great stories are like a dance between context and conflict you give a little context the characters on a mission they're doing something and then oh oh no here comes a conflict you give a little bit more context the characters have solved that first conflict they're on their way and then oh oh no another conflict this dance is how you keep the viewer locked in it could be a feature film or a short form video the dance is al"
+    },
+    {
+      "source_id": "7980d507-83d5-43c0-bf16-0709ed18f5d6",
+      "citation_number": 5,
+      "cited_text": "Because if you don't know\nwhat the story is really about, no editing trick or no camera\ntrick is going to save you from that. So then how do you get clear\nwhat your story is actually about. Well that's\nwhere the five line story method comes in. So this is the method that I've been using to create\nalmost all my story driven videos. The only thing you have to do\nis write five lines. So watch this. So your first line\nwill be about the situation. That's the starting point. Where are we and what's happening. And how does the world look like\nwhere we're in"
+    },
+    {
+      "source_id": "7980d507-83d5-43c0-bf16-0709ed18f5d6",
+      "citation_number": 6,
+      "cited_text": "And it shows how the world\nor the situation or the character is different from the starting point. Together these five lines are just\nhow we naturally process every story. So I'm going to show you an example\nof how these five lines actually play out in one of my own\nYouTube videos. But first, I want you to know that\nthese five lines aren't your whole video. They are some sort of launchpad... You can use them to kick off your story\nand start building from your five lines, or you can use them to come back\nat any time"
+    },
+    {
+      "source_id": "7980d507-83d5-43c0-bf16-0709ed18f5d6",
+      "citation_number": 7,
+      "cited_text": "where the conflict is introduced\nor where the desire is introduced. So I'm sorry if no movie\nwill be the same anymore for you. But you know, it's not just the beginners\ntrick. It's just how almost every story works. So now let's break down\neach line to see why it actually matters. The situation, where we are is\nvery important because it gives the viewer a clear starting point of where we are,\nwhat's happening and who's in the story. They will know the world that we're in\nand what we're actually talking about."
+    },
+    {
+      "source_id": "7980d507-83d5-43c0-bf16-0709ed18f5d6",
+      "citation_number": 8,
+      "cited_text": "The second line will be about the desire. So what does the character want? What does she want to obtain, or\nwhat does she want to reach? The third line is about the conflict. What gets in the way? Where’s is the tension or what is an obstacle\nthat makes it hard to reach the desire? Then the fourth line\nis going to be about change. So what happens that shifts\nsomething This could be a turning point in the story. Something big or something small or just a different way\nof seeing something, And then the fifth and last line\nis going to be the result."
+    },
+    {
+      "source_id": "7980d507-83d5-43c0-bf16-0709ed18f5d6",
+      "citation_number": 9,
+      "cited_text": "The desire that really shows the goal\nor the needs that's driving the story. And this usually really sparks\nthe curiosity of the audience and this is the part where people\nwill lean more into the story, and they start to care about\nwhether you're getting the thing or not. The audience will start\nto feel invested in the story. And maybe the thing\nthat the main character wants is something they want as well. So the third one, the conflict introduces\ntension or an obstacle. And this is really something\nthat stories need."
+    },
+    {
+      "source_id": "7980d507-83d5-43c0-bf16-0709ed18f5d6",
+      "citation_number": 10,
+      "cited_text": "Because if there's no tension,\nif there's no obstacle, if there's no challenge, there's not really a reason\nto keep watching for the audience. So the fourth one is change. And this really marks\na turning point in the story. So it could be an insight or an action\nor anything that shifts everything., you know It really shows growth and it gives the audience\nthe feeling of movement forward. The fifth, result. So this should really give your audience\nsatisfying take away a feeling of closure, an ending, and it should be something that ties\neverything of the whole story together."
+    },
+    {
+      "source_id": "7980d507-83d5-43c0-bf16-0709ed18f5d6",
+      "citation_number": 11,
+      "cited_text": "So how does it end? What's the new reality\nand how is the situation different now from when we started. Now this might all sound\nvery simple and easy. But believe me when I say\nthat simple is good with filmmaking. Because these five lines\nwill help you to see the whole story before you get distracted\nby everything else. By Gear. Transitions. Voiceovers. endless color grading,\nyou name it. There are so many details\nand so many choices to be made. So if you nail these five lines first\nyou've got the emotional core"
+    },
+    {
+      "source_id": "7980d507-83d5-43c0-bf16-0709ed18f5d6",
+      "citation_number": 12,
+      "cited_text": "But every time I tried to start,\nself-doubt and overthinking pulled me back. When I let go of the YouTube dream,\nI finally realized I was focusing on the wrong reasons\nand I just wanted to create stories. So I finally sat down and started,\nand this video is the result, and that first step pushed me\nto go all in on this YouTube journey. So that was basically the whole story of my\nfirst YouTube video in five lines. And now the cool thing is, when you can do it with five lines,\nyou can do it with ten as well."
+    },
+    {
+      "source_id": "7980d507-83d5-43c0-bf16-0709ed18f5d6",
+      "citation_number": 13,
+      "cited_text": "Watch this. I'm a filmmaker from the Netherlands\nand I've loved making videos since I was a kid. My dream was to be a YouTuber\nand sharing stories from the heart, not just for clients. But every time I tried to start,\nself-doubt and overthinking pulled me back. My mind kept yelling,\nyou can't go for making ads for big companies\nto making YouTube videos. Those fears became excuses: I'm too late\nand too old, I don't have enough skills. Gear. Security. So I let go of the big YouTube dream\nand at first it felt good and I felt free."
+    },
+    {
+      "source_id": "7980d507-83d5-43c0-bf16-0709ed18f5d6",
+      "citation_number": 14,
+      "cited_text": "But then the same question\nkept coming back: why did I actually want to\ndo YouTube all the time? When I stripped away\nviews, subscribers and money, I realized it's about the joy of creating\nand sharing stories. That realization made me push through\nself-doubt, focus on the process and the video you're watching right now\nis the result of that. It wasn't easy,\nbut I already learned so much, and it even made me go all in on YouTube\nand share every lesson along the way. So going from five lines to ten lines\ndoesn't change the core of the story."
+    },
+    {
+      "source_id": "7980d507-83d5-43c0-bf16-0709ed18f5d6",
+      "citation_number": 15,
+      "cited_text": "It just adds more richness\nand more details. And I could show you the 20 line version\nnow as well. But I think you get the point. I could continue showing you more lines\nuntil I show you the whole video. So if you can do five lines, you can expand and expand\nmore and create a whole story. So you've seen now how these five lines\ncan help you to guide an entire video. But if you find it still really hard\nto create your own story driven videos or to finish them,\nor you just want to become a better storyteller\nby actually creating something"
+    },
+    {
+      "source_id": "261dc98e-d1f0-4c1d-92c2-ae81e40856ff",
+      "citation_number": 16,
+      "cited_text": "ve them with what do you want the last thing they hear to be then you can work backwards from there and build up that dance in the middle when I think about someone that does this super well it's Christopher Nolan think about his films tenant Inception Interstellar these are extremely complicated plot lines that inevitably he had to work out the end before he could build up the conflict in the middle now you're probably not shooting feature films but this same logic can be applied to all types of content usually when I'm writing scripts I'll write the first and last line I'll go in between create a bunch of space and then I'll fill it in that's a good tactical way to try to get better at this all right tip number five is a concept that I call story lenses and it's a way to get better at producing unique content for social media in today's day and age finding a cool topic is not enough unless you're super niched down there's likely dozens of other people that are talking about that same"
+    },
+    {
+      "source_id": "261dc98e-d1f0-4c1d-92c2-ae81e40856ff",
+      "citation_number": 17,
+      "cited_text": "topic so how do you differentiate a story lens is your unique angle or spin on a particular story imagine a beam of light the beam of light's coming across the screen the naked beam everyone looks at and sees the same thing it's like this white beam of light but as as soon as you put a lens or a prism in front of the light what people see will look differently than the main beam think of that prism or that lens as your story lens it's your unique fingerprint and how you uniquely tell the story about that topic let's take an example when Taylor Swift went to the Super Bowl the most common lenses would have been to talk about what she's wearing or when she's getting there or what her facial reaction is to something a lot of people covered those exact same stories a less common lens would be to talk about a prediction for what you think might happen less people would have have that but an even less common lens would be to talk about the business impact that she was driving on the NFL for"
+    },
+    {
+      "source_id": "261dc98e-d1f0-4c1d-92c2-ae81e40856ff",
+      "citation_number": 18,
+      "cited_text": "being at the game and that's the lens that I chose to take because I thought I could be a category of one that's why I ultimately made this video and it pulled a million views it was different my story lens was something unique that people hadn't seen before all right the last tip number six is the hook now I left this for last because everybody always talks about the hook first and it makes sense it is very important if people churn on the hook the rest of what I talked about doesn't really matter so I've got two ways to level up your hooks the first is that your first line should be as Punchy and as indicative of the plot as possible if the video is about your best Garden techniques the hook should be some derivative of these are the best Garden techniques for x or I've got these Garden techniques or this thing is a garden technique that you should study you shouldn't start your hook with some open opaque line like wait till you see this or you're never going to believe this because"
+    },
+    {
+      "source_id": "40509e39-1f7c-48ff-ad76-81160ad0f944",
+      "citation_number": 19,
+      "cited_text": "People don't remember what they were told. They remember how it made them feel. A thousand songs in your pocket. That's your entire teenage years\non a morning unit. That's a road trip\nthat never runs out of the soundtrack. That's freedom. Small enough to fit in your hand,\nwhich sounded like a dream in 2001, and you, as a creator, have the exact same\npower Steve Jobs had on that stage. Not his budget, not his team,\nbut the same tool. A story told the right way. When I first started making videos,\nI thought storytelling meant a whole plot."
+    },
+    {
+      "source_id": "40509e39-1f7c-48ff-ad76-81160ad0f944",
+      "citation_number": 20,
+      "cited_text": "Did you know that there was a time when people camped outside\nan Apple Store overnight, just to be the first person\nto hold a new iPhone, not because they needed a new phone. In fact, they had a perfectly good phone\nin their pocket. Are you listening? There was a man in 2001 who stood\non a stage in a black turtleneck and said. This amazing\nlittle device holds a thousand songs and it goes right in my pocket. Not one gigabytes of storage,\nnot superior audio compression. That day, whether we knew it or not,\nwe all learned the same lesson."
+    },
+    {
+      "source_id": "40509e39-1f7c-48ff-ad76-81160ad0f944",
+      "citation_number": 21,
+      "cited_text": "Here are five ways\nto stop overthinking your content. Step one set a deadline. Step two lower your expectations. Step three take imperfect action. Clean. Structured. Easy to follow. And it works. But you know, they probably wouldn't\nsend it to a friend at 2 a.m. with this is literally me. One teaches, the other connects,\nand connection is what people remember. If you want more on this\nfilmmaking storytelling. Subscribe to Storyblocks. There's a lot more coming. I'm telling you, I haven't\nsweat this much for a very long time."
+    },
+    {
+      "source_id": "40509e39-1f7c-48ff-ad76-81160ad0f944",
+      "citation_number": 22,
+      "cited_text": "So once you understand why\nstorytelling works, the next question is how do you actually build one\nbefore you write a single line? Open a blank doc\nand write one sentence at the top, the feeling\nyou want your weaver to walk away with. Once you know the feeling you're writing\ntoward, you need a shape to write into it. And this is the one\nI come back to every time. The first thing you've ever sees\nor hears has one job. Make them feel something\nbefore they even decide to stay. What matters is honesty. The right viewer should hear your\nfirst line and think this person gets it,"
+    },
+    {
+      "source_id": "40509e39-1f7c-48ff-ad76-81160ad0f944",
+      "citation_number": 23,
+      "cited_text": "You start with the moment\nright before everything changes. And the only way to do\nthat is to make it very, very specific. Instead of time. That's bad, use time that's exact. Instead of results\nthat are general, use numbers instead of actions\nthat are broad, use physical details. Instead of naming the emotion, describe\nwhat it actually felt like. This is the moment everything shifted. Some people hear turning point. They think about rock bottom, a breakdown,\na life changing crisis, something big enough\nto make a documentary about."
+    },
+    {
+      "source_id": "261dc98e-d1f0-4c1d-92c2-ae81e40856ff",
+      "citation_number": 24,
+      "cited_text": "if the first line doesn't immediately grab the viewer in short form video You're Dead the second point on hooks that's extremely powerful and something I overlooked for a long time is that visual hooks are 10 times more more effective than Audio Only hooks what does this mean when you're on the screen and you're saying something but the only thing the viewer can see is your mouth moving and maybe the captions dancing that's going to be way less effective than if you put a visual on the screen for them to look and react to because people's eyes perceive faster than their ears can hear so you want to complement what you're saying with a visual on the screen this is a visual hook somebody that's really good at this is my friend Kevin from epic gardening if you watch his videos he immediately shows a visual that confirms what what he's talking about like this one about strawberries before I hear anything he says I see a strawberry on the screen it's Vivid red immediately I know this video"
+    },
+    {
+      "source_id": "261dc98e-d1f0-4c1d-92c2-ae81e40856ff",
+      "citation_number": 25,
+      "cited_text": "is going to be about strawberries if I like strawberries I'm going to stick around to see what he's saying now I've started testing this and I've noticed the visual hook aspect has been super helpful at retaining viewers so in summary when you're thinking about your hook get to the point and show while you tell all right that's it for this one if you like this video and got value from it I host a free community for people that are trying to level up their content creators entrepreneurs marketers it's called Wavey world I've got all types of vide like this how to pick content topics editing tips how to create formats and series if you need content to help improve your business or build your personal brand you should be in there it's completely free in the meantime keep me posted on what you thought of this video and we'll see you guys on the next one peace"
+    },
+    {
+      "source_id": "40509e39-1f7c-48ff-ad76-81160ad0f944",
+      "citation_number": 26,
+      "cited_text": "Both work,\nbut they do completely different things. For me, I am a big, beautiful person. It doesn't just feel space,\nit carries the emotion that the words can't hold on their own. Sometimes that bureau is something\nthat I filmed myself and sometimes it's something I find on Storyblocks. Either way,\nthe intention is the same show. Don't just tell. There are plenty of ways to do this. Apps, spreadsheets, paper, force memos. Whatever gets the ideas out of your head and onto something\nyou can actually reference on shoot day."
+    },
+    {
+      "source_id": "40509e39-1f7c-48ff-ad76-81160ad0f944",
+      "citation_number": 27,
+      "cited_text": "I have a notion template,\nand it has everything I need to know before pressing record,\nand here's how I use it. I copy my script line by line and place\neach line in the script column. Then right next to it,\nI write the visual idea that's in my head. What does this moment look like? What does the viewer need to see? What I'm saying? This. If the description feels clear\nenough on its own, I move on. But if I write something and then think\nI might forget what I actually meant by this, then I'll find a visual reference\nand paste it right there."
+    },
+    {
+      "source_id": "6057422d-52c1-4bb8-94ae-81f6a33ea94f",
+      "citation_number": 28,
+      "cited_text": "e is that your safety and health is in jeopardy if you're making entertainment content well then the stakes are some curiosityinducing scenario what's going to happen to that character why is the ball bouncing on her head will Mr beast outshoot Ronaldo in this soccer challenge in entertainment content it can really be any scenario but the key is you have to make the viewer want to care now if you're on the educational side which is what I mostly focus on the stakes are just the outcome that the viewer wants this could be more views more skills more customers more money more time back with their family and very simply if you know what outcome they actually want it's very easy to get them to care about the stakes now hook ingredient number three is speed you need to deliver the subject and the stakes in as few words as possible now this doesn't mean talking overly fast if you rush the delivery and the brain can't absorb the words fast enough an unabsorbed hook is just as bad as no hook t"
+    },
+    {
+      "source_id": "6057422d-52c1-4bb8-94ae-81f6a33ea94f",
+      "citation_number": 29,
+      "cited_text": "f the lay of the land on the design and you can pick whatever you like best and remix accordingly now much more important than the design of the title text is the copywriting the actual words you're using for that text and that's really what I want to double click on here i want you to be bulletproof in terms of how to do this right now i'm telling you understanding this one thing how to copyright on the title text is the highest leverage lever you could pull in improving your content all right so here are some core tenants for how to approach writing the text hook all right now the first thing is what should the text hook actually include from a substance perspective so I like to include a subject repeater plus a painoint reminder a desired outcome teaser or some potential future state change and I'll explain what those things are subject repeater is just the name of the core subject or the proper noun the technical term the actual jargon describing the name of the thing names and ter"
+    },
+    {
+      "source_id": "6057422d-52c1-4bb8-94ae-81f6a33ea94f",
+      "citation_number": 30,
+      "cited_text": "ms are like attention magnets for people especially if you capitalize them that's right where their eyes go a painoint reminder is just reminding someone of the pain point that you're planning to solve in the video so for example if you say to avoid hook mistakes hook mistakes are the pain you're avoiding so if you say that it'll remind them of it a dream outcome teaser is obviously teasing the dream outcome that you're going to solve in the video so this could be something like make your hooks unskippable the dream outcome is hooks that can't be skipped a potential future state change is just indicating that something has happened in the field that will change the future of how it works so it could be something like new storytelling method for modern virality right some new method is changing how virality works in the future so you're going to pick the subject repeater and then one of those three options to combine for example this hook by Cat Eyept one of her most viral ever is a sub"
+    },
+    {
+      "source_id": "6057422d-52c1-4bb8-94ae-81f6a33ea94f",
+      "citation_number": 31,
+      "cited_text": "tention now the good news is there's a pretty predictable formula for making this freeze happen on demand all your hook has to do is prompt and answer these two questions in the viewer's brain what is the video about and what will I get if I keep watching subject and outcome fundamentally a clear answer to those two questions is really all you need to hook someone now to actually make those questions pop in their head consistently you need these four hook ingredients i call them the four S's of hookw writing these are the building blocks of hooks and if you miss even one of these your hook will not hook number one is the subject every hook needs a crystal clear subject it can be a person an object a mission a place but regardless the viewer has to instantly know what or who the video is about now hook ingredient number two is the stakes and this is the outcome side of the equation the viewer must have a reason to care in order to make them freeze for the wolf example your reason to car"
+    },
+    {
+      "source_id": "6057422d-52c1-4bb8-94ae-81f6a33ea94f",
+      "citation_number": 32,
+      "cited_text": "ject repeater plus the painpoint reminder and she says people pleasing and that's why this did so well it's both a subject but it's also reminding of pain she's avoiding and that she's not going to go out of her way for the annoyance of people pleasing this one by Mav GPT is more of a subject repeater plus a desired outcome so he says chat GBT which is the subject and then says we'll sell things for you and that's the desired outcome by proxy making money now one more example this one from me is an example of a subject repeater and a state change of the future so I say Claude just changed social media forever implying that something happened with Claude that will change how you do the future of content or marketing so those are kind of three examples of the actual substance now ideally you want whatever you write in the text to have some curiosity baked in and all that means is that it includes teasing an outcome a pain point or a desire curiosity really just comes from some knowledge"
+    },
+    {
+      "source_id": "6057422d-52c1-4bb8-94ae-81f6a33ea94f",
+      "citation_number": 33,
+      "cited_text": "hink of speed like compression not just velocity and to help this make sense for why this is so important the brain can only hold so many words as it tries to discern meaning in a sentence think of it like Pac-Man eating little dots it can only eat so many dots before it's full if your hook is eight words versus 28 it's just way easier to remember all eight and contextually map the sentence so keep it short and keep it fast hook ingredient number four is super clear it's very critical that the way you say your hook can only be interpreted one way simple words no clever word play no vague setups because here's the hardest part about hooks if the viewer has to think for even half a second what you mean that thumb is going right back down and they're swiping away because the reality is temporary confusion is not worth their time in a sea of stimulation so those are really the four hook ingredients lading up to those two questions and that is the nuts and bolts of interrupt theory but now"
+    },
+    {
+      "source_id": "6057422d-52c1-4bb8-94ae-81f6a33ea94f",
+      "citation_number": 34,
+      "cited_text": "ing like people are trying to do these crazy things you don't need to overdo it i would focus most of your attention on text hooks and spoken hooks and then just add something little some little move a little lean in some little like arm movement put your hair up something like that it doesn't have to be crazy just some visual switch or some adjustment visually to stun the viewer i think that's all you need to do at the beginning over time you can engineer more movement in if you need to but you probably won't all right now before we end this video for the people that are still watching and really students of the content game I just wanted to put something in here deep deep sauce out of the bag I haven't really covered before most of the people will have churned by now so if you're sticking this will be a bonus for you when it comes to videos most people focus on the hook obviously that's what this is about the first 3 to 5 seconds but almost nobody talks about what comes right after t"
+    },
+    {
+      "source_id": "6057422d-52c1-4bb8-94ae-81f6a33ea94f",
+      "citation_number": 35,
+      "cited_text": "he hook call it the next 5 to 10 seconds after i call this the lockin zone and the reason I'm talking about this in this video is because the psychology of the lock-in zone you could argue is actually more important than the psychology of the hook itself if you think about it the hook is just meant to interrupt the scroll freeze the viewer and get them to give you a chance at the video but the lock-in zone the next two to four sentences is really where you earn the viewer's attention and get them to stay for the rest of it this actually is the most important part of the script the hook's just the appetizer this is really the thing that makes them stay for the whole meal now there are many more permutations of what can work in the lock-in zone beyond just the few that work for hooks so it'd be too hard for me to map every combination for how to actually approach the lock-in zone but psychologically there are only two things that happen during the lock-in zone and this happens every time"
+    },
+    {
+      "source_id": "6057422d-52c1-4bb8-94ae-81f6a33ea94f",
+      "citation_number": 36,
+      "cited_text": "number one is confirming the hook claim and number two is rapid trust evaluation just like on long form YouTube where you need to confirm the click from the title and thumbnail in the intro in short form you need to confirm the hook in the lockin zone and this is just to help ensure the viewer they're not getting bait and switched you didn't hook them on one topic and you're switching to something else now secondly and most importantly is the rapid trust evaluation and if there is one contrarian idea that I could hang my hat on when it comes to script writing it would be this given the current state of the internet with all these fake gurus making a strong claim in the hook is not enough to get someone to lock in they also have to trust that you as the messenger are not going to waste their time it'll actually give them the outcome that you've promised so this lock-in zone the two to four sentences right after the hook is really like a trial run to see if they should stay for the rest"
+    },
+    {
+      "source_id": "6057422d-52c1-4bb8-94ae-81f6a33ea94f",
+      "citation_number": 37,
+      "cited_text": "ke the character they expected faster than others this is why Gen Z consumers of AI prefer a Gen Z creator this is why if I'm going to pick an accounting creator I want an old guy with glasses a button-down shirt who writes on a yellow legal pad this level of relatability plays a big factor in the lock-in period now the fourth and last way you can get someone to lock in during this period which is the most important by far is proof and I often call this the trust anchor if you're making educational content having concrete proof in this lockin phase to prove that what you're claiming is true whether it's a study a case study some third-party reference some screenshot of proof that helps a ton if you look trustworthy you have premium packaging and you signal proof you have a much higher chance during this lock-in phase of someone actually settling in and wanting to continue watching and if you don't have any of these things even if you have a good hook it'll be hard to get them to lock i"
+    },
+    {
+      "source_id": "261dc98e-d1f0-4c1d-92c2-ae81e40856ff",
+      "citation_number": 38,
+      "cited_text": "rsation that's how you break down this barrier tone is one of those things that inevitably you will get better over time the more you film The more you forget that the camera is just a camera all right tip number four is Direction this may seem counterintuitive but the best place to start when you're writing a story is the end figure out what the end is going to be and then work backwards from there I like to call the last line of my script the last dab because I want it to be so memorable that if that's all someone heard they'd be willing to share it with a friend in short form video especially the video is designed to Loop so the last line is actually a setup for the first lines as it replays I think of this a lot like baseball the nine hitter is supposed to set the table for the top of the order it's the exact same thing with the last line or two of your video when you're thinking about how to write the script script focus on where you want to take the viewer what do you want to lea"
+    },
+    {
+      "source_id": "40509e39-1f7c-48ff-ad76-81160ad0f944",
+      "citation_number": 39,
+      "cited_text": "Maybe I should use this effect,\nbut almost never does this feel like me. Unfortunately, social media can confuse us\ninto thinking we should be more, do more. Instead of trusting your own direction. Now your viewer has followed you all the way here,\nso give them somewhere to go with it. If you\nwant to connect, don't ask for anything. Give something back instead. If today you picked up your camera. Wrote one line, sketch something messy, or even hit record on\nsomething you're not even sure about. Let me. Validate you."
+    },
+    {
+      "source_id": "40509e39-1f7c-48ff-ad76-81160ad0f944",
+      "citation_number": 40,
+      "cited_text": "That counts and give yourself credit. If you want to grow your audience,\nmake the ass feel like a natural extension of what they just felt. The difference is giving them a reason\nthat's about them, not about your numbers. If you want to promote something,\nthe story you just told has to genuinely connect\nto what you're offering. Before you pick up your camera. Know exactly what you want\nyour viewer to feel or how you want them to experience it. Do you want your viewer to be in the scene with you,\nor do you want to speak directly to them?"
+    },
+    {
+      "source_id": "261dc98e-d1f0-4c1d-92c2-ae81e40856ff",
+      "citation_number": 41,
+      "cited_text": "and Rhythm that is soothing to the brain you can hear in my delivery I'm pretty decent with this like natural EB and flow the rhythm of the syllables when I talk is soothing to listen to now I used to be a rapper and I was a drummer Growing Up So this pacing and rhythm is kind of embedded in me which I think is why I'm naturally good at talking in this way but I do have this tactical way that can improve anyone else at Rhythm take a look at this image which was written by the legendary author Gary Provost now listen as I read this this sentence has five words here are five more words five-word sentences are fine but several together become monotonous listen to what is happening this writing is getting boring the sound of it drones it's like a stuck record the ear demands some variety now listen I vary the sentence length and I create music music the writing sings it has a pleasant Rhythm a lilt a Harmony I use short sentences and I use sentences of medium length and sometimes when I'm"
+    },
+    {
+      "source_id": "261dc98e-d1f0-4c1d-92c2-ae81e40856ff",
+      "citation_number": 42,
+      "cited_text": "certain the reader is rested I will engage him with a sentence of considerable length a sentence that burns with energy and builds with all the impotence of a crescendo the roll of the drums the crash of the symbols sounds that say listen to this it is important so write with a combination of short medium and long sentences create a sound that pleases the reader's ear don't just write words write music you see how when all the sentences in the same row are about the same length it creates this monotonous predictability subconsciously people get turned off by this this is what makes them churn to the next video what you want is to use a variety of sentences and syllable combinations to create this unpredictable Rhythm now if you look at my script document I write every sentence on a separate line if you look straight down it'll look like a jagged edge and that confirms that I'm using different length sentences next time you're writing a script try to look for this if you see your docum"
+    },
+    {
+      "source_id": "40509e39-1f7c-48ff-ad76-81160ad0f944",
+      "citation_number": 43,
+      "cited_text": "it makes the process much faster\nand a lot less confusing. When I follow the shot list order, I always know where I am in the story\nand what's missing. Instead of jumping between clips\nand trying to make them fit later. Tip number three\nnot every cut needs a transition. Have you ever got so overstimulated\nwatching a video with back to back effects that you kind of forget\nwhat the video was even about? That's what happened when transitions\nbecome decoration instead of intention. When every cut has a worse\nevery scene, change has a flash."
+    },
+    {
+      "source_id": "40509e39-1f7c-48ff-ad76-81160ad0f944",
+      "citation_number": 44,
+      "cited_text": "Every moment has something\nhappening over it. The river stops feeling the story\nand they start feeling the edit. But when there's a shift in the story\nthat really needs to be felt, that's when I go and search for overlays,\nlight leaks, or film burn. Storyblocks has become my go to\nwhenever I need to strengthen the story through the edit. It's the one library\nI trust that I can find everything I need without overthinking. And they genuinely care about helping creators, which is why they\nkeep investing in videos like this one."
+    },
+    {
+      "source_id": "261dc98e-d1f0-4c1d-92c2-ae81e40856ff",
+      "citation_number": 45,
+      "cited_text": "ent and all the sentences seem to end at around the same point you don't have enough diversity and it will feel like this monotonous plotting all right lesson three is tone the most successful creators in every discipline are the ones with the most conversational Tone It really feels like you're right in the room with them Emma Chamberlain ascended to stardom so quickly because she was naturally amazing at this Casey iats another one that's really good at this when you watch his videos and you listen to him talk it feels like he's right in the room with you now the person I learned from most about this was Steve Jobs if you watch his original keynote from the first iPhone launch in 2008 he is amazing at creating this conversational room like you and him are just golf buddies shooting the shit now this is very intentional and took years of practice for him to hone in he's also very gifted at it by doing this Emma Casey Steve and others are able to break down that conscious barrier of pe"
+    },
+    {
+      "source_id": "261dc98e-d1f0-4c1d-92c2-ae81e40856ff",
+      "citation_number": 46,
+      "cited_text": "rsonal identity when you watch instead of you questioning to yourself am I getting sold to you get out of your own mind and just feel like you're in a conversation like you would have to answer a question that they ask you directly in a way you forget where you are and that's the magic of this now I'm still working on this myself I've only been making content for like 18 months but if you go back to my first 50 videos it really does feel like I'm talking at you instead of with you the best tactical way to get better than this other than just 100 reps is to write and film your videos as if you're talking to one close friend if you have to just print out a picture of them and tape it on the bottom of your camera lens so you're literally looking at them as you record and when you write your scripts make it so like you're typing a text or recording an audio note directly to them over time you'll get better at this conversational nature but it will feel like you're having a one-on-one conve"
+    },
+    {
+      "source_id": "40509e39-1f7c-48ff-ad76-81160ad0f944",
+      "citation_number": 47,
+      "cited_text": "or feel curious enough\nthat they need the next line. Every year I sit in the same spot\nat my grandma's house. Same photo albums and same pages. My advice stopped trying to keep up. There's one thing I do\nevery time I'm bored. Three months ago, I launched\nmy first digital product a la to pack. There are so many hook formulas on\nthe internet, but the one that works best is usually something you would actually\nsay to a friend in real life. Think\nof it like the opening scene of a film. You don't start with the character's\nentire life."
+    },
+    {
+      "source_id": "6057422d-52c1-4bb8-94ae-81f6a33ea94f",
+      "citation_number": 48,
+      "cited_text": "t verbal spoken they must be aligned if I watch the visual hook without the words or text hook I should be able to guess approximately what those will be and vice versa does the visual support the text and what's being said does the text support what the visuals are and what's being said does the spoken hook support the visuals and the text you could have the absolute best individual hook components in the world but if they don't align it will cause insane confusion for the viewer and they will scroll away of all the business owners that I work with one-on-one for content this is the one thing that they just get wrong every time they work on the spoken hook but they don't align all three hooks and that's why their videos fail all right now let's go through each of those three hooks and all the tactics I have i'm going to empty the bag empty the clip everything I have I'm going to put on the table right here this is as detailed as I've ever gone on each of these and I'll explain both th"
+    },
+    {
+      "source_id": "40509e39-1f7c-48ff-ad76-81160ad0f944",
+      "citation_number": 49,
+      "cited_text": "So if you found this helpful, subscribing\nis the best way to let them know. And it also means more content like this\nkeeps getting made. Tip number four. Don't be afraid of a slow pace. I love slow videos. I love making them. I love giving the viewer a room\nto actually feel something, instead of constantly stimulating\ntheir brain just to hold their attention. The right audience won't mind a few extra seconds in a shot,\nand if someone scrolls away just because your cut wasn't fast enough,\nthat's simply not your audience."
+    }
+  ]
+}

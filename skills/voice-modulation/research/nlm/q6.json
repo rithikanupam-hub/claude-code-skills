@@ -1,0 +1,169 @@
+{
+  "answer": "Based on the voice modulation literature and performance guidebooks in your sources, professional voice actors and audiobook narrators rely on structured preparation, technical studio protocols, and vocal care routines to deliver compelling, consistent performances:\n\n---\n\n### 1. Script Marking & Copy Preparation\nBefore approaching the microphone, performers analyze and physically annotate their scripts using pencil to establish a clear road map [1]:\n\n* **Pencil Notation**: Performers mark up text using a consistent shorthand to indicate planned breath points, pauses, non-pause phrasing, tempo shifts, and inflection changes [1]. Pencil is required because director instructions during recording sessions frequently require quick adjustments and erasing [2].\n* **Pitch Mapping**: Performers explicitly draw **up arrows** above words or phrases requiring a pitch lift (such as questions, reveals, or surprise) and **down arrows** for pitch drops (such as commands, threats, or punchlines) [3, 4].\n* **Lateral Reading**: To record long-form narration or \"cold copy\" without stumbles, talent practice scanning **2 to 3 words ahead** using peripheral vision [5, 6]. This allows the narrator to anticipate upcoming punctuation, question inflections, or difficult vocabulary before speaking the words aloud [5, 6].\n* **Lead-Ins (Pre-Sentencing)**: To hit the exact emotion on the very first word without a \"warm-up lag,\" actors silently think an un-spoken phrase (a \"lead-in\") right before starting the line to lock into character instantly [7].\n\n---\n\n### 2. Character Development & Differentiation\nCreating distinct, believable characters—especially across multi-character audiobooks or animation—requires systemic manipulation of vocal parameters rather than superficial mimicry:\n\n* **The Four Vocal Fundamentals**: Performers build characters by combining four independent vocal components [8, 9]:\n  1. **Pitch Range**: Wide pitch range signals high energy, youth, or excitement; narrow pitch range signals gravity, sadness, or quiet authority [9].\n  2. **Tempo**: Fast speech rate conveys panic, urgency, or enthusiasm; slow tempo conveys weight, sentimentality, or reflection [9, 10].\n  3. **Tone (Emotion)**: The specific emotional attitude driving the delivery (e.g., sarcastic, warm, sinister) [9, 11, 12].\n  4. **Volume / Dynamic Range**: Loudness highlights aggression or excitement, while soft volume communicates intimacy, tension, or secrecy [9, 12].\n* **Embodiment vs. Impersonation**: Actors are instructed to **embody the emotional truth** of a character (focusing on what the character wants and their physical/mental state) rather than attempting a karaoke-style imitation of another actor's vocal timbre [148–150, 451].\n* **Emotional Progression**: In long-form narrative, actors apply subtle sentence-to-sentence shifts in emotion (\"emotional progression\") to prevent the performance from settling into a flat, repetitive monotone [13].\n\n---\n\n### 3. Studio Discipline & \"Punch-and-Roll\" Recovery\nMaintaining momentum and managing audio technicalities in the recording booth is a core requirement of professional work:\n\n* **Delivering Complete Takes**: When a stumble or mispronunciation occurs, amateurs stop, break character, and make excuses (e.g., \"let me try that again\") [14, 15]. Professionals push through to deliver complete, uninterrupted takes, which preserves performance flow and keeps studio time efficient [14].\n* **Backtracking (Punching)**: During long-form narrative recording or stamina practice, if a stumble occurs, the established protocol is to **backtrack to the beginning of the previous phrase or sentence** and resume seamlessly from that boundary [16].\n* **Microphone Peak Management**: To manage sudden volume spikes without digital distortion or mic peaking, performers use a four-part strategy [17, 18]:\n  1. Moving physically further back from the capsule for loud moments [18].\n  2. Turning the mouth slightly off-axis to avoid direct air blasts [18].\n  3. Lowering hardware gain on the interface [18].\n  4. Adjusting software input gain as a safety buffer [18].\n\n---\n\n### 4. Vocal Care & Warm-Up Routines\nProtecting the vocal instrument and eliminating extraneous mouth artifacts are vital for clean audio capture:\n\n* **Physical Warm-Up Sequence**: Performers warm up the vocal apparatus before sessions using structured exercises [81–82, 394–396]:\n  1. **Breathing & Sighing**: Deep inhalation with arms raised, releasing vocalized sighs (\"ahhhh\") to relax the diaphragm [19].\n  2. **Lip Trills**: Articulating \"Ba, Ba, Ba\" and lip buzzes (\"brrrr\") to activate lip muscles [19].\n  3. **Tongue Agility**: Exaggerated \"la, la, la\" enunciation and rolling R's (\"rrrrr\") [82, 395–396].\n  4. **Vocal Sirens**: Gliding from a high \"weee\" down to a low \"awww\" (\"weeeaawww\") to stretch pitch range across registers [19, 20].\n* **Eliminating Tension**: Physical tightness in the jaw, neck, or shoulders restricts vocal resonance [21]. Performers drop their shoulders, keep hands unclenched, and use natural body gestures in the booth to ensure a loose, authentic read [21].\n* **Managing Mouth Noises & Breath Control**:\n  * **Lip Smacks**: Prevented by keeping the mouth slightly open for **2 seconds** before starting to speak and between sentences, rather than snapping the lips shut [22, 23].\n  * **Breath Artifacts**: Performers take a natural breath 2 seconds prior to the red light to avoid sudden gasps near the microphone capsule [23, 24].\n  * **Hydration**: Sipping water controls both \"wet mouth\" and \"dry mouth\" click noises [25, 26].\n\n---\n\n🎙️ Would you like to explore how to design a complete daily warm-up routine and script-marking template for audiobook narration practice?",
+  "conversation_id": "880b673b-cab4-488f-b8ec-d2bfbfb1f949",
+  "sources_used": [
+    "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "05ca0ea0-e166-4d42-8a63-8bdf1dfccf76",
+    "e86ce354-abd6-4a02-b628-35704c487308"
+  ],
+  "citations": {
+    "1": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "2": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "3": "05ca0ea0-e166-4d42-8a63-8bdf1dfccf76",
+    "4": "05ca0ea0-e166-4d42-8a63-8bdf1dfccf76",
+    "5": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "6": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "7": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "8": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "9": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "10": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "11": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "12": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "13": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "14": "05ca0ea0-e166-4d42-8a63-8bdf1dfccf76",
+    "15": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "16": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "17": "05ca0ea0-e166-4d42-8a63-8bdf1dfccf76",
+    "18": "05ca0ea0-e166-4d42-8a63-8bdf1dfccf76",
+    "19": "e86ce354-abd6-4a02-b628-35704c487308",
+    "20": "e86ce354-abd6-4a02-b628-35704c487308",
+    "21": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "22": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "23": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "24": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "25": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "26": "d56ce0a6-390a-4012-a26b-1a32d2353e26"
+  },
+  "references": [
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 1,
+      "cited_text": "IMPORTANT: ALWAYS MARK UP YOUR COPY!  A pencil is among the most useful tools in your voice-over kit. You can’t focus on thoughts if you are simultaneously trying to remember every nuance you had planned for expressing them. So every experienced voice talent has his or her own sort of short-hand for making notes on scripts. This notation process is called “marking up” the copy. Among things your copy mark-up should indicate are: where you plan to take each breath other pauses places NOT to pause changes in inflection changes in tempo anything else that will help you get through the script without distraction or error"
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 2,
+      "cited_text": "TIP: The team may cause you to change your initial analysis, and you’ll need to change your mark-up. Sometimes, you, yourself will decide to change something. Or you’ll want to take an entirely different copy approach. Now you know why to use a pencil during the session, not a pen. And why to bring the eraser. 3. Delivery/character development After the copy has been analyzed, it is time to establish the delivery/character. Part of a voice talent’s job is to establish an appropriate delivery. Once mastered, you appear professional, experienced, and polished. This section will discuss how to develop and maintain an appropriate delivery."
+    },
+    {
+      "source_id": "05ca0ea0-e166-4d42-8a63-8bdf1dfccf76",
+      "citation_number": 3,
+      "cited_text": "Where to Pitch Down Pitch down for: Threats and intimidation Serious revelations and weighty truths Moments of authority or command Resignation, defeat, or grief The \"punchline\" of a building intensity sequence How to Practice Pitch Variation Pull up a script you're working on and mark it with arrows. Up arrow on words or phrases that should pitch up. Down arrow on words that should pitch down. Be specific. Don't mark every other word, mark the moments where the meaning genuinely supports a pitch shift."
+    },
+    {
+      "source_id": "05ca0ea0-e166-4d42-8a63-8bdf1dfccf76",
+      "citation_number": 4,
+      "cited_text": "Where to Speed Up Lists, multiple beats stacked together. Excitement, anxiety, panic. Glossing over information that doesn't matter much (so the important stuff stands out). Comedic patter and rapid-fire delivery. Pauses Are Pace Tools Too A pause is the most extreme version of slowing down: stopping entirely. Strategic pauses are one of the most powerful tools in voice acting because beginners are afraid of them. Try this experiment. Take any line where your character is about to say something heavy, and add a one-beat pause before the loaded word. Then add a two-beat pause and try it again. Then a three-beat pause. You'll find that pauses much longer than feel comfortable in the moment actually play beautifully on the recording."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 5,
+      "cited_text": "To read laterally, focus two or three words ahead of the word that you are saying. Thus you always see what is coming up next and can be prepared for it. For example, If the script is: That is a car? And you were not reading laterally, you may have read it like this: That is a car. After reading the word “car” would you have then realized it should have been read with the inflection of a question. But by then, it is too late. Learning how to read cold copy is essential. Recall from Chapter 1 that most voice-over work is narration (e.g., a 12-hour audiobook, a one-hour documentary). It is virtually impossible to review and memorize this amount of text prior to recording."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 6,
+      "cited_text": "With a short script, hopefully you’ll have an opportunity to analyze it, and make mental or written notes. (See our thoughts about “marking up” copy, later in this chapter.) But only when a script is very short (e.g., a tag) will you likely be able to memorize it prior to recording. It takes a while to learn the lateral technique. But once it’s mastered, even the most difficult cold copy can be read smoothly, continuously, and flawlessly. It also makes perfect sense. After all, people think in phrases. People speak in phrases. When reading silently, most people read in phrases. The VO pro knows how to read aloud in phrases."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 7,
+      "cited_text": "However, then the common tendency of the voice-over artist is to over-compensate and give too much. If you’re unsure of how much character to give, begin with too much, as that will most likely be appropriate. And on the rare occasion when it is too much, you will impress the producer by demonstrating an ability to cover a large range - and that could lead to additional work. Develop a “lead-in” (also known as “pre-sentencing”). A lead-in is a word or phrase that you think (without actually saying it) prior to reading the script. This acts as a warm-up, and makes it easier to establish the character on the first word."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 8,
+      "cited_text": "Please review each section of this chapter in order, and do not skip any parts. Once you understand a section, move on to the next section while incorporating what you have previously learned. IMPORTANT: All techniques presented are guidelines, not rules set in stone. As with any voice-over script, there are always exceptions. 1. The four vocal components The speaking voice has four components: tone, volume, pitch, and tempo. In real life (natural conversation), we subconsciously use the appropriate amount of each, given the circumstance and intent of our conversation. This changes for each conversation, and throughout the conversation. When reading a voice-over script, it is necessary to do the same."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 9,
+      "cited_text": "Therefore, BEFORE READING A SINGLE WORD OUT LOUD, use the “4 Voice Funda-mentals” (below) to establish the character. These voice attributes are the major ingredients of every character. Different permutations will generate different characters. As discussed earlier: 1. Pitch range: Range of pitch helps indicate the amount of energy and excitement in a character. Typically, an emphatic, excited, or upbeat character will require a large pitch range, while a soft, serious, compassionate, or sad character will require a smaller pitch range (almost a monotone)."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 10,
+      "cited_text": "large pitch range: Welcome to the most amazing show in history! small pitch range: As I watched her die, I too felt like dying. 2. Tempo: This also dictates the amount of enthusiasm in a script. Tempo should match the “feel” of the copy. If the copy is upbeat, excited, or vigorous, use a faster tempo. If the copy is sad, emphatic, serious, or sentimental, use a slower tempo. fast tempo: But hurry, these prices are in effect for a limited time only. slow tempo: It took years, but finally, I found a broker willing to listen to me."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 11,
+      "cited_text": "IMPORTANT: Treat the four components independently from one another. In other words, when told to adjust one component, do not let the others change. Here are the four vocal components: Tone: Tone is the emotion in your voice. It is also known as the character, feeling, and the acting portion of your delivery. For example, everyone has a sad tone, a happy tone, a sarcastic tone, an angry tone, an enthusiastic tone, and so on. In fact, we have a different tone for every adjective in the dictionary. Unless your script requires tonal changes, your tone should remain consistent throughout the recording. In other words, if reading a happy script, remain happy throughout the entire script. This is like natural conversation, where we usually remain in the same tone until a new circumstance occurs."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 12,
+      "cited_text": "3. Tone: Tone portrays the emotion. A strong tone is jarring, powerful, announcing, and robust. A soft tone portrays an intimate, sad, warm, and seductive character. strong tone: As we head into 2019, we will remain #1! soft tone: What my family needs is an insurance agent we can count on. 4. Volume (dynamic range):  This attribute shows emotion. A loud volume suggests anger, excitement, and irritation. Soft volume suggests intimacy, warmth, and affection. loud volume: Hey that’s my kid who just scored … that Power-Bar really paid off!"
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 13,
+      "cited_text": "Similarly, in many scripts, especially those that tell stories (audiobooks, some commercials, cartoons, and so on), each sentence carries a different thought. In these scripts, your emotions should also progress, however subtle the changes. The flow of emotions – an “emotional progression” – is key to making a script interesting, and keeping your chosen tone relevant to the listener and what you’re saying. But be careful. The difference from sentence to sentence is often a subtle distinction. So think of it more as a mind-set, and don’t overdo this technique. Adding too much emotion will sound theatrical, even silly … and wrong!"
+    },
+    {
+      "source_id": "05ca0ea0-e166-4d42-8a63-8bdf1dfccf76",
+      "citation_number": 14,
+      "cited_text": "When you're recording a take and you stumble on a word, mispronounce something, or feel that the line didn't quite land, the amateur instinct is to stop, sigh, mutter \"let me try that again,\" and reset. The professional move is to keep going. Working voice actors deliver complete takes without breaking, even when small things go wrong. They recover in real time, smooth over stumbles, adjust on the fly. The whole take continues. Why does this matter? Editing is faster with complete takes. Engineers can pick the best version of a line from multiple complete takes. They can't easily piece together fragments. It builds the discipline of staying in character. If you're a professional booking studio time, you can't afford to keep stopping. The clock is running. Your recovery skills get sharper. The more you push through stumbles instead of resetting, the better you get at making the recovery itself feel natural. It approximates live performance conditions. Some voice work happens in front of clients in real time, and you can't pause and redo when they're listening."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 15,
+      "cited_text": "Having composure means that you are: Confident: When at the microphone, be confident. Assume you can do it, and “go for it.” Do not be hesitant or reserved. If you make a mistake, correct it and continue. No need to say, “I’m sorry.” (Producers tend to grimace when a voice actor repeatedly says “I’m sorry.”) Competent: Be sure to know your stuff. Remember your training. Comfortable: Even if you have to fake it (with or without a client), be comfortable when at the microphone. Even if it’s your first job, pretend you’ve done this a million times before. Take a breath before beginning. Take your time. Enjoy the process. Remember these things, and you’ll sound SO much better!"
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 16,
+      "cited_text": "HOW?  Again, record everything you practice, but this time up to one-minute. If you stumble, just backtrack to the beginning of the previous phrase/sentence, and begin there – that’s what professionals do. c. Eventually build up your stamina by incorporating multiple techniques and reading 10-minute long passages. Again, if you stumble, just backtrack to the beginning of the previous phrase/sentence, and begin there. (Please take note that very, VERY few professionals can read for 10 minutes without stumbling … in fact many professionals can only get through two or three-minutes before stumbling. So don’t be concerned if you stumble along the way, and remember that the goal of this exercise is to increase your stamina.)"
+    },
+    {
+      "source_id": "05ca0ea0-e166-4d42-8a63-8bdf1dfccf76",
+      "citation_number": 17,
+      "cited_text": "Practice this by physically miming the action while you record. If your character is throwing a punch, throw the punch with your body while you say the line. Your voice will naturally find the percussive emphasis on the right word. The Microphone Peaking Problem One important warning about projection: every increase in volume risks peaking your microphone. Peaking is when your audio signal exceeds what the microphone or recording software can handle, resulting in nasty digital distortion that ruins the take."
+    },
+    {
+      "source_id": "05ca0ea0-e166-4d42-8a63-8bdf1dfccf76",
+      "citation_number": 18,
+      "cited_text": "If you're going to use big dynamic contrast in your performances, you need to manage your microphone setup so that your loudest moments don't blow out. There's a four-part strategy for managing this: Distance. The simplest fix. Move physically further from the microphone for your loudest moments. A few inches makes a huge difference. A foot makes a massive difference. Angle. Speak slightly off-axis for big moments. Instead of speaking directly into the capsule, angle your mouth a few degrees to the side. The mic still picks you up clearly but doesn't take the full blast of air and volume. Hardware gain. Lower the input gain on your audio interface. This reduces how much signal the microphone is sending to your computer, giving you more headroom before peaking. Software gain. In your recording software, reduce the input level. This works as a final safety buffer."
+    },
+    {
+      "source_id": "e86ce354-abd6-4a02-b628-35704c487308",
+      "citation_number": 19,
+      "cited_text": "Any time you're going to talk\nto anybody important, do these. First, arms up, deep breath in, and sigh out, ahhhhh, like that. One more time. Ahhhh, very good. Now we're going to warm up our lips, and we're going to go Ba, Ba, Ba, Ba, Ba, Ba, Ba, Ba. Very good. And now, brrrrrrrrrr, just like when you were a kid. Brrrr. Now your lips\nshould be coming alive. We're going to do the tongue next with exaggerated la, la, la,\nla, la, la, la, la, la. Beautiful. You're getting\nreally good at this. And then, roll an R. Rrrrrrr."
+    },
+    {
+      "source_id": "e86ce354-abd6-4a02-b628-35704c487308",
+      "citation_number": 20,
+      "cited_text": "That's like champagne for the tongue. Finally, and if I can only do one, the pros call this the siren. It's really good. It starts\nwith \"we\" and goes to \"aw.\" The \"we\" is high, the \"aw\" is low. So you go, weeeaawww, weeeaawww. Fantastic. Give yourselves\na round of applause. Take a seat, thank you. (Applause) Next time you speak, do those in advance. Now let me just put this\nin context to close. This is a serious point here. This is where we are now, right? We speak not very well to people who simply aren't listening"
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 21,
+      "cited_text": "2. Vocal freedom / tension-free read Vocal freedom is a vocal quality that makes you sound professional. A tension-free delivery sounds natural and authentic, and listeners are more apt to remain engaged and trust what you say in your recording. (When tension is apparent in your vocal delivery, listeners are more likely to hear your recording as a “fake” and tune it out.) Reading without tension means that you are: Vocally loose: Achieve this by letting your mouth, throat, and voice box be loose. Keep your hands open (not clenched). Drop your shoulders. Ensure your veins are not popping out of your forehead. Simply let your body be free, loose, without constriction. This works well even when performing high-energy scripts. Let it be easy. Physical (using body language): Body language helps you sound natural, because we use body language and hand gestures when speaking in real life. Incorporating body language into your vocal delivery helps 99% of voice actors’ sound significantly more authentic. It also helps relieve tension. Uninhibited: Think you sing better in the shower? That’s because you’re uninhibited when no one can hear you. So do the same when recording … even if other people are hearing you. Let it go. You’ll sound better! Carefree: Have fun, let go, enjoy the process, and do not try too hard."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 22,
+      "cited_text": "By avoiding these extraneous noises, you will give the engineer less to edit out of the recording, therefore creating a greater chance of repeat business. The following section will illustrate how to keep extraneous noises under control. Lip smacks occur every time we open and close our mouths. This is a (generally) faint “smack” noise. This sound is only noticeable when it occurs in unnatural places. And there are three instances when we unnaturally close and open our mouths: Prior to recording, there will be a tendency to quickly close and open your mouth before beginning. To prevent this smack noise at the beginning of the recording, keep your mouth open for at least 2 seconds before recording. Some people have a habit of closing their mouths between sentences. This causes a smack noise between every sentence. Keep your mouth open between sentences, as you do in natural conversation. It is intuitive to close the mouth at the completion of a very important phrase or sentence. The intent of closing of the mouth is to create a more dramatic effect, which will signify how important the sentence was. Do not do this. Instead of creating a dramatic effect, the “smack” comes across sounding odd to the listener, and adds noise that the engineer has to edit out."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 23,
+      "cited_text": "In the field of voice-over, there are three times when breathing can be detrimental to a recording: 1. Right before recording, there is an inclination to take a deep breath, in order to have enough air for the entire sentence. However, this is not necessary in natural conversation, nor should it be necessary in voice-over. To prevent this unnatural breath noise, take a natural-sized breath, but take it two seconds before recording. This ensures that there will not be a breath noise so close to the first word of the script that the engineer cannot edit it out."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 24,
+      "cited_text": "These symptoms are exacerbated the more nervous the voice talent is. In fact, the worse the symptoms, the more difficult it is to overcome them. Hence, the best solution is not to be nervous in the first place. By employing the following series of breathing and relaxation exercises, voice talent can control “butterflies” from the start and remain composed throughout the recording. En route to the recording session, take slow, deep breaths in through the nose and out through the mouth. Sense the body’s reaction. At the recording studio, but prior to recording, breathe lightly in through the nose and out through the mouth. If possible, leave the studio and take some deeper breaths, again in through the nose and out through the mouth, this time vocalizing exhalations (mixing air and sound - as in “aahhhh”). Sense the body’s reaction."
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 25,
+      "cited_text": "In front of the microphone (both before the red recording light goes on and in between takes), breathe lightly in and out through the mouth. Close the eyes, sip a drink, and sense the relaxation of the voice. It is essential to be relaxed when reading in front of a group of people - especially when all focus and eyes are on you. In fact, part of a professional athlete’s training includes learning how to disregard cheering (or booing) fans. The way to remain calm is to incorporate the previous relaxation techniques with the following exercises:"
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 26,
+      "cited_text": "Many people have wet mouth, a recording problem in which wet, “clammy” mouths produce “click” noises. (See “wet mouth” under “Recording Sessions” for rem- edies.) Dry mouth is another recording obstacle many people have. Dry mouth also pro- duces “click” noises. (See “dry mouth” under “Recording Sessions” for remedies). During normal conversation, we take breathing for granted. Since breathing is necessary, making it work to your advantage is key. Most importantly, try not to think about it, as this will most likely allow you to read without a breathing problem. Once you are conscious of breathing, breathing problems become more pronounced."
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "answer": "**Brand voice** and **sonic branding** (also referred to as *audio branding* or *sonic identity*) represent the strategic management of a brand’s acoustic presence across all consumer touchpoints [1, 2]. Rather than viewing sound as generic background fill or a one-off advertising gimmick, the literature defines sonic branding as **everything a brand stands for in the audio medium**—using voice, music, functional sound design, and acoustic cues to communicate brand identity, build memory structures, and shape consumer perceptions [1, 242–246].\n\n---\n\n### Core Components of a Sonic Brand\nA complete sonic brand identity goes beyond a simple jingle to form an integrated **sonic ecosystem** [3, 4], comprising several distinctive brand assets:\n\n1. **The Sonic Logo**: A short, recognizable sound sequence (typically 3 to 6 notes or 1–3 seconds long) serving as the acoustic equivalent of a visual logo (e.g., the Intel chime or NBC chimes) [115, 245, 268–269].\n2. **Brand Voice**: The human or AI-generated voice used across spoken communications, voice assistants, and narrations [238–239, 245].\n3. **Brand Themes and Anthems**: Bespoke musical tracks created exclusively for the brand to accompany longer-form media [5, 6].\n4. **Functional Product & Interface Sounds**: Diagnostic audio cues that confirm user interactions or convey product quality (e.g., computer startup sounds, card reader confirmation tones, or luxury car door closure sounds) [42, 245–246, 254–257].\n5. **Soundscapes & Atmospherics**: Acoustic ambient environments designed for retail spaces, exhibits, or digital platforms [5, 7].\n\n---\n\n### How to Define a Sonic Voice & Identity\n\nDefining a sound or vocal identity is a structured exercise in **perception management**—aligning internal brand values with consumer perceptions using cognitive and crossmodal principles [8, 9]:\n\n* **1. Establish Crossmodal Congruence (\"Brand Fit\")**:\n  Auditory features must match the brand’s visual identity, product function, and core personality traits [5, 31–32, 281]. For example, \"sincere\" brands require consistent crossmodal alignment, whereas \"innovative\" brands can leverage dynamic or unconventional musical contours [288–289]. Congruence between visual colors and music genres significantly enhances brand personality perceptions [5, 183–186].\n* **2. Use the Semantic Differential Technique (SDT)**:\n  Brands should systematically measure the connotative meaning of candidate sound assets using bipolar rating scales [10-12]. By mapping brand attributes against audio scales—such as **novelty** (*conventional to unconventional*), **mood** (*heavy to light*), **scale** (*intimate to grand*), **timbre** (*dull to bright*), and **instrumentation** (*organic to synthetic*)—designers ensure objective acoustic alignment with brand positioning [13].\n* **3. Harness Sound Symbolism and Semiotics**:\n  Acoustic properties intrinsically convey extra-musical meaning [14-16]. High-pitched, vibrating, or bright timbres naturally evoke technology or agility (as seen in the Intel logo) [17, 18], while warmer, lower-frequency, or organic timbres communicate luxury, reliability, or warmth [19, 20].\n* **4. Build Melodic Structures Tied to Taglines**:\n  To maximize recall, sonic logos should be built around short melodic motifs where the pitch progression directly mirrors the syllable count and vocal intonation of the brand name or tagline (e.g., the four notes of \"Intel Inside\" or lyric identifiers in insurance logos) [117, 271–273].\n* **5. Target Consumer Self-Congruity**:\n  Consumers prefer brands whose musical and vocal personalities match their own personality traits and self-image [21-23]. Defining a brand voice requires aligning the voice’s emotional tone with the self-identity of the target audience [24, 25].\n\n---\n\n### Principles for Keeping a Sonic Identity Consistent\n\nTo maintain a recognizable sonic brand over time without creating acoustic fatigue, organizations should adhere to five core operational principles:\n\n1. **Integrate Early (Avoid the \"Cinderella Effect\")**:\n   Sound is frequently treated as \"the Cinderella of the brand world\"—left in the kitchen while copy and imagery go to the ball [26]. Brands must incorporate sonic identity decisions at the initial concept stage alongside visual and copy development, rather than adding music as a last-minute finishing touch [107–109, 158].\n2. **Codify Brand Standards & Create a Sonic Style Guide**:\n   Just as visual guidelines govern logo usage, managers must establish a formal **sonic style guide** [27]. This codifies how brand assets should be expressed across every touchpoint—from TV ads and podcasts to UI chimes and smart speaker apps [242, 308–309].\n3. **Employ \"Signature Expressions\" (Flexible Adaptability)**:\n   A rigid sound logo played identically everywhere can alienate listeners [28]. Instead, brands should treat their audio identity like a human signature: **keep the core musical melody/intervals invariant** while flexibly adapting tempo, instrumentation, tonality, and rhythm to suit different emotional, cultural, or situational contexts [118–120, 203–204, 274–275].\n4. **Eliminate Subjective Executive Bias & \"Reverse Branding\"**:\n   Music choices are often derailed by executives selecting tracks based on personal taste or chasing trendy commercial songs [29-31]. Licensing famous songs can cause **\"reverse branding\"**, where consumers remember the artist (e.g., Led Zeppelin) but forget the brand [29]. Brand voice decisions must be grounded in objective testing rather than personal preference [30-32].\n5. **Monitor Asset Wear-In, Wear-Out, and Crossmodal Fluency**:\n   Repeated exposure builds brand familiarity via the *auditory mere exposure effect* and guides visual attention toward brand products [284–286]. However, brand managers must regularly test asset recall, salience, and emotional alignment to refresh aging arrangements before cultural relevancy wanes [248–249, 306–307].\n\n---\n\n💡 Would you like to create an executive brief or audio strategy proposal outlining how a brand could map its voice identity using the Semantic Differential Technique?",
+  "conversation_id": "880b673b-cab4-488f-b8ec-d2bfbfb1f949",
+  "sources_used": [
+    "689a3160-c3e0-4120-bcbf-02240482b7b1",
+    "df8c1470-f395-4ddd-9c7f-096a9e2c57e1",
+    "d56ce0a6-390a-4012-a26b-1a32d2353e26"
+  ],
+  "citations": {
+    "1": "689a3160-c3e0-4120-bcbf-02240482b7b1",
+    "2": "df8c1470-f395-4ddd-9c7f-096a9e2c57e1",
+    "3": "df8c1470-f395-4ddd-9c7f-096a9e2c57e1",
+    "4": "df8c1470-f395-4ddd-9c7f-096a9e2c57e1",
+    "5": "df8c1470-f395-4ddd-9c7f-096a9e2c57e1",
+    "6": "df8c1470-f395-4ddd-9c7f-096a9e2c57e1",
+    "7": "689a3160-c3e0-4120-bcbf-02240482b7b1",
+    "8": "df8c1470-f395-4ddd-9c7f-096a9e2c57e1",
+    "9": "df8c1470-f395-4ddd-9c7f-096a9e2c57e1",
+    "10": "df8c1470-f395-4ddd-9c7f-096a9e2c57e1",
+    "11": "df8c1470-f395-4ddd-9c7f-096a9e2c57e1",
+    "12": "df8c1470-f395-4ddd-9c7f-096a9e2c57e1",
+    "13": "df8c1470-f395-4ddd-9c7f-096a9e2c57e1",
+    "14": "689a3160-c3e0-4120-bcbf-02240482b7b1",
+    "15": "689a3160-c3e0-4120-bcbf-02240482b7b1",
+    "16": "df8c1470-f395-4ddd-9c7f-096a9e2c57e1",
+    "17": "689a3160-c3e0-4120-bcbf-02240482b7b1",
+    "18": "689a3160-c3e0-4120-bcbf-02240482b7b1",
+    "19": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+    "20": "df8c1470-f395-4ddd-9c7f-096a9e2c57e1",
+    "21": "689a3160-c3e0-4120-bcbf-02240482b7b1",
+    "22": "689a3160-c3e0-4120-bcbf-02240482b7b1",
+    "23": "689a3160-c3e0-4120-bcbf-02240482b7b1",
+    "24": "689a3160-c3e0-4120-bcbf-02240482b7b1",
+    "25": "689a3160-c3e0-4120-bcbf-02240482b7b1",
+    "26": "689a3160-c3e0-4120-bcbf-02240482b7b1",
+    "27": "df8c1470-f395-4ddd-9c7f-096a9e2c57e1",
+    "28": "689a3160-c3e0-4120-bcbf-02240482b7b1",
+    "29": "689a3160-c3e0-4120-bcbf-02240482b7b1",
+    "30": "689a3160-c3e0-4120-bcbf-02240482b7b1",
+    "31": "689a3160-c3e0-4120-bcbf-02240482b7b1",
+    "32": "df8c1470-f395-4ddd-9c7f-096a9e2c57e1"
+  },
+  "references": [
+    {
+      "source_id": "689a3160-c3e0-4120-bcbf-02240482b7b1",
+      "citation_number": 1,
+      "cited_text": "Sound branding: The role of music in consumer perceptions, behaviours, and practitioner beliefs Alison C. Wong Submitted in fulfilment of the requirements for the degree of Doctor of Philosophy Department of Music, University of Sheffield December 2018 Abstract This thesis investigates the role of music in branding and its impacts on consumer perceptions and behaviours. Sound branding (also called ‘audio branding’ or ‘sonic branding’) is the use of sound to represent a brand, build a brand identity, and"
+    },
+    {
+      "source_id": "df8c1470-f395-4ddd-9c7f-096a9e2c57e1",
+      "citation_number": 2,
+      "cited_text": "sound like (or more importantly, what their brands should sound like), given that the consumer’s interaction with brands in these digital environments is primarily driven by sound rather than sight (e.g., Argo, Popa, and Smith, 2010; Farinella, 2009; Hein, 2006; Ogilvy Consulting, 2019; Pickup, 2017; Volker and Milton, 2019). 1.1. Defining ‘Sonic Branding’ and ‘Distinctive Brand Assets’ Inevitably, the question of what a brand should “sound like\" has led to a focus on the design principles that are used to create a sonic brand. Cognitive researchers and marketing practitioners alike would do well to"
+    },
+    {
+      "source_id": "df8c1470-f395-4ddd-9c7f-096a9e2c57e1",
+      "citation_number": 3,
+      "cited_text": "The emphasis here when building a sonic brand is on the design of sonic experiences (note the plural) that can occur at multiple points of the consumer’s interaction (aka “touch points”) with the brand: The music and messaging heard after calling a help-line; the distinctive soundscapes that play in the background in retail establishments; the functional sounds that provide feedback as part of a user interface; the soundtrack and/or voiceover used in an advertisement; the sound that a product makes when used by the consumer. Taken"
+    },
+    {
+      "source_id": "df8c1470-f395-4ddd-9c7f-096a9e2c57e1",
+      "citation_number": 4,
+      "cited_text": "likely be an example of incongruency operating at more of a conceptual/semantic level, as well as between a different pair of senses, and hence additional research is needed. 6. Crossmodal Correspondences and Sound Symbolism Success in creating a distinct and recognisable sonic identity involves having a consistent, coherent presence (and presentation) across multiple auditory touch-points that comprise the totality of a brand’s sonic ecosystem. These may include everything from television, radio, and digital audio advertising to user"
+    },
+    {
+      "source_id": "df8c1470-f395-4ddd-9c7f-096a9e2c57e1",
+      "citation_number": 5,
+      "cited_text": "Keller, S. and Spence, C., 2023.  Sounds like Branding: Cognitive Principles and Crossmodal Considerations for the Design of Successful Sonic Logos. Expert Journal of Marketing, 11(2), pp.91-117. voice used in brand communications; Spence, 2022), functional sounds (sonic cues used as a part of a user interface to provide feedback), brand themes (typically music tracks, anthems, and/or jingles exclusive to the brand), soundscapes (sound or a combination of sounds associated with an environment), and more."
+    },
+    {
+      "source_id": "df8c1470-f395-4ddd-9c7f-096a9e2c57e1",
+      "citation_number": 6,
+      "cited_text": "in length, and around three seconds long (see Bonde and Hanson, 2013; May, 2019). The melodic motifs used as sonic logos for Intel, McDonalds, T-Mobile, Coca-Cola, Mastercard, StateFarm, CBS, and Shell are all examples of short, five to six note sonic logos. As mentioned in Section 2.5, certain of these melodic-based sonic logos were not originally designed as short mnemonic devices, but were rather shortened versions of longer brand themes, as was the case of McDonalds (where the five note sonic logo was “lifted” from the much longer “I’m Lovin’ It” brand theme"
+    },
+    {
+      "source_id": "689a3160-c3e0-4120-bcbf-02240482b7b1",
+      "citation_number": 7,
+      "cited_text": "The interviewees believe that background music is more easily ‘misused’ compared to the sound logo because it is, as its name implies, less autonomous in nature. According to CW, the ‘misuse’ of sound is when it is neither ‘strategically nor intentionally applied’ as a branding element (CW). In the quote below, SC describes how background music can be a strategic branding component: SC: People talk about sound branding on two levels. One, to the point that it equates, a jingle, an audio logo, what have you, and that’s direct. But, in background music, it's associative or influencing or persuasive music that’s being played. And it’s always connected to something, whether that be a TV commercial or in a shop. It’s got its own challenges that way. Strategically, it needs to fit what it’s connected to, but it’s also got to be part of the brand identity. Unfortunately, more often than not, it’s just not executed that way."
+    },
+    {
+      "source_id": "df8c1470-f395-4ddd-9c7f-096a9e2c57e1",
+      "citation_number": 8,
+      "cited_text": "considerations for one of the most common sonic assets, namely the sonic logo. Crucially, the question of how these sonic logos come to be associated with brands, and the extent to which their perceptual and affective qualities ought to match the attributes and personality of the brand, are experimentally tractable research questions. Principles drawn from the cognitive (neuro-)sciences, including the emerging field of research on crossmodal correspondences, are explored, providing actionable insights for those wanting to design successful sonic brands. The use of"
+    },
+    {
+      "source_id": "df8c1470-f395-4ddd-9c7f-096a9e2c57e1",
+      "citation_number": 9,
+      "cited_text": "acknowledge the role of cognitive associations and perception in seeking to answer that question. If a brand is not simply what a company tells their consumers that it is, but is rather what the consumer perceives it to be (Neumeier, 2015), then branding (and by extension, sonic branding) can be framed as an exercise in perception management that attempts to align company propositions with the experiences of the consumer. In other words, “…the consumer meaning of a brand is manifested as an integrated perception that is derived from experience"
+    },
+    {
+      "source_id": "df8c1470-f395-4ddd-9c7f-096a9e2c57e1",
+      "citation_number": 10,
+      "cited_text": "the semantic differential technique is also discussed as a means of systematically assessing the connotative alignment between a product, company, or brand and the distinctive sonic assets which together comprise the brand’s sonic identity as a whole. Keywords: sonic logo, sound design, sonic branding, crossmodal correspondences, sound symbolism, semantic differential technique JEL Classification: M31, M32 1. Introduction There has been an explosive growth of interest in the subject of sonic branding, in the two decades"
+    },
+    {
+      "source_id": "df8c1470-f395-4ddd-9c7f-096a9e2c57e1",
+      "citation_number": 11,
+      "cited_text": "relevant brand attributes/personality in some corresponding manner (see also MacInnis and Park, 1991). It is here that the literature on the aforementioned semantic differential technique (Osgood et al., 1957) may be particularly helpful in terms of establishing a match between the connotative meaning of a given product or brand and the sonic logos being considered to represent the so-called brand personality (see Müller and Kirchgeorg, 2010). The emerging literature on the crossmodal correspondences (Motoki, Saito, Nouchi,"
+    },
+    {
+      "source_id": "df8c1470-f395-4ddd-9c7f-096a9e2c57e1",
+      "citation_number": 12,
+      "cited_text": "of attributing a range of affective meanings/associations to stimuli/concepts. In fact, it has already been used with some success in quantifying the perceived space between brands and musical pieces in an emotional space (Baker, Trahan, and Mullensiefen, 2016; cf. Palmer, Schloss, Xu, and Prado-León, 2013). Such promising results suggest that the use of the SDT provides a means of aligning brand attributes and personality with the desirable attributes of a sonic logo. Such an exercise might involve the construction of scales designed to"
+    },
+    {
+      "source_id": "df8c1470-f395-4ddd-9c7f-096a9e2c57e1",
+      "citation_number": 13,
+      "cited_text": "reflect both brand attributes and audio parameters together, which could inform the development of a sonic palette for use by the brand. For example, scales might be created for novelty (conventional to unconventional), mood (heavy to light), attitude (excited to relaxed), scale (intimate to grand), instrumentation (organic to synthetic), timbre (dull to bright), pitch (low to high), style (simple to sophisticated), etc. It is interesting to consider that the SDT approach may also provide guidelines for matching, or at least selecting between,"
+    },
+    {
+      "source_id": "689a3160-c3e0-4120-bcbf-02240482b7b1",
+      "citation_number": 14,
+      "cited_text": "sound branding is to convey meanings about the brand. The suggestion that sound contains information that serves as a signifier of brand associations draws from the field of musical semiotics (Monelle, 2000; Tagg & Clarida, 2003) that is predicated on the idea that musical materials have meaning that, in turn, can come to be representative of the brand. Through enculturation, listeners have come to associate particular sounds with particular meanings that contribute to the formation of brand associations. Evidence for musical signification comes from music listening studies"
+    },
+    {
+      "source_id": "689a3160-c3e0-4120-bcbf-02240482b7b1",
+      "citation_number": 15,
+      "cited_text": "Existing research, surveyed in chapter 2, shows that sound can contain information that serves as a signifier of brand associations (see chapter 2). I associate this with semiotic theory (Monelle, 2000; Tagg & Clarida, 2003) that is predicated on the idea that musical materials have meaning that, in turn, can come to be representative of the brand. Brands can use music to ‘prime’ or activate knowledge networks in order to influence and affect perceptions and behaviours (North & Hargreaves, 2007). There"
+    },
+    {
+      "source_id": "df8c1470-f395-4ddd-9c7f-096a9e2c57e1",
+      "citation_number": 16,
+      "cited_text": "emerging literature on crossmodal correspondences (e.g., Spence, 2011a; Spence and Sathian, 2020), not to mention sound symbolism (e.g., Nuckolls, 1999; Shrum, Lowrey, Luna, Lerman, and Liu, 2012; Sidhu and Pexman, 2018; Spence, 2012; Westbury, Hollis, Sidhu, and Pexman, 2018), it may be possible to establish which auditory features best convey a particular brand attribute or association (see also Görne, Kuldkepp, and Troschka, 2021; Oyama, Yamada, and Iwasawa, 1998; Sunaga, 2018), and the extent to which distinctive sonic"
+    },
+    {
+      "source_id": "689a3160-c3e0-4120-bcbf-02240482b7b1",
+      "citation_number": 17,
+      "cited_text": "the potential of sound branding: LO: We should use it to help brands understand why it’s worked so well so they get the potential of sound branding. Intel needed a sound logo to represent its product because, you know, it’s a chip processor that’s stored in a computer and that isn’t something you see. It’s really not what you’re buying, either. You’re buying the computer. They did a really smart thing by creating a sound logo because it was a way to make consumers aware of its brand. And so that’s why a logo was perfect. They could tag it onto the end of all the computer commercials, and it would stand out and be remembered. The sound of the logo itself, though, they also hit that out of the park. It sounds like tech, you know? It’s bright, has resonance and vibrating-like qualities that makes you think of machines, and it’s got four notes that match to ‘In-tel In-side.’  This is how I explain what good sound branding is, in context, whenever a brand wants their version of the Intel logo."
+    },
+    {
+      "source_id": "689a3160-c3e0-4120-bcbf-02240482b7b1",
+      "citation_number": 18,
+      "cited_text": "because the logo incorporates sounds that people typically associate with technology: LO: The sound of the [Intel] logo itself, though, they also hit that out of the park. It sounds like tech, you know? It’s bright, has resonance and vibratinglike qualities that makes you think of machines, and it’s got four notes that match to ‘In-tel In-side. As interviewee AL talked about opportunities to expand the potential of the sound logo, she described her company’s relatively new approach to it, which is to"
+    },
+    {
+      "source_id": "d56ce0a6-390a-4012-a26b-1a32d2353e26",
+      "citation_number": 19,
+      "cited_text": "3. Tone: Tone portrays the emotion. A strong tone is jarring, powerful, announcing, and robust. A soft tone portrays an intimate, sad, warm, and seductive character. strong tone: As we head into 2019, we will remain #1! soft tone: What my family needs is an insurance agent we can count on. 4. Volume (dynamic range):  This attribute shows emotion. A loud volume suggests anger, excitement, and irritation. Soft volume suggests intimacy, warmth, and affection. loud volume: Hey that’s my kid who just scored … that Power-Bar really paid off!"
+    },
+    {
+      "source_id": "df8c1470-f395-4ddd-9c7f-096a9e2c57e1",
+      "citation_number": 20,
+      "cited_text": "logos while a decrease in heart rate was associated with slow-paced long sonic logos instead. What is more, fade-up, pitch-ascending fast sonic logos were rated as more exciting while descending-pitch logos were rated as more pleasant (see also Bonde and Hansen, 2013). There is also evidence that the particular sound (i.e. timbre) of the instruments used when creating sonic logos can influence a consumer’s perception of the brand’s personality (Puligadda and VanBergen, 2022). According to a series of studies conducted by the latter"
+    },
+    {
+      "source_id": "689a3160-c3e0-4120-bcbf-02240482b7b1",
+      "citation_number": 21,
+      "cited_text": "on consumers’ perceptions of a brand’s personality, and whether this is mediated by consumers’ own music preferences and personalities. The study showed that music can influence perceptions of a brand’s personality and that brand personalities created using music are liked more by people with similar personality traits to that of the brand. In addition, music genres can strengthen or mediate brand personality perceptions when presented in conjunction with colour. Together these findings highlight the importance of congruence within the practice of sound branding: sound"
+    },
+    {
+      "source_id": "689a3160-c3e0-4120-bcbf-02240482b7b1",
+      "citation_number": 22,
+      "cited_text": "practice in recent years with the rise of celebrities endorsing brands and in market research focus groups, where consumers are asked to imagine and describe the brand as a person, including their personalities (Azoulay & Kapferer, 2003). Research has shown that brand personality can increase consumer preference and usage of the brand (Sirgy, 1982), evoke positive emotions in consumers (Biel, 1993), as well as increase the strength of the consumer-brand relationship (Doyle, 1990) and build brand trust and loyalty (Fournier, 1994)."
+    },
+    {
+      "source_id": "689a3160-c3e0-4120-bcbf-02240482b7b1",
+      "citation_number": 23,
+      "cited_text": "section presents a review of studies that investigate the contribution of other sensory stimuli, such as colour and font type, to brand personality, as well as an examination of practical applications of music that convey brand personality, to supplement the limited research and provide a useful frame of reference. The concept of ‘fit’ is often used to refer to congruence between branding stimuli as perceived by consumers (North & Hargreaves, 2007; Alpert et al., 2005; Brodsky, 2011). The theoretical framework underpinning this concept relies on semantic"
+    },
+    {
+      "source_id": "689a3160-c3e0-4120-bcbf-02240482b7b1",
+      "citation_number": 24,
+      "cited_text": "ET also emphasized that ‘emotion’ is the single biggest contributing factor that music can add to brand identity, and he applies this as a selling point he uses for how he practices sound branding that implies this is the value that he brings to the companies: AW: What is it about music that you believe can contribute to a brand’s identity? ET: Sure.  One thing that - well, in a word, it’s emotion.  And the connection between a brand and a customer is an emotional connection.  So there’s all research out there that shows people generally buy products not because it’s the best product or because it’s the cheapest product but because they have an emotional connection to the brand for a variety of differences. Music is an area in which that can be strengthened. And I’m definitely on the creative side. I’m into the selection of music that’s emotionally relevant to the customers and that’s brand-appropriate based on the music itself."
+    },
+    {
+      "source_id": "689a3160-c3e0-4120-bcbf-02240482b7b1",
+      "citation_number": 25,
+      "cited_text": "the greater the congruity between human personality and brand personality characteristics, the greater the preference for the brand. To my knowledge, this is the first study to investigate and show that music can express brand personality characteristics as perceived by consumers and that a brand is liked more by a consumer when its personality expressed by music is similar to that of the consumer’s personality. In doing so, this study presents a different perspective towards assessing ‘fit’, the congruence between branding stimuli, by using brand personality as the"
+    },
+    {
+      "source_id": "689a3160-c3e0-4120-bcbf-02240482b7b1",
+      "citation_number": 26,
+      "cited_text": "incorporated into the process at the same time, but it is not recognized as such within the branding industry: JH: Sound is a Cinderella of the brand world, and she's left in the kitchen whilst her ugly sisters copy and image go to the ball. That's the way I put it. And it's a bit fanciful, but it kind of is like that. Other interviewees agree with JH’s sentiment with suggestions that the current process represents a significant missed opportunity for sound branding. The interview transcripts included comments such as ‘we don’t get to show what sound can do for a"
+    },
+    {
+      "source_id": "df8c1470-f395-4ddd-9c7f-096a9e2c57e1",
+      "citation_number": 27,
+      "cited_text": "requires the consistent use of a brand’s distinctive sonic assets across multiple channels, which in turn requires the adoption and enforcement of brand standards. As with a brand’s visual identity, mangers will need to codify guiding principles, develop sonic style guides, and enforce the adoption of standards to maintain consistency over time. This is particularly important as digital platforms and related technologies have expanded the sonic ecosystem. Whether the brand’s sonic identity is experienced in the context of a videogame, through user"
+    },
+    {
+      "source_id": "689a3160-c3e0-4120-bcbf-02240482b7b1",
+      "citation_number": 28,
+      "cited_text": "been used historically. They described their current practice as comprising one-off designs of a sound logo and soundtracks that support a physical space or background music used in TV or radio commercials, and which vary seasonally or with the change of an advertising campaign. This use of sound does not adhere to what the interviewees consider to be ‘branding best practice,’ which is that companies must intentionally and strategically keep their brands consistent with very little (if any) variation in order to build recognition in the marketplace: as stated by interviewee"
+    },
+    {
+      "source_id": "689a3160-c3e0-4120-bcbf-02240482b7b1",
+      "citation_number": 29,
+      "cited_text": "The ‘monkey wrench’ in CW’s quote refers to potentially competing identities being presented by brands and artists that may alter and affect consumer perception when they are combined. An artist may not necessarily complement or reinforce a brand’s identity and, in some cases, an artist’s identity may be stronger than that of the brand’s, resulting in what interviewee MC calls ‘reverse branding’: MC: It's called reversed branding, where you attach an artist to a brand and people remember, ‘Hey! How about those cool ads with Led Zeppelin playing that song, ‘Rock and Roll?’ I can't remember what the car was though.’ That's actually a state of disconnect in branding as a result of poor strategic planning."
+    },
+    {
+      "source_id": "689a3160-c3e0-4120-bcbf-02240482b7b1",
+      "citation_number": 30,
+      "cited_text": "Sounding like Coldplay is not going to make your brand differentiated, and it's not going to make it differentiated from anybody else.  It's going to make your brand sound like Coldplay, which isn't your brand.  So it's funny when you're on the other side hearing people, how they make their decisions. CW attributes the weight of decision making placed on subjectivity and personal opinions to two reasons: firstly, without musical knowledge or education, decision makers are too heavily influenced by their own musical preferences and that prevents"
+    },
+    {
+      "source_id": "689a3160-c3e0-4120-bcbf-02240482b7b1",
+      "citation_number": 31,
+      "cited_text": "References Aaker, D. A. (1991). Managing brand equity. New York: The Free Press. Aaker, D. A. (1996). Building strong brands. New York: The Free Press. Aaker, J. L. (1997). Dimensions of brand personality. Journal of Marketing Research, 34(3), 347-356. Aaker, J. L., Fournier, S., Brasel, A. (2004). When good brands do bad. Journal of Consumer Research, 31(1), 1-16. Allan, D. (2007). Sound advertising: a review of the experimental evidence on the effects of music in commercials on attention, memory, attitudes, and purchase intention. Journal of Media Psychology, 12 (3), 1-35."
+    },
+    {
+      "source_id": "df8c1470-f395-4ddd-9c7f-096a9e2c57e1",
+      "citation_number": 32,
+      "cited_text": "ability to make more science based, objective decisions regarding the design of sonic logos (and other Keller, S. and Spence, C., 2023.  Sounds like Branding: Cognitive Principles and Crossmodal Considerations for the Design of Successful Sonic Logos. Expert Journal of Marketing, 11(2), pp.91-117. distinctive sonic assets). In turn, these design parameters can be measured to ensure their effectiveness in producing the desired results (see Figure 1 for a summary of the measurable parameters of effective sonic"
+    }
+  ]
+}
